@@ -1,0 +1,8304 @@
+[{
+    "lesson_id": "740-11025",
+    "lesson_name": "交互动画理论实践（一）",
+    "lesson_time": "19:1818"
+},
+{
+    "lesson_id": "740-11026",
+    "lesson_name": "交互动画理论实践（二）",
+    "lesson_time": "25:2519"
+},
+{
+    "lesson_id": "740-11027",
+    "lesson_name": "动效网站设计欣赏与练习技巧",
+    "lesson_time": "09:0120"
+},
+{
+    "lesson_id": "726-10452",
+    "lesson_name": "课程简介",
+    "lesson_time": "07:331"
+},
+{
+    "lesson_id": "726-10453",
+    "lesson_name": "Pexpect库概要",
+    "lesson_time": "09:592"
+},
+{
+    "lesson_id": "726-10454",
+    "lesson_name": "spawn类详解（一）1",
+    "lesson_time": "12:173"
+},
+{
+    "lesson_id": "726-10455",
+    "lesson_name": "spawn类详解（一）2",
+    "lesson_time": "07:424"
+},
+{
+    "lesson_id": "726-10456",
+    "lesson_name": "spawn类详解（二）1",
+    "lesson_time": "12:435"
+},
+{
+    "lesson_id": "726-10457",
+    "lesson_name": "spawn类详解（二）2",
+    "lesson_time": "10:136"
+},
+{
+    "lesson_id": "726-10458",
+    "lesson_name": "spawn类详解（三）1",
+    "lesson_time": "11:377"
+},
+{
+    "lesson_id": "726-10459",
+    "lesson_name": "spawn类详解（三）2",
+    "lesson_time": "10:468"
+},
+{
+    "lesson_id": "726-10460",
+    "lesson_name": "spawn类详解（四）",
+    "lesson_time": "14:469"
+},
+{
+    "lesson_id": "726-10461",
+    "lesson_name": "应用案例—FTP文件管理1",
+    "lesson_time": "14:2610"
+},
+{
+    "lesson_id": "726-10462",
+    "lesson_name": "应用案例—FTP文件管理2",
+    "lesson_time": "14:2411"
+},
+{
+    "lesson_id": "726-10463",
+    "lesson_name": "应用案例—FTP文件管理3",
+    "lesson_time": "07:3512"
+},
+{
+    "lesson_id": "726-10464",
+    "lesson_name": "其它工具和类1",
+    "lesson_time": "14:3713"
+},
+{
+    "lesson_id": "726-10465",
+    "lesson_name": "其它工具和类2",
+    "lesson_time": "19:1014"
+},
+{
+    "lesson_id": "726-10466",
+    "lesson_name": "其它工具和类3",
+    "lesson_time": "04:2015"
+},
+{
+    "lesson_id": "726-10467",
+    "lesson_name": "ssh专用类",
+    "lesson_time": "12:3416"
+},
+{
+    "lesson_id": "726-10523",
+    "lesson_name": "ssh专用类应用项目实例1",
+    "lesson_time": "11:3517"
+},
+{
+    "lesson_id": "726-10524",
+    "lesson_name": "ssh专用类应用项目实例2",
+    "lesson_time": "11:4318"
+},
+{
+    "lesson_id": "319-6461",
+    "lesson_name": "一款web社区产品",
+    "lesson_time": "46:551"
+},
+{
+    "lesson_id": "679-10067",
+    "lesson_name": "思维导图的概念和原理",
+    "lesson_time": "13:541"
+},
+{
+    "lesson_id": "679-10068",
+    "lesson_name": "思维导图的绘制方法",
+    "lesson_time": "08:402"
+},
+{
+    "lesson_id": "679-10069",
+    "lesson_name": "思维导图在产品经理工作中的应用",
+    "lesson_time": "20:353"
+},
+{
+    "lesson_id": "679-10070",
+    "lesson_name": "思维导图软件介绍—Mindmanager",
+    "lesson_time": "18:294"
+},
+{
+    "lesson_id": "679-10071",
+    "lesson_name": "思维导图软件介绍—Xmind",
+    "lesson_time": "17:145"
+},
+{
+    "lesson_id": "530-7270",
+    "lesson_name": "串口实验之理论基础",
+    "lesson_time": "27:381"
+},
+{
+    "lesson_id": "530-7271",
+    "lesson_name": "串口实验之代码实现分析演示（1）-串口初始化及发送代码讲解",
+    "lesson_time": "29:482"
+},
+{
+    "lesson_id": "530-7272",
+    "lesson_name": "串口实验之代码实现分析演示（2）-串口接收代码讲解及在板演示",
+    "lesson_time": "37:553"
+},
+{
+    "lesson_id": "855-12549",
+    "lesson_name": "服务介绍",
+    "lesson_time": "15:361"
+},
+{
+    "lesson_id": "855-12550",
+    "lesson_name": "服务和活动通信",
+    "lesson_time": "15:432"
+},
+{
+    "lesson_id": "855-12551",
+    "lesson_name": "服务的生命周期",
+    "lesson_time": "13:183"
+},
+{
+    "lesson_id": "855-12552",
+    "lesson_name": "前台服务与IntentService",
+    "lesson_time": "28:294"
+},
+{
+    "lesson_id": "855-12553",
+    "lesson_name": "远程服务",
+    "lesson_time": "26:195"
+},
+{
+    "lesson_id": "855-12554",
+    "lesson_name": "service综合",
+    "lesson_time": "29:026"
+},
+{
+    "lesson_id": "886-13019",
+    "lesson_name": "就业前景和制作概况",
+    "lesson_time": "12:531"
+},
+{
+    "lesson_id": "886-13020",
+    "lesson_name": "软件界面介绍",
+    "lesson_time": "15:222"
+},
+{
+    "lesson_id": "886-13021",
+    "lesson_name": "软件界面介绍2",
+    "lesson_time": "10:363"
+},
+{
+    "lesson_id": "886-13022",
+    "lesson_name": "素材的导入和管理",
+    "lesson_time": "09:484"
+},
+{
+    "lesson_id": "886-13023",
+    "lesson_name": "时间线上视频素材剪辑",
+    "lesson_time": "18:005"
+},
+{
+    "lesson_id": "886-13024",
+    "lesson_name": "时间线上音频和字幕的制作",
+    "lesson_time": "09:246"
+},
+{
+    "lesson_id": "886-13025",
+    "lesson_name": "多个出点入点的剪辑",
+    "lesson_time": "12:337"
+},
+{
+    "lesson_id": "886-13026",
+    "lesson_name": "时间线上视频的覆盖",
+    "lesson_time": "11:018"
+},
+{
+    "lesson_id": "886-13027",
+    "lesson_name": "中高级剪辑方法-波纹滚动内滑外滑",
+    "lesson_time": "12:199"
+},
+{
+    "lesson_id": "886-13028",
+    "lesson_name": "静音独奏音量历史记录",
+    "lesson_time": "12:5610"
+},
+{
+    "lesson_id": "886-13029",
+    "lesson_name": "音频增益音量",
+    "lesson_time": "13:5011"
+},
+{
+    "lesson_id": "886-13030",
+    "lesson_name": "特殊音效",
+    "lesson_time": "15:2712"
+},
+{
+    "lesson_id": "417-5261",
+    "lesson_name": "背景介绍",
+    "lesson_time": "17:301"
+},
+{
+    "lesson_id": "417-5262",
+    "lesson_name": "课程介绍",
+    "lesson_time": "16:382"
+},
+{
+    "lesson_id": "417-5265",
+    "lesson_name": "浅谈ARM",
+    "lesson_time": "23:543"
+},
+{
+    "lesson_id": "417-5263",
+    "lesson_name": "初识Cortex-M系列CPU（1）",
+    "lesson_time": "16:264"
+},
+{
+    "lesson_id": "417-5264",
+    "lesson_name": "初识Cortex-M系列CPU（2）",
+    "lesson_time": "18:595"
+},
+{
+    "lesson_id": "417-5266",
+    "lesson_name": "MDK简介及下载安装",
+    "lesson_time": "24:336"
+},
+{
+    "lesson_id": "417-5267",
+    "lesson_name": "MDK的使用方法及其它工具介绍（1）",
+    "lesson_time": "21:287"
+},
+{
+    "lesson_id": "417-5268",
+    "lesson_name": "MDK的使用方法及其它工具介绍（2）",
+    "lesson_time": "32:158"
+},
+{
+    "lesson_id": "417-5269",
+    "lesson_name": "MDK的使用方法及其它工具介绍（3）",
+    "lesson_time": "26:049"
+},
+{
+    "lesson_id": "417-5270",
+    "lesson_name": "Cortex系列CPU的体系结构及指令集",
+    "lesson_time": "16:0710"
+},
+{
+    "lesson_id": "417-5271",
+    "lesson_name": "ARM汇编语言学习",
+    "lesson_time": "30:1411"
+},
+{
+    "lesson_id": "417-5272",
+    "lesson_name": "Cortex-M架构CPU的内核寄存器和处理器的操作模式",
+    "lesson_time": "30:5412"
+},
+{
+    "lesson_id": "417-5273",
+    "lesson_name": "Cortex-M架构CPU存储系统的特点",
+    "lesson_time": "22:3113"
+},
+{
+    "lesson_id": "417-7559",
+    "lesson_name": "Cortex-M架构CPU内核的存储系统",
+    "lesson_time": "23:4814"
+},
+{
+    "lesson_id": "417-5274",
+    "lesson_name": "Cortex-M架构CPU异常和中断的处理",
+    "lesson_time": "27:5715"
+},
+{
+    "lesson_id": "417-5275",
+    "lesson_name": "Cortex-M架构CPU的复位及复位时序",
+    "lesson_time": "35:2816"
+},
+{
+    "lesson_id": "417-5276",
+    "lesson_name": "实验课程前的软件准备工作（1）",
+    "lesson_time": "26:3417"
+},
+{
+    "lesson_id": "417-5277",
+    "lesson_name": "实验课程前的硬件准备工作（2）",
+    "lesson_time": "28:0918"
+},
+{
+    "lesson_id": "752-10803",
+    "lesson_name": "课程介绍",
+    "lesson_time": "10:471"
+},
+{
+    "lesson_id": "752-10804",
+    "lesson_name": "访问Http资源之HttpUrlConnection（上）",
+    "lesson_time": "16:142"
+},
+{
+    "lesson_id": "752-10805",
+    "lesson_name": "访问Http资源之HttpUrlConnection（下）",
+    "lesson_time": "14:293"
+},
+{
+    "lesson_id": "752-10806",
+    "lesson_name": "访问Http资源之HttpUrlConnection上传文件（上）",
+    "lesson_time": "10:344"
+},
+{
+    "lesson_id": "752-10807",
+    "lesson_name": "访问Http资源之HttpUrlConnection上传文件（下）",
+    "lesson_time": "33:495"
+},
+{
+    "lesson_id": "752-10808",
+    "lesson_name": "访问Http资源之HttpGet和HttpPost",
+    "lesson_time": "16:566"
+},
+{
+    "lesson_id": "752-10809",
+    "lesson_name": "访问Http资源之OKHttp",
+    "lesson_time": "13:037"
+},
+{
+    "lesson_id": "752-10810",
+    "lesson_name": "访问Http资源之解析Json",
+    "lesson_time": "12:198"
+},
+{
+    "lesson_id": "752-10811",
+    "lesson_name": "访问Http资源之解析Xml",
+    "lesson_time": "23:159"
+},
+{
+    "lesson_id": "70-711",
+    "lesson_name": "NDK初步1-介绍ndk及JNI应用详解",
+    "lesson_time": "18:471"
+},
+{
+    "lesson_id": "70-712",
+    "lesson_name": "NDK初步2-NDK上手学习",
+    "lesson_time": "17:582"
+},
+{
+    "lesson_id": "70-713",
+    "lesson_name": "NDK初步3-通过demo学习ndk",
+    "lesson_time": "17:503"
+},
+{
+    "lesson_id": "70-714",
+    "lesson_name": "NDK初步4-JAVA的JNI应用详解1",
+    "lesson_time": "17:244"
+},
+{
+    "lesson_id": "70-715",
+    "lesson_name": "NDK初步5-JAVA的JNI应用详解2",
+    "lesson_time": "16:555"
+},
+{
+    "lesson_id": "70-716",
+    "lesson_name": "NDK初步6-ndk应用实例",
+    "lesson_time": "14:256"
+},
+{
+    "lesson_id": "111-930",
+    "lesson_name": "PRD-功能列表",
+    "lesson_time": "16:161"
+},
+{
+    "lesson_id": "111-931",
+    "lesson_name": "PRD-功能详细说明",
+    "lesson_time": "08:192"
+},
+{
+    "lesson_id": "111-932",
+    "lesson_name": "PRD-页面结构图",
+    "lesson_time": "09:273"
+},
+{
+    "lesson_id": "111-933",
+    "lesson_name": "PRD-用例和规则",
+    "lesson_time": "06:194"
+},
+{
+    "lesson_id": "111-934",
+    "lesson_name": "PRD-原型图",
+    "lesson_time": "06:245"
+},
+{
+    "lesson_id": "111-935",
+    "lesson_name": "PRD-其他需求",
+    "lesson_time": "06:096"
+},
+{
+    "lesson_id": "111-936",
+    "lesson_name": "PRD-案例总结",
+    "lesson_time": "10:217"
+},
+{
+    "lesson_id": "593-8618",
+    "lesson_name": "软件整体的UI设计分析",
+    "lesson_time": "21:161"
+},
+{
+    "lesson_id": "593-8619",
+    "lesson_name": "开发规范",
+    "lesson_time": "17:412"
+},
+{
+    "lesson_id": "593-8620",
+    "lesson_name": "自定义tab(1)",
+    "lesson_time": "18:263"
+},
+{
+    "lesson_id": "593-8621",
+    "lesson_name": "自定义tab(2)",
+    "lesson_time": "26:464"
+},
+{
+    "lesson_id": "593-8622",
+    "lesson_name": "自定义tab+fragment实现页面的切换",
+    "lesson_time": "25:335"
+},
+{
+    "lesson_id": "593-8623",
+    "lesson_name": "自定义tab+viewpage实现页面的滑动点击切换",
+    "lesson_time": "18:506"
+},
+{
+    "lesson_id": "593-8624",
+    "lesson_name": "自定义组合控件实现广告轮询(1)",
+    "lesson_time": "18:347"
+},
+{
+    "lesson_id": "593-9006",
+    "lesson_name": "自定义组合控件实现广告轮询(2)",
+    "lesson_time": "15:208"
+},
+{
+    "lesson_id": "593-9007",
+    "lesson_name": "自定义组合控件实现广告轮询(3)",
+    "lesson_time": "19:479"
+},
+{
+    "lesson_id": "593-9008",
+    "lesson_name": "解决ScrollView和Viewpager之间的滑动冲突",
+    "lesson_time": "14:2310"
+},
+{
+    "lesson_id": "593-9009",
+    "lesson_name": "ScrollView嵌套GridView实现页面整体的滑动(1)",
+    "lesson_time": "18:5811"
+},
+{
+    "lesson_id": "593-9010",
+    "lesson_name": "ScrollView嵌套GridView实现页面整体的滑动(2)",
+    "lesson_time": "22:1912"
+},
+{
+    "lesson_id": "593-9011",
+    "lesson_name": "GridView 伪FootView的实现",
+    "lesson_time": "11:4813"
+},
+{
+    "lesson_id": "593-9012",
+    "lesson_name": "自定义上拉更多框架(1)",
+    "lesson_time": "14:0814"
+},
+{
+    "lesson_id": "593-9013",
+    "lesson_name": "自定义上拉更多框架(2)",
+    "lesson_time": "16:2215"
+},
+{
+    "lesson_id": "593-9014",
+    "lesson_name": "自定义上拉更多框架(3)",
+    "lesson_time": "20:3216"
+},
+{
+    "lesson_id": "593-9015",
+    "lesson_name": "自定义上拉更多框架(4)",
+    "lesson_time": "28:0217"
+},
+{
+    "lesson_id": "593-9016",
+    "lesson_name": "动画+手势实现搜索页面（1）",
+    "lesson_time": "23:2218"
+},
+{
+    "lesson_id": "593-9017",
+    "lesson_name": "动画+手势实现搜索页面（2）",
+    "lesson_time": "25:5819"
+},
+{
+    "lesson_id": "593-9018",
+    "lesson_name": "通过组合控件实现设置页面（1）",
+    "lesson_time": "21:2620"
+},
+{
+    "lesson_id": "593-9019",
+    "lesson_name": "通过组合控件实现设置页面（2）",
+    "lesson_time": "16:4821"
+},
+{
+    "lesson_id": "593-9020",
+    "lesson_name": "通过Gallery实现图片的滑动效果",
+    "lesson_time": "24:1122"
+},
+{
+    "lesson_id": "481-6104",
+    "lesson_name": "android实战之项目介绍",
+    "lesson_time": "08:451"
+},
+{
+    "lesson_id": "481-6105",
+    "lesson_name": "项目使用框架",
+    "lesson_time": "18:212"
+},
+{
+    "lesson_id": "481-6106",
+    "lesson_name": "android项目实战之延时跳转",
+    "lesson_time": "10:363"
+},
+{
+    "lesson_id": "481-6107",
+    "lesson_name": "android项目实战之滑动效果",
+    "lesson_time": "20:194"
+},
+{
+    "lesson_id": "481-6163",
+    "lesson_name": "欢迎页面分支跳转",
+    "lesson_time": "10:295"
+},
+{
+    "lesson_id": "481-6164",
+    "lesson_name": "android项目实战之底部导航UI实现",
+    "lesson_time": "11:476"
+},
+{
+    "lesson_id": "481-6165",
+    "lesson_name": "android实战之底部导航关联fragment切换",
+    "lesson_time": "21:547"
+},
+{
+    "lesson_id": "481-6166",
+    "lesson_name": "android实战之城市定位",
+    "lesson_time": "22:098"
+},
+{
+    "lesson_id": "481-6539",
+    "lesson_name": "android实战之MySql数据库的部署及导入",
+    "lesson_time": "17:579"
+},
+{
+    "lesson_id": "481-6540",
+    "lesson_name": "android实战之服务器端城市列表接口实现",
+    "lesson_time": "21:1710"
+},
+{
+    "lesson_id": "481-6541",
+    "lesson_name": "android实战之客户端城市列表显示",
+    "lesson_time": "25:2911"
+},
+{
+    "lesson_id": "481-6542",
+    "lesson_name": "android实战之自定义view的SiderBar",
+    "lesson_time": "16:0212"
+},
+{
+    "lesson_id": "481-6543",
+    "lesson_name": "android项目实战之滑动监听的实现",
+    "lesson_time": "20:4313"
+},
+{
+    "lesson_id": "481-6544",
+    "lesson_name": "android实战之首页数据类型显示",
+    "lesson_time": "17:3014"
+},
+{
+    "lesson_id": "481-6803",
+    "lesson_name": "android实战之分类条目展示",
+    "lesson_time": "23:4115"
+},
+{
+    "lesson_id": "481-6804",
+    "lesson_name": "android实战之数据库中商品字段及服务端实现",
+    "lesson_time": "18:0016"
+},
+{
+    "lesson_id": "481-6805",
+    "lesson_name": "android项目实战之测试获取服务端数据",
+    "lesson_time": "17:5017"
+},
+{
+    "lesson_id": "481-6806",
+    "lesson_name": "android项目实战之商品列表数据的渲染",
+    "lesson_time": "17:1518"
+},
+{
+    "lesson_id": "481-6807",
+    "lesson_name": "android实战之基于PullToRefreshListView显示团购列表",
+    "lesson_time": "16:2519"
+},
+{
+    "lesson_id": "481-6808",
+    "lesson_name": "android项目实战之商品详情布局编码",
+    "lesson_time": "22:5020"
+},
+{
+    "lesson_id": "481-6948",
+    "lesson_name": "android项目实战之团购详情页面数据渲染",
+    "lesson_time": "13:4921"
+},
+{
+    "lesson_id": "481-6949",
+    "lesson_name": "android项目实战之团购详情页面数据渲染2",
+    "lesson_time": "13:1222"
+},
+{
+    "lesson_id": "481-6950",
+    "lesson_name": "android项目实战之高德地图api配置工程",
+    "lesson_time": "08:3423"
+},
+{
+    "lesson_id": "481-6951",
+    "lesson_name": "android项目实战之高德地图定位当前位置",
+    "lesson_time": "20:1424"
+},
+{
+    "lesson_id": "481-7005",
+    "lesson_name": "android实战之周边商品显示算法实现",
+    "lesson_time": "22:3625"
+},
+{
+    "lesson_id": "481-7006",
+    "lesson_name": "android实战之地图标记周边团购信息",
+    "lesson_time": "21:2626"
+},
+{
+    "lesson_id": "481-7123",
+    "lesson_name": "android实战之我的模块布局实现",
+    "lesson_time": "14:4527"
+},
+{
+    "lesson_id": "481-7124",
+    "lesson_name": "android实战之我的模块登录布局呈现",
+    "lesson_time": "25:3128"
+},
+{
+    "lesson_id": "481-7125",
+    "lesson_name": "android实战之我的模块登录验证",
+    "lesson_time": "17:0529"
+},
+{
+    "lesson_id": "481-7126",
+    "lesson_name": "android实战之应用的三方登陆",
+    "lesson_time": "21:1230"
+},
+{
+    "lesson_id": "481-7127",
+    "lesson_name": "android项目实战之短信验证倒计时",
+    "lesson_time": "18:4231"
+},
+{
+    "lesson_id": "481-7128",
+    "lesson_name": "android项目实战之短信验证码实现",
+    "lesson_time": "23:0832"
+},
+{
+    "lesson_id": "481-7129",
+    "lesson_name": "android项目实战之注册实现及收尾",
+    "lesson_time": "09:0433"
+},
+{
+    "lesson_id": "884-12998",
+    "lesson_name": "androidstudio的认识",
+    "lesson_time": "14:491"
+},
+{
+    "lesson_id": "884-12999",
+    "lesson_name": "gradle的使用",
+    "lesson_time": "22:392"
+},
+{
+    "lesson_id": "884-13000",
+    "lesson_name": "android Studio中apk的签名",
+    "lesson_time": "16:343"
+},
+{
+    "lesson_id": "884-13001",
+    "lesson_name": "apk应用的发布(一)",
+    "lesson_time": "18:324"
+},
+{
+    "lesson_id": "884-13002",
+    "lesson_name": "apk应用发布(二)",
+    "lesson_time": "20:215"
+},
+{
+    "lesson_id": "884-13003",
+    "lesson_name": "多渠道打包(一)",
+    "lesson_time": "17:216"
+},
+{
+    "lesson_id": "884-13004",
+    "lesson_name": "多渠道打包(二)",
+    "lesson_time": "18:107"
+},
+{
+    "lesson_id": "884-13005",
+    "lesson_name": "多渠道打包(三)",
+    "lesson_time": "15:348"
+},
+{
+    "lesson_id": "884-13006",
+    "lesson_name": "代码混淆(一)",
+    "lesson_time": "23:499"
+},
+{
+    "lesson_id": "884-13007",
+    "lesson_name": "代码混淆（二）",
+    "lesson_time": "10:4410"
+},
+{
+    "lesson_id": "884-13008",
+    "lesson_name": "代码混淆(三)",
+    "lesson_time": "18:4611"
+},
+{
+    "lesson_id": "884-13009",
+    "lesson_name": "代码混淆(四)",
+    "lesson_time": "16:2512"
+},
+{
+    "lesson_id": "884-13010",
+    "lesson_name": "开发经验分享",
+    "lesson_time": "18:0913"
+},
+{
+    "lesson_id": "820-12017",
+    "lesson_name": "物联网简介",
+    "lesson_time": "06:391"
+},
+{
+    "lesson_id": "820-12018",
+    "lesson_name": "无线传输网络简介",
+    "lesson_time": "08:182"
+},
+{
+    "lesson_id": "820-12019",
+    "lesson_name": "zigbee技术初探",
+    "lesson_time": "10:023"
+},
+{
+    "lesson_id": "820-12020",
+    "lesson_name": "zigbee网络结构",
+    "lesson_time": "12:154"
+},
+{
+    "lesson_id": "820-12021",
+    "lesson_name": "IEEE802",
+    "lesson_time": "08:235"
+},
+{
+    "lesson_id": "820-12022",
+    "lesson_name": "IEEE802",
+    "lesson_time": "20:336"
+},
+{
+    "lesson_id": "820-12023",
+    "lesson_name": "zigbee网络层",
+    "lesson_time": "08:587"
+},
+{
+    "lesson_id": "820-12024",
+    "lesson_name": "zigbee应用层1",
+    "lesson_time": "16:258"
+},
+{
+    "lesson_id": "820-12025",
+    "lesson_name": "zigbee应用层2",
+    "lesson_time": "14:189"
+},
+{
+    "lesson_id": "820-12026",
+    "lesson_name": "zigbee应用层3",
+    "lesson_time": "13:1810"
+},
+{
+    "lesson_id": "820-12027",
+    "lesson_name": "zigbee智慧家居管理系统介绍",
+    "lesson_time": "05:1611"
+},
+{
+    "lesson_id": "820-12028",
+    "lesson_name": "cc2530结构框架",
+    "lesson_time": "14:2012"
+},
+{
+    "lesson_id": "820-12029",
+    "lesson_name": "项目软件开发环境介绍",
+    "lesson_time": "08:3913"
+},
+{
+    "lesson_id": "820-12030",
+    "lesson_name": "项目基础编程实验1",
+    "lesson_time": "23:1314"
+},
+{
+    "lesson_id": "820-12031",
+    "lesson_name": "项目基础编程实验2",
+    "lesson_time": "07:3715"
+},
+{
+    "lesson_id": "820-12032",
+    "lesson_name": "项目基础编程实验3",
+    "lesson_time": "22:1616"
+},
+{
+    "lesson_id": "820-12033",
+    "lesson_name": "项目基础编程实验4",
+    "lesson_time": "12:4417"
+},
+{
+    "lesson_id": "820-12034",
+    "lesson_name": "项目简单通信编程",
+    "lesson_time": "25:3918"
+},
+{
+    "lesson_id": "820-12035",
+    "lesson_name": "zigbee智慧家居管理系统实验",
+    "lesson_time": "20:3819"
+},
+{
+    "lesson_id": "820-12036",
+    "lesson_name": "zigbee智慧家居管理系统实验",
+    "lesson_time": "07:5820"
+},
+{
+    "lesson_id": "820-12037",
+    "lesson_name": "zigbee智慧家居管理系统实验",
+    "lesson_time": "14:5921"
+},
+{
+    "lesson_id": "524-7169",
+    "lesson_name": "项目大纲介绍",
+    "lesson_time": "11:321"
+},
+{
+    "lesson_id": "524-7170",
+    "lesson_name": "项目启动阶段项目启动流程规范",
+    "lesson_time": "12:052"
+},
+{
+    "lesson_id": "524-7171",
+    "lesson_name": "项目启动阶段项目需求管理规范",
+    "lesson_time": "18:173"
+},
+{
+    "lesson_id": "524-7172",
+    "lesson_name": "项目计划阶段项目计划流程规范",
+    "lesson_time": "12:414"
+},
+{
+    "lesson_id": "524-7173",
+    "lesson_name": "项目设计评审流程规范",
+    "lesson_time": "12:055"
+},
+{
+    "lesson_id": "524-7174",
+    "lesson_name": "项目实施阶段跟踪项目的进展情况",
+    "lesson_time": "15:276"
+},
+{
+    "lesson_id": "524-7175",
+    "lesson_name": "项目实施阶段的管理执行状况",
+    "lesson_time": "12:157"
+},
+{
+    "lesson_id": "524-7176",
+    "lesson_name": "项目实施阶段 管理项目风险和问题",
+    "lesson_time": "09:088"
+},
+{
+    "lesson_id": "524-7177",
+    "lesson_name": "项目实施阶段   管理和控制项目变更",
+    "lesson_time": "15:559"
+},
+{
+    "lesson_id": "524-7178",
+    "lesson_name": "项目实施阶段 项目沟通管理",
+    "lesson_time": "18:0510"
+},
+{
+    "lesson_id": "524-7179",
+    "lesson_name": "项目实施阶段 项目的过程控制",
+    "lesson_time": "16:5611"
+},
+{
+    "lesson_id": "524-7180",
+    "lesson_name": "项目实施阶段项目资源冲突",
+    "lesson_time": "18:0612"
+},{
+    "lesson_id": "524-7181",
+    "lesson_name": "项目实施阶段web页面制作流程（上）",
+    "lesson_time": "20:1313"
+},
+{
+    "lesson_id": "524-7182",
+    "lesson_name": "web页面制作流程规范（下）",
+    "lesson_time": "20:3914"
+},
+{
+    "lesson_id": "524-7183",
+    "lesson_name": "PHP代码制作流程规范（上）",
+    "lesson_time": "20:1215"
+},
+{
+    "lesson_id": "524-7184",
+    "lesson_name": "php代码的书写规范（下）",
+    "lesson_time": "19:0316"
+},
+{
+    "lesson_id": "524-7185",
+    "lesson_name": "对项目实施阶段的复习总结",
+    "lesson_time": "14:4217"
+},
+{
+    "lesson_id": "524-7186",
+    "lesson_name": "项目结项阶段的奖惩制度",
+    "lesson_time": "15:5318"
+},
+{
+    "lesson_id": "524-7187",
+    "lesson_name": "项目结项阶段 项目的事物流程规范",
+    "lesson_time": "13:1419"
+},
+{
+    "lesson_id": "524-7188",
+    "lesson_name": "SVN的简单使用（上）",
+    "lesson_time": "13:5020"
+},
+{
+    "lesson_id": "524-7189",
+    "lesson_name": "SVN的简单使用（下）",
+    "lesson_time": "15:1821"
+},
+{
+    "lesson_id": "524-7190",
+    "lesson_name": "关于GIT的一个简单介绍",
+    "lesson_time": "17:3922"
+},
+{
+    "lesson_id": "524-7191",
+    "lesson_name": "项目管理最终作业要求",
+    "lesson_time": "04:4323"
+},
+{
+    "lesson_id": "507-6679",
+    "lesson_name": "Backbone 课程介绍",
+    "lesson_time": "12:291"
+},
+{
+    "lesson_id": "507-6680",
+    "lesson_name": "Backbone基本用法之Model",
+    "lesson_time": "10:102"
+},
+{
+    "lesson_id": "507-6681",
+    "lesson_name": "Backbone基本用法之View",
+    "lesson_time": "26:563"
+},
+{
+    "lesson_id": "507-6682",
+    "lesson_name": "Backbone事件之Model事件",
+    "lesson_time": "26:534"
+},
+{
+    "lesson_id": "507-6683",
+    "lesson_name": "Backbone事件之View事件",
+    "lesson_time": "28:125"
+},
+{
+    "lesson_id": "507-6684",
+    "lesson_name": "Backbone事件原理",
+    "lesson_time": "15:516"
+},
+{
+    "lesson_id": "507-6685",
+    "lesson_name": "Backbone与服务器接口之RESTful",
+    "lesson_time": "23:527"
+},
+{
+    "lesson_id": "507-6686",
+    "lesson_name": "Backbone与服务器接口之Model数据同步",
+    "lesson_time": "31:018"
+},
+{
+    "lesson_id": "507-7024",
+    "lesson_name": "Backbone集合",
+    "lesson_time": "32:399"
+},
+{
+    "lesson_id": "507-7192",
+    "lesson_name": "Backbone集合事件",
+    "lesson_time": "33:0810"
+},
+{
+    "lesson_id": "507-9309",
+    "lesson_name": "Backbone集合与服务器交互",
+    "lesson_time": "14:2211"
+},
+{
+    "lesson_id": "507-9310",
+    "lesson_name": "Backbone路由",
+    "lesson_time": "24:0812"
+},
+{
+    "lesson_id": "507-9311",
+    "lesson_name": "Backbone示例-结构和框架",
+    "lesson_time": "21:0113"
+},
+{
+    "lesson_id": "507-9312",
+    "lesson_name": "Backbone示例-数据源和列表",
+    "lesson_time": "22:2114"
+},
+{
+    "lesson_id": "507-9313",
+    "lesson_name": "Backbone示例-模板渲染和创建页",
+    "lesson_time": "21:0615"
+},
+{
+    "lesson_id": "507-9314",
+    "lesson_name": "Backbone示例-删除和编辑页",
+    "lesson_time": "27:4316"
+},
+{
+    "lesson_id": "872-12847",
+    "lesson_name": "Yii 介绍",
+    "lesson_time": "06:091"
+},
+{
+    "lesson_id": "872-12848",
+    "lesson_name": "Phpstudy的安装和使用",
+    "lesson_time": "16:012"
+},
+{
+    "lesson_id": "872-12849",
+    "lesson_name": "Yii的下载和安装",
+    "lesson_time": "15:373"
+},
+{
+    "lesson_id": "872-12850",
+    "lesson_name": "控制器",
+    "lesson_time": "21:574"
+},
+{
+    "lesson_id": "872-12851",
+    "lesson_name": "模型",
+    "lesson_time": "21:385"
+},
+{
+    "lesson_id": "872-12852",
+    "lesson_name": "视图",
+    "lesson_time": "19:276"
+},
+{
+    "lesson_id": "872-12853",
+    "lesson_name": "请求",
+    "lesson_time": "18:507"
+},
+{
+    "lesson_id": "872-12854",
+    "lesson_name": "响应",
+    "lesson_time": "21:068"
+},
+{
+    "lesson_id": "872-12855",
+    "lesson_name": "Session和cookies上",
+    "lesson_time": "24:319"
+},
+{
+    "lesson_id": "872-12856",
+    "lesson_name": "session和cookies下",
+    "lesson_time": "04:4410"
+},
+{
+    "lesson_id": "872-12857",
+    "lesson_name": "路由",
+    "lesson_time": "23:4411"
+},
+{
+    "lesson_id": "872-12858",
+    "lesson_name": "数据库操作上",
+    "lesson_time": "24:0012"
+},
+{
+    "lesson_id": "872-12859",
+    "lesson_name": "数据库操作下",
+    "lesson_time": "23:3813"
+},
+{
+    "lesson_id": "872-12860",
+    "lesson_name": "表单",
+    "lesson_time": "21:2414"
+},
+{
+    "lesson_id": "872-12861",
+    "lesson_name": "验证",
+    "lesson_time": "20:5015"
+},
+{
+    "lesson_id": "872-12862",
+    "lesson_name": "表单+验证",
+    "lesson_time": "06:1116"
+},
+{
+    "lesson_id": "872-12863",
+    "lesson_name": "文件上传",
+    "lesson_time": "17:1617"
+},
+{
+    "lesson_id": "872-12864",
+    "lesson_name": "小部件",
+    "lesson_time": "16:4818"
+},
+{
+    "lesson_id": "872-12865",
+    "lesson_name": "分页",
+    "lesson_time": "11:2219"
+},
+{
+    "lesson_id": "872-12866",
+    "lesson_name": "验证码",
+    "lesson_time": "22:0320"
+},
+{
+    "lesson_id": "872-12867",
+    "lesson_name": "数据缓存",
+    "lesson_time": "19:0821"
+},
+{
+    "lesson_id": "872-12868",
+    "lesson_name": "片段缓存和页面缓存",
+    "lesson_time": "16:5422"
+},
+{
+    "lesson_id": "872-12869",
+    "lesson_name": "http缓存",
+    "lesson_time": "09:2023"
+},
+{
+    "lesson_id": "872-12870",
+    "lesson_name": "通过gii生成controller,model,view",
+    "lesson_time": "13:2124"
+},
+{
+    "lesson_id": "872-12871",
+    "lesson_name": "分页和删除",
+    "lesson_time": "13:5725"
+},
+{
+    "lesson_id": "872-12872",
+    "lesson_name": "留言板更新",
+    "lesson_time": "08:4326"
+},
+{
+    "lesson_id": "789-11422",
+    "lesson_name": "jquery基础应用课程大纲",
+    "lesson_time": "04:521"
+},
+{
+    "lesson_id": "789-11423",
+    "lesson_name": "jquery的安装使用",
+    "lesson_time": "13:062"
+},
+{
+    "lesson_id": "789-11424",
+    "lesson_name": "jquery 选择器 操作环境 准备",
+    "lesson_time": "13:073"
+},
+{
+    "lesson_id": "789-11425",
+    "lesson_name": "jquery 选择器 ID 选择器",
+    "lesson_time": "05:034"
+},
+{
+    "lesson_id": "789-11426",
+    "lesson_name": "jquery 选择器 class 选择器",
+    "lesson_time": "03:105"
+},
+{
+    "lesson_id": "789-11427",
+    "lesson_name": "jquery 选择器 元素 并列 选择器",
+    "lesson_time": "06:356"
+},
+{
+    "lesson_id": "789-11428",
+    "lesson_name": "jquery 选择器 家族 父子 紧邻 同辈 选择器",
+    "lesson_time": "10:097"
+},
+{
+    "lesson_id": "789-11429",
+    "lesson_name": "jquery 选择器 伪类  选择器",
+    "lesson_time": "06:308"
+},
+{
+    "lesson_id": "789-11430",
+    "lesson_name": "jquery 选择器 伪类 属性  选择器",
+    "lesson_time": "07:549"
+},
+{
+    "lesson_id": "789-11431",
+    "lesson_name": "jquery 事件 事件模型  选择器",
+    "lesson_time": "02:5610"
+},
+{
+    "lesson_id": "789-11432",
+    "lesson_name": "jquery 事件 常用事件分析  选择器",
+    "lesson_time": "08:5711"
+},
+{
+    "lesson_id": "789-11433",
+    "lesson_name": "jquery 事件 浏览器事件 resize  选择器",
+    "lesson_time": "05:2412"
+},
+{
+    "lesson_id": "789-11434",
+    "lesson_name": "jquery 事件 浏览器事件 scroll  选择器",
+    "lesson_time": "02:4813"
+},
+{
+    "lesson_id": "789-11435",
+    "lesson_name": "jquery 事件 浏览器事件 鼠标事件  选择器",
+    "lesson_time": "05:4814"
+},
+{
+    "lesson_id": "789-11436",
+    "lesson_name": "jquery 事件 浏览器事件 鼠标事件 blur focus  选择器",
+    "lesson_time": "03:1315"
+},
+{
+    "lesson_id": "789-11437",
+    "lesson_name": "jquery 事件 浏览器事件 键盘事件 up down press  选择器",
+    "lesson_time": "05:2816"
+},
+{
+    "lesson_id": "789-11438",
+    "lesson_name": "jquery 事件 操作  选择器",
+    "lesson_time": "11:2017"
+},
+{
+    "lesson_id": "789-11439",
+    "lesson_name": "jquery DOM 属性 操作 attr removeAttr",
+    "lesson_time": "11:0518"
+},
+{
+    "lesson_id": "789-11440",
+    "lesson_name": "jquery DOM 获取元素 节点 值 html val text",
+    "lesson_time": "08:2519"
+},
+{
+    "lesson_id": "789-11441",
+    "lesson_name": "jquery DOM 设置元素 节点 值 html val text",
+    "lesson_time": "04:2520"
+},
+{
+    "lesson_id": "789-11442",
+    "lesson_name": "jquery DOM 文档操作 append prepend",
+    "lesson_time": "09:3421"
+},
+{
+    "lesson_id": "789-11443",
+    "lesson_name": "jquery DOM 文档操作 appendTo prependTo",
+    "lesson_time": "04:0622"
+},
+{
+    "lesson_id": "789-11444",
+    "lesson_name": "jquery DOM 文档操作 after before insertAfter inser",
+    "lesson_time": "07:3723"
+},
+{
+    "lesson_id": "789-11445",
+    "lesson_name": "jquery DOM 文档操作 wrap unwrap",
+    "lesson_time": "05:3224"
+},
+{
+    "lesson_id": "789-11446",
+    "lesson_name": "jquery DOM 文档操作 empty remove clone",
+    "lesson_time": "06:4625"
+},
+{
+    "lesson_id": "789-11447",
+    "lesson_name": "jquery DOM css 操作 addClass removeClass toggleC",
+    "lesson_time": "06:0126"
+},
+{
+    "lesson_id": "789-11448",
+    "lesson_name": "jquery DOM css 操作 css height",
+    "lesson_time": "06:2527"
+},
+{
+    "lesson_id": "789-11449",
+    "lesson_name": "jquery 动画 简介 演示环境搭建",
+    "lesson_time": "10:4828"
+},
+{
+    "lesson_id": "789-11450",
+    "lesson_name": "jquery 动画 简介 显示隐藏 滑动 淡入淡出",
+    "lesson_time": "06:0429"
+},
+{
+    "lesson_id": "789-11451",
+    "lesson_name": "jquery 动画 animate 使用 以及使用环境区分",
+    "lesson_time": "05:2630"
+},
+{
+    "lesson_id": "789-11452",
+    "lesson_name": "jquery ajax 基础原理 已经 常用的应用场景",
+    "lesson_time": "06:0931"
+},
+{
+    "lesson_id": "789-11453",
+    "lesson_name": "jquery ajax load",
+    "lesson_time": "07:1432"
+},
+{
+    "lesson_id": "789-11454",
+    "lesson_name": "jquery ajax get",
+    "lesson_time": "13:5633"
+},
+{
+    "lesson_id": "789-11455",
+    "lesson_name": "jquery ajax post",
+    "lesson_time": "05:2034"
+},
+{
+    "lesson_id": "789-11456",
+    "lesson_name": "jquery ajax ajax 函数的使用",
+    "lesson_time": "11:3435"
+},
+{
+    "lesson_id": "789-11457",
+    "lesson_name": "jquery ajax 简单的例子",
+    "lesson_time": "13:5336"
+},
+{
+    "lesson_id": "789-11458",
+    "lesson_name": "jquery 简单正则的使用",
+    "lesson_time": "08:4837"
+},
+{
+    "lesson_id": "789-11459",
+    "lesson_name": "jquery validtate 插件的简单使用",
+    "lesson_time": "18:2338"
+},
+{
+    "lesson_id": "789-11460",
+    "lesson_name": "jquery 常用 插件介绍",
+    "lesson_time": "04:2039"
+},
+{
+    "lesson_id": "789-11461",
+    "lesson_name": "jquery 幻灯片案例1",
+    "lesson_time": "15:3340"
+},
+{
+    "lesson_id": "789-11462",
+    "lesson_name": "jquery 验证 跟 ajax 综合 案例 说明",
+    "lesson_time": "02:4941"
+},
+{
+    "lesson_id": "660-9796",
+    "lesson_name": "Ecshop 介绍与运行环境",
+    "lesson_time": "15:291"
+},
+{
+    "lesson_id": "660-9797",
+    "lesson_name": "Ecshop 安装",
+    "lesson_time": "16:222"
+},
+{
+    "lesson_id": "660-9798",
+    "lesson_name": "Ecshop 文件结构介绍",
+    "lesson_time": "12:543"
+},
+{
+    "lesson_id": "660-9799",
+    "lesson_name": "Ecshop 主要数据库表介绍",
+    "lesson_time": "15:134"
+},
+{
+    "lesson_id": "660-9800",
+    "lesson_name": "smarty模板赋值",
+    "lesson_time": "09:515"
+},
+{
+    "lesson_id": "660-9801",
+    "lesson_name": "引用扩展模板,JS",
+    "lesson_time": "10:076"
+},
+{
+    "lesson_id": "660-9802",
+    "lesson_name": "if语句",
+    "lesson_time": "11:547"
+},
+{
+    "lesson_id": "660-9803",
+    "lesson_name": "foreach语句",
+    "lesson_time": "13:008"
+},
+{
+    "lesson_id": "660-9804",
+    "lesson_name": "局部缓存标签",
+    "lesson_time": "12:109"
+},
+{
+    "lesson_id": "660-9805",
+    "lesson_name": "商店设置",
+    "lesson_time": "15:3610"
+},
+{
+    "lesson_id": "660-9806",
+    "lesson_name": "商品管理",
+    "lesson_time": "25:1911"
+},
+{
+    "lesson_id": "660-9807",
+    "lesson_name": "Ecshop 基本操作：订单管理",
+    "lesson_time": "14:2412"
+},
+{
+    "lesson_id": "660-9808",
+    "lesson_name": "广告管理",
+    "lesson_time": "11:1313"
+},
+{
+    "lesson_id": "660-9809",
+    "lesson_name": "会员管理",
+    "lesson_time": "08:3014"
+},
+{
+    "lesson_id": "660-9810",
+    "lesson_name": "模板管理",
+    "lesson_time": "10:4115"
+},
+{
+    "lesson_id": "660-9811",
+    "lesson_name": "Ecshop 第三方模板的安装",
+    "lesson_time": "16:0116"
+},
+{
+    "lesson_id": "660-9812",
+    "lesson_name": "Ecshop 商品显示购买人数",
+    "lesson_time": "12:4117"
+},
+{
+    "lesson_id": "660-9874",
+    "lesson_name": "Ecshop 自定义导航栏增加nofollow功能",
+    "lesson_time": "13:5218"
+},
+{
+    "lesson_id": "660-9875",
+    "lesson_name": "Ecshop 不同分类调用不同的模板案例",
+    "lesson_time": "19:4119"
+},
+{
+    "lesson_id": "660-9876",
+    "lesson_name": "利用ajax更新购物车数量",
+    "lesson_time": "16:1320"
+},
+{
+    "lesson_id": "660-9877",
+    "lesson_name": "Ecshop 商品列表加搜索字段",
+    "lesson_time": "09:3721"
+},
+{
+    "lesson_id": "660-9878",
+    "lesson_name": "Ecshop 导出会员信息",
+    "lesson_time": "17:3222"
+},
+{
+    "lesson_id": "660-9879",
+    "lesson_name": "Ecshop 后台分页原理",
+    "lesson_time": "16:5723"
+},
+{
+    "lesson_id": "660-9880",
+    "lesson_name": "Ecshop 权限分配原理：数据表",
+    "lesson_time": "11:1124"
+},
+{
+    "lesson_id": "660-9881",
+    "lesson_name": "Ecshop 权限分配原理：权限配置 ",
+    "lesson_time": "20:2925"
+},
+{
+    "lesson_id": "660-9882",
+    "lesson_name": "Ecshop 权限分配原理：权限控制 ",
+    "lesson_time": "10:5126"
+},
+{
+    "lesson_id": "660-9883",
+    "lesson_name": "Ecshop 建立独立模块：后台列表",
+    "lesson_time": "19:3827"
+},
+{
+    "lesson_id": "660-9884",
+    "lesson_name": "Ecshop 建立独立模块：后台新增编辑",
+    "lesson_time": "19:3428"
+},
+{
+    "lesson_id": "660-9885",
+    "lesson_name": "Ecshop 建立独立模块：前台列表",
+    "lesson_time": "20:3029"
+},
+{
+    "lesson_id": "660-9886",
+    "lesson_name": "Ecshop 建立独立模块：前台详情",
+    "lesson_time": "19:2430"
+},
+{
+    "lesson_id": "579-8305",
+    "lesson_name": "第一讲 课程介绍",
+    "lesson_time": "15:461"
+},
+{
+    "lesson_id": "579-8306",
+    "lesson_name": "第二讲 初识Nodejs",
+    "lesson_time": "24:252"
+},
+{
+    "lesson_id": "579-8307",
+    "lesson_name": "第三讲 Express入门",
+    "lesson_time": "28:563"
+},
+{
+    "lesson_id": "579-8308",
+    "lesson_name": "第四讲 初识Mockjs",
+    "lesson_time": "08:324"
+},
+{
+    "lesson_id": "579-8309",
+    "lesson_name": "第五讲 Nodejs集成Mockjs",
+    "lesson_time": "15:525"
+},
+{
+    "lesson_id": "579-8310",
+    "lesson_name": "第六讲 Mockjs基础语法1(语法规范)",
+    "lesson_time": "17:576"
+},
+{
+    "lesson_id": "579-8311",
+    "lesson_name": "第七讲 Mockjs基础语法2(工具类)",
+    "lesson_time": "22:447"
+},
+{
+    "lesson_id": "579-8312",
+    "lesson_name": "第八讲 京东商城商品分类展示导航",
+    "lesson_time": "10:418"
+},
+{
+    "lesson_id": "579-8313",
+    "lesson_name": "第九讲 了解JSON数据格式",
+    "lesson_time": "18:019"
+},
+{
+    "lesson_id": "579-8314",
+    "lesson_name": "第十讲 后端API数据模拟",
+    "lesson_time": "22:1810"
+},
+{
+    "lesson_id": "579-8315",
+    "lesson_name": "第十一讲 ajax的跨域实现",
+    "lesson_time": "09:5311"
+},
+{
+    "lesson_id": "579-8316",
+    "lesson_name": "第十二讲 前端数据绑定",
+    "lesson_time": "15:4412"
+},
+{
+    "lesson_id": "579-8317",
+    "lesson_name": "第十三讲 项目发布",
+    "lesson_time": "12:0113"
+},
+{
+    "lesson_id": "579-8318",
+    "lesson_name": "第十四讲 项目部署",
+    "lesson_time": "16:4014"
+},
+{
+    "lesson_id": "579-8319",
+    "lesson_name": "第十五讲 项目总结",
+    "lesson_time": "12:3215"
+},
+{
+    "lesson_id": "543-7437",
+    "lesson_name": "课程介绍与项目演示",
+    "lesson_time": "07:121"
+},
+{
+    "lesson_id": "543-7438",
+    "lesson_name": "创建新的项目(获取bootstrap文件与开发工具)",
+    "lesson_time": "15:172"
+},
+{
+    "lesson_id": "543-7439",
+    "lesson_name": "响应式导航(demo1)",
+    "lesson_time": "22:383"
+},
+{
+    "lesson_id": "543-7440",
+    "lesson_name": "第一屏home区域制作",
+    "lesson_time": "18:404"
+},
+{
+    "lesson_id": "543-7441",
+    "lesson_name": "第二屏bbs论坛区域制作",
+    "lesson_time": "14:075"
+},
+{
+    "lesson_id": "543-7442",
+    "lesson_name": "第三屏html5区域制作",
+    "lesson_time": "10:096"
+},
+{
+    "lesson_id": "543-7443",
+    "lesson_name": "第四屏bootstrap区域制作",
+    "lesson_time": "05:247"
+},
+{
+    "lesson_id": "543-7444",
+    "lesson_name": "第五屏course课程列表区域制作",
+    "lesson_time": "19:208"
+},
+{
+    "lesson_id": "543-7445",
+    "lesson_name": "第六屏app下载区域制作",
+    "lesson_time": "14:269"
+},
+{
+    "lesson_id": "543-7446",
+    "lesson_name": "第七屏contact联系小麦区域制作",
+    "lesson_time": "21:2410"
+},
+{
+    "lesson_id": "543-7447",
+    "lesson_name": "footer底部区域制作",
+    "lesson_time": "04:1811"
+},
+{
+    "lesson_id": "543-7448",
+    "lesson_name": "满意的效果插件",
+    "lesson_time": "27:3712"
+},
+{
+    "lesson_id": "543-7449",
+    "lesson_name": "后台管理界面导航制作",
+    "lesson_time": "20:0413"
+},
+{
+    "lesson_id": "543-7450",
+    "lesson_name": "后台界面网站统计数据和热帖制作",
+    "lesson_time": "15:5014"
+},
+{
+    "lesson_id": "543-7451",
+    "lesson_name": "后台界面今日访客统计图表制作",
+    "lesson_time": "20:1615"
+},
+{
+    "lesson_id": "543-7452",
+    "lesson_name": "后台界面服务器状态进度条制作",
+    "lesson_time": "05:3616"
+},
+{
+    "lesson_id": "543-7453",
+    "lesson_name": "后台界面团队留言板制作",
+    "lesson_time": "21:0017"
+},
+{
+    "lesson_id": "543-7454",
+    "lesson_name": "后台界面用户管理制作",
+    "lesson_time": "17:0418"
+},
+{
+    "lesson_id": "543-7455",
+    "lesson_name": "后台界面用户搜索制作",
+    "lesson_time": "14:1019"
+},
+{
+    "lesson_id": "543-7456",
+    "lesson_name": "后台界面添加用户弹出层制作",
+    "lesson_time": "13:3220"
+},
+{
+    "lesson_id": "543-7457",
+    "lesson_name": "后台界面内容管理界面制作",
+    "lesson_time": "08:0221"
+},
+{
+    "lesson_id": "543-7458",
+    "lesson_name": "后台界面文章发布界面制作",
+    "lesson_time": "09:5122"
+},
+{
+    "lesson_id": "543-7459",
+    "lesson_name": "后台界面tag标签管理界面制作",
+    "lesson_time": "13:0823"
+},
+{
+    "lesson_id": "543-7460",
+    "lesson_name": "bootstrap项目实战课后温习总结",
+    "lesson_time": "12:3224"
+},
+{
+    "lesson_id": "854-12540",
+    "lesson_name": "Android广播介绍",
+    "lesson_time": "12:251"
+},
+{
+    "lesson_id": "854-12541",
+    "lesson_name": "广播接收器注册",
+    "lesson_time": "12:252"
+},
+{
+    "lesson_id": "854-12542",
+    "lesson_name": "接收系统广播",
+    "lesson_time": "17:183"
+},
+{
+    "lesson_id": "854-12543",
+    "lesson_name": "自定义广播",
+    "lesson_time": "11:574"
+},
+{
+    "lesson_id": "854-12544",
+    "lesson_name": "receiver生命周期",
+    "lesson_time": "11:495"
+},
+{
+    "lesson_id": "854-12545",
+    "lesson_name": "有序广播",
+    "lesson_time": "18:406"
+},
+{
+    "lesson_id": "854-12546",
+    "lesson_name": "广播的安全性",
+    "lesson_time": "18:007"
+},
+{
+    "lesson_id": "854-12547",
+    "lesson_name": "短信广播",
+    "lesson_time": "18:158"
+},
+{
+    "lesson_id": "854-12548",
+    "lesson_name": "来电防火墙",
+    "lesson_time": "17:559"
+},
+{
+    "lesson_id": "789-11422",
+    "lesson_name": "jquery基础应用课程大纲",
+    "lesson_time": "04:521"
+},
+{
+    "lesson_id": "789-11423",
+    "lesson_name": "jquery的安装使用",
+    "lesson_time": "13:062"
+},
+{
+    "lesson_id": "789-11424",
+    "lesson_name": "jquery 选择器 操作环境 准备",
+    "lesson_time": "13:073"
+},
+{
+    "lesson_id": "789-11425",
+    "lesson_name": "jquery 选择器 ID 选择器",
+    "lesson_time": "05:034"
+},
+{
+    "lesson_id": "789-11426",
+    "lesson_name": "jquery 选择器 class 选择器",
+    "lesson_time": "03:105"
+},
+{
+    "lesson_id": "789-11427",
+    "lesson_name": "jquery 选择器 元素 并列 选择器",
+    "lesson_time": "06:356"
+},
+{
+    "lesson_id": "789-11428",
+    "lesson_name": "jquery 选择器 家族 父子 紧邻 同辈 选择器",
+    "lesson_time": "10:097"
+},
+{
+    "lesson_id": "789-11429",
+    "lesson_name": "jquery 选择器 伪类  选择器",
+    "lesson_time": "06:308"
+},
+{
+    "lesson_id": "789-11430",
+    "lesson_name": "jquery 选择器 伪类 属性  选择器",
+    "lesson_time": "07:549"
+},
+{
+    "lesson_id": "789-11431",
+    "lesson_name": "jquery 事件 事件模型  选择器",
+    "lesson_time": "02:5610"
+},
+{
+    "lesson_id": "789-11432",
+    "lesson_name": "jquery 事件 常用事件分析  选择器",
+    "lesson_time": "08:5711"
+},
+{
+    "lesson_id": "789-11433",
+    "lesson_name": "jquery 事件 浏览器事件 resize  选择器",
+    "lesson_time": "05:2412"
+},
+{
+    "lesson_id": "789-11434",
+    "lesson_name": "jquery 事件 浏览器事件 scroll  选择器",
+    "lesson_time": "02:4813"
+},
+{
+    "lesson_id": "789-11435",
+    "lesson_name": "jquery 事件 浏览器事件 鼠标事件  选择器",
+    "lesson_time": "05:4814"
+},
+{
+    "lesson_id": "789-11436",
+    "lesson_name": "jquery 事件 浏览器事件 鼠标事件 blur focus  选择器",
+    "lesson_time": "03:1315"
+},
+{
+    "lesson_id": "789-11437",
+    "lesson_name": "jquery 事件 浏览器事件 键盘事件 up down press  选择器",
+    "lesson_time": "05:2816"
+},
+{
+    "lesson_id": "789-11438",
+    "lesson_name": "jquery 事件 操作  选择器",
+    "lesson_time": "11:2017"
+},
+{
+    "lesson_id": "789-11439",
+    "lesson_name": "jquery DOM 属性 操作 attr removeAttr",
+    "lesson_time": "11:0518"
+},
+{
+    "lesson_id": "789-11440",
+    "lesson_name": "jquery DOM 获取元素 节点 值 html val text",
+    "lesson_time": "08:2519"
+},
+{
+    "lesson_id": "789-11441",
+    "lesson_name": "jquery DOM 设置元素 节点 值 html val text",
+    "lesson_time": "04:2520"
+},
+{
+    "lesson_id": "789-11442",
+    "lesson_name": "jquery DOM 文档操作 append prepend",
+    "lesson_time": "09:3421"
+},
+{
+    "lesson_id": "789-11443",
+    "lesson_name": "jquery DOM 文档操作 appendTo prependTo",
+    "lesson_time": "04:0622"
+},
+{
+    "lesson_id": "789-11444",
+    "lesson_name": "jquery DOM 文档操作 after before insertAfter inser",
+    "lesson_time": "07:3723"
+},
+{
+    "lesson_id": "789-11445",
+    "lesson_name": "jquery DOM 文档操作 wrap unwrap",
+    "lesson_time": "05:3224"
+},
+{
+    "lesson_id": "789-11446",
+    "lesson_name": "jquery DOM 文档操作 empty remove clone",
+    "lesson_time": "06:4625"
+},
+{
+    "lesson_id": "789-11447",
+    "lesson_name": "jquery DOM css 操作 addClass removeClass toggleC",
+    "lesson_time": "06:0126"
+},
+{
+    "lesson_id": "789-11448",
+    "lesson_name": "jquery DOM css 操作 css height",
+    "lesson_time": "06:2527"
+},
+{
+    "lesson_id": "789-11449",
+    "lesson_name": "jquery 动画 简介 演示环境搭建",
+    "lesson_time": "10:4828"
+},
+{
+    "lesson_id": "789-11450",
+    "lesson_name": "jquery 动画 简介 显示隐藏 滑动 淡入淡出",
+    "lesson_time": "06:0429"
+},
+{
+    "lesson_id": "789-11451",
+    "lesson_name": "jquery 动画 animate 使用 以及使用环境区分",
+    "lesson_time": "05:2630"
+},
+{
+    "lesson_id": "789-11452",
+    "lesson_name": "jquery ajax 基础原理 已经 常用的应用场景",
+    "lesson_time": "06:0931"
+},
+{
+    "lesson_id": "789-11453",
+    "lesson_name": "jquery ajax load",
+    "lesson_time": "07:1432"
+},
+{
+    "lesson_id": "789-11454",
+    "lesson_name": "jquery ajax get",
+    "lesson_time": "13:5633"
+},
+{
+    "lesson_id": "789-11455",
+    "lesson_name": "jquery ajax post",
+    "lesson_time": "05:2034"
+},
+{
+    "lesson_id": "789-11456",
+    "lesson_name": "jquery ajax ajax 函数的使用",
+    "lesson_time": "11:3435"
+},
+{
+    "lesson_id": "789-11457",
+    "lesson_name": "jquery ajax 简单的例子",
+    "lesson_time": "13:5336"
+},
+{
+    "lesson_id": "789-11458",
+    "lesson_name": "jquery 简单正则的使用",
+    "lesson_time": "08:4837"
+},
+{
+    "lesson_id": "789-11459",
+    "lesson_name": "jquery validtate 插件的简单使用",
+    "lesson_time": "18:2338"
+},
+{
+    "lesson_id": "789-11460",
+    "lesson_name": "jquery 常用 插件介绍",
+    "lesson_time": "04:2039"
+},
+{
+    "lesson_id": "789-11461",
+    "lesson_name": "jquery 幻灯片案例1",
+    "lesson_time": "15:3340"
+},
+{
+    "lesson_id": "789-11462",
+    "lesson_name": "jquery 验证 跟 ajax 综合 案例 说明",
+    "lesson_time": "02:4941"
+},
+{
+    "lesson_id": "744-10671",
+    "lesson_name": "数据存储介绍",
+    "lesson_time": "06:271"
+},
+{
+    "lesson_id": "744-10672",
+    "lesson_name": "SharedPreferences数据保存",
+    "lesson_time": "16:482"
+},
+{
+    "lesson_id": "744-10673",
+    "lesson_name": "外部存储",
+    "lesson_time": "21:483"
+},
+{
+    "lesson_id": "744-10674",
+    "lesson_name": "内部存储",
+    "lesson_time": "20:324"
+},
+{
+    "lesson_id": "744-10675",
+    "lesson_name": "数据库的常用操作（预习）",
+    "lesson_time": "16:435"
+},
+{
+    "lesson_id": "744-10676",
+    "lesson_name": "Sqlite数据库介绍及操作",
+    "lesson_time": "17:406"
+},
+{
+    "lesson_id": "744-10677",
+    "lesson_name": "Sqlite数据库建表及更新库",
+    "lesson_time": "19:037"
+},
+{
+    "lesson_id": "744-10678",
+    "lesson_name": "Sqlite数据库三种插入",
+    "lesson_time": "16:398"
+},
+{
+    "lesson_id": "744-10679",
+    "lesson_name": "Sqlite数据库之修改和删除",
+    "lesson_time": "15:189"
+},
+{
+    "lesson_id": "744-10680",
+    "lesson_name": "Sqlite数据库操作事务",
+    "lesson_time": "14:3110"
+},
+{
+    "lesson_id": "744-10681",
+    "lesson_name": "sqlite数据库查询实现",
+    "lesson_time": "17:4011"
+},
+{
+    "lesson_id": "744-10682",
+    "lesson_name": "Sqlite数据库分页查询",
+    "lesson_time": "19:2112"
+},
+{
+    "lesson_id": "901-13246",
+    "lesson_name": "php7",
+    "lesson_time": "05:321"
+},
+{
+    "lesson_id": "901-13247",
+    "lesson_name": "Php7",
+    "lesson_time": "09:472"
+},
+{
+    "lesson_id": "901-13248",
+    "lesson_name": "Php7",
+    "lesson_time": "11:193"
+},
+{
+    "lesson_id": "901-13249",
+    "lesson_name": "Php7",
+    "lesson_time": "16:504"
+},
+{
+    "lesson_id": "901-13250",
+    "lesson_name": "Php7",
+    "lesson_time": "07:155"
+},
+{
+    "lesson_id": "901-13251",
+    "lesson_name": "Php7",
+    "lesson_time": "06:436"
+},
+{
+    "lesson_id": "901-13252",
+    "lesson_name": "Php7",
+    "lesson_time": "08:397"
+},
+{
+    "lesson_id": "901-13253",
+    "lesson_name": "Php7",
+    "lesson_time": "08:188"
+},
+{
+    "lesson_id": "901-13254",
+    "lesson_name": "Php7",
+    "lesson_time": "10:039"
+},
+{
+    "lesson_id": "901-13255",
+    "lesson_name": "Php7",
+    "lesson_time": "08:5110"
+},
+{
+    "lesson_id": "901-13256",
+    "lesson_name": "Php7",
+    "lesson_time": "10:0011"
+},
+{
+    "lesson_id": "901-13257",
+    "lesson_name": "Php7",
+    "lesson_time": "04:0812"
+},
+{
+    "lesson_id": "901-13258",
+    "lesson_name": "Php7",
+    "lesson_time": "08:0313"
+},
+{
+    "lesson_id": "901-13259",
+    "lesson_name": "Php7",
+    "lesson_time": "10:4514"
+},
+{
+    "lesson_id": "901-13260",
+    "lesson_name": "Php7",
+    "lesson_time": "04:2815"
+},
+{
+    "lesson_id": "901-13261",
+    "lesson_name": "Php7",
+    "lesson_time": "11:4216"
+},
+{
+    "lesson_id": "901-13262",
+    "lesson_name": "Php7",
+    "lesson_time": "04:0217"
+},
+{
+    "lesson_id": "901-13263",
+    "lesson_name": "php7",
+    "lesson_time": "13:5318"
+},
+{
+    "lesson_id": "901-13264",
+    "lesson_name": "Php7",
+    "lesson_time": "05:1919"
+},
+{
+    "lesson_id": "901-13265",
+    "lesson_name": "Php7",
+    "lesson_time": "07:4720"
+},
+{
+    "lesson_id": "901-13266",
+    "lesson_name": "Php7",
+    "lesson_time": "03:2721"
+},
+{
+    "lesson_id": "901-13267",
+    "lesson_name": "Php7",
+    "lesson_time": "05:3822"
+},
+{
+    "lesson_id": "858-12581",
+    "lesson_name": "初识Sketch",
+    "lesson_time": "09:581"
+},
+{
+    "lesson_id": "858-12582",
+    "lesson_name": "sketch的菜单栏",
+    "lesson_time": "14:592"
+},
+{
+    "lesson_id": "858-12583",
+    "lesson_name": "sketch的工具栏（一）",
+    "lesson_time": "10:013"
+},
+{
+    "lesson_id": "858-12584",
+    "lesson_name": "sketch的工具栏（二）",
+    "lesson_time": "14:314"
+},
+{
+    "lesson_id": "858-12585",
+    "lesson_name": "sketch的工具栏（三）",
+    "lesson_time": "08:015"
+},
+{
+    "lesson_id": "858-12586",
+    "lesson_name": "Sketch的工具栏（四）",
+    "lesson_time": "16:016"
+},
+{
+    "lesson_id": "858-12587",
+    "lesson_name": "sketch的工具栏（五）",
+    "lesson_time": "13:067"
+},
+{
+    "lesson_id": "858-12588",
+    "lesson_name": "sketch的图层器",
+    "lesson_time": "15:118"
+},
+{
+    "lesson_id": "858-12589",
+    "lesson_name": "小鸟图标（上）",
+    "lesson_time": "13:559"
+},
+{
+    "lesson_id": "858-12590",
+    "lesson_name": "小鸟图标（下）",
+    "lesson_time": "19:1710"
+},
+{
+    "lesson_id": "858-12591",
+    "lesson_name": "按钮图标（一）",
+    "lesson_time": "12:3911"
+},
+{
+    "lesson_id": "858-12592",
+    "lesson_name": "按钮图标（二）",
+    "lesson_time": "15:1312"
+},
+{
+    "lesson_id": "858-12593",
+    "lesson_name": "图标按钮（三）",
+    "lesson_time": "15:2813"
+},
+{
+    "lesson_id": "858-12594",
+    "lesson_name": "App页面制作（上）",
+    "lesson_time": "13:5514"
+},
+{
+    "lesson_id": "506-6644",
+    "lesson_name": "系统编程之综述",
+    "lesson_time": "15:571"
+},
+{
+    "lesson_id": "506-6645",
+    "lesson_name": "open和close函数及touch命令实现",
+    "lesson_time": "18:022"
+},
+{
+    "lesson_id": "506-6646",
+    "lesson_name": "read和write函数",
+    "lesson_time": "25:363"
+},
+{
+    "lesson_id": "506-6647",
+    "lesson_name": "lseek函数和cp命令实现",
+    "lesson_time": "24:024"
+},
+{
+    "lesson_id": "506-6648",
+    "lesson_name": "标准IO-缓存",
+    "lesson_time": "21:295"
+},
+{
+    "lesson_id": "506-6649",
+    "lesson_name": "标准IO-fopen和fclose",
+    "lesson_time": "22:136"
+},
+{
+    "lesson_id": "506-6650",
+    "lesson_name": "标准IO之fputs和fgets函数",
+    "lesson_time": "20:507"
+},
+{
+    "lesson_id": "506-6651",
+    "lesson_name": "标准IO之fflush、无缓存、fseek、rewind、rewind",
+    "lesson_time": "18:398"
+},
+{
+    "lesson_id": "506-6652",
+    "lesson_name": "标准IO之gets、puts、fprintf、sprintf函数",
+    "lesson_time": "19:559"
+},
+{
+    "lesson_id": "506-6653",
+    "lesson_name": "标准IO之fgetc、fputc",
+    "lesson_time": "21:0410"
+},
+{
+    "lesson_id": "506-6654",
+    "lesson_name": "标准IO之feof、ferror、clearerr",
+    "lesson_time": "14:0811"
+},
+{
+    "lesson_id": "506-6655",
+    "lesson_name": "标准IO之cat命令实现(1)",
+    "lesson_time": "13:1412"
+},
+{
+    "lesson_id": "506-6943",
+    "lesson_name": "标准IO之fread、fwrite",
+    "lesson_time": "17:5113"
+},
+{
+    "lesson_id": "506-6944",
+    "lesson_name": "fgetc_read之比较",
+    "lesson_time": "19:2014"
+},
+{
+    "lesson_id": "506-6945",
+    "lesson_name": "fread和fgets效率比较",
+    "lesson_time": "19:0315"
+},
+{
+    "lesson_id": "506-6946",
+    "lesson_name": "函数库的制作（静态库）",
+    "lesson_time": "12:0516"
+},
+{
+    "lesson_id": "506-6947",
+    "lesson_name": "函数库的制作（动态库）",
+    "lesson_time": "16:1317"
+},
+{
+    "lesson_id": "506-6999",
+    "lesson_name": "linux系统编程 目录IO（1）",
+    "lesson_time": "24:1518"
+},
+{
+    "lesson_id": "506-7000",
+    "lesson_name": "linux系统编程 目录IO（2）",
+    "lesson_time": "17:0619"
+},
+{
+    "lesson_id": "506-7001",
+    "lesson_name": "IO课程总结-单机模式下的文件上传和下载",
+    "lesson_time": "29:0220"
+},
+{
+    "lesson_id": "493-6407",
+    "lesson_name": "小波赌大小watch游戏效果",
+    "lesson_time": "01:221"
+},
+{
+    "lesson_id": "493-6408",
+    "lesson_name": "苹果手表开发前景分析及demo介绍",
+    "lesson_time": "08:412"
+},
+{
+    "lesson_id": "493-6409",
+    "lesson_name": "watchkit机制及watch App工程结构",
+    "lesson_time": "07:003"
+},
+{
+    "lesson_id": "493-6410",
+    "lesson_name": "ui设计及和控制器关联",
+    "lesson_time": "10:594"
+},
+{
+    "lesson_id": "493-6411",
+    "lesson_name": "赌大小的逻辑实现",
+    "lesson_time": "25:165"
+},
+{
+    "lesson_id": "22-256",
+    "lesson_name": "Linux高级程序_进程管理1",
+    "lesson_time": "20:131"
+},
+{
+    "lesson_id": "22-257",
+    "lesson_name": "Linux高级程序_进程管理2",
+    "lesson_time": "20:142"
+},
+{
+    "lesson_id": "22-258",
+    "lesson_name": "Linux高级程序_进程管理3",
+    "lesson_time": "15:583"
+},
+{
+    "lesson_id": "22-261",
+    "lesson_name": "Linux高级程序_进程管理4",
+    "lesson_time": "22:254"
+},
+{
+    "lesson_id": "22-263",
+    "lesson_name": "Linux高级程序_进程管理5",
+    "lesson_time": "20:095"
+},
+{
+    "lesson_id": "22-265",
+    "lesson_name": "Linux高级程序_进程管理6",
+    "lesson_time": "22:316"
+},
+{
+    "lesson_id": "22-268",
+    "lesson_name": "Linux高级程序_进程管理_Daemon1",
+    "lesson_time": "20:147"
+},
+{
+    "lesson_id": "22-272",
+    "lesson_name": "Linux高级程序_进程管理_Daemon2",
+    "lesson_time": "20:058"
+},
+{
+    "lesson_id": "22-275",
+    "lesson_name": "Linux高级程序_进程管理_Daemon3",
+    "lesson_time": "26:309"
+},
+{
+    "lesson_id": "22-277",
+    "lesson_name": "Linux高级程序_进程间通信_Pipe1",
+    "lesson_time": "20:0010"
+},
+{
+    "lesson_id": "22-279",
+    "lesson_name": "Linux高级程序_进程间通信_Pipe2",
+    "lesson_time": "20:0911"
+},
+{
+    "lesson_id": "22-282",
+    "lesson_name": "Linux高级程序_进程间通信_Pipe3",
+    "lesson_time": "27:0812"
+},
+{
+    "lesson_id": "22-285",
+    "lesson_name": "Linux高级程序_进程间通信_Fifo1",
+    "lesson_time": "20:1513"
+},
+{
+    "lesson_id": "22-288",
+    "lesson_name": "Linux高级程序_进程间通信_Fifo2",
+    "lesson_time": "18:2814"
+},
+{
+    "lesson_id": "22-289",
+    "lesson_name": "Linux高级程序_进程间通信_Signal1",
+    "lesson_time": "20:0215"
+},
+{
+    "lesson_id": "22-292",
+    "lesson_name": "Linux高级程序_进程间通信_Signal2",
+    "lesson_time": "20:1116"
+},
+{
+    "lesson_id": "22-294",
+    "lesson_name": "Linux高级程序_进程间通信_Signal3",
+    "lesson_time": "22:0417"
+},
+{
+    "lesson_id": "22-300",
+    "lesson_name": "Linux高级程序_进程间通信_SHM1",
+    "lesson_time": "20:1318"
+},
+{
+    "lesson_id": "22-304",
+    "lesson_name": "Linux高级程序_进程间通信_SHM2",
+    "lesson_time": "19:5519"
+},
+{
+    "lesson_id": "22-306",
+    "lesson_name": "Linux高级程序_进程间通信_SHM3",
+    "lesson_time": "13:1820"
+},
+{
+    "lesson_id": "22-309",
+    "lesson_name": "Linux高级程序_进程间通信_MsgQueue1",
+    "lesson_time": "20:1521"
+},
+{
+    "lesson_id": "22-310",
+    "lesson_name": "Linux高级程序_进程间通信_MsgQueue2",
+    "lesson_time": "17:4122"
+},
+{
+    "lesson_id": "22-312",
+    "lesson_name": "Linux高级程序_进程间通信_Semaphore1",
+    "lesson_time": "20:1423"
+},
+{
+    "lesson_id": "22-314",
+    "lesson_name": "Linux高级程序_进程间通信_Semaphore2",
+    "lesson_time": "05:3724"
+},
+{
+    "lesson_id": "104-870",
+    "lesson_name": "互联网产品与好产品",
+    "lesson_time": "10:251"
+},
+{
+    "lesson_id": "104-871",
+    "lesson_name": "多维度产品拆解1",
+    "lesson_time": "09:052"
+},
+{
+    "lesson_id": "104-872",
+    "lesson_name": "多维度产品拆解2",
+    "lesson_time": "06:363"
+},
+{
+    "lesson_id": "104-873",
+    "lesson_name": "多维度产品拆解3",
+    "lesson_time": "08:394"
+},
+{
+    "lesson_id": "104-874",
+    "lesson_name": "多维度产品拆解4",
+    "lesson_time": "07:545"
+},
+{
+    "lesson_id": "104-875",
+    "lesson_name": "产品经理你是谁？",
+    "lesson_time": "13:476"
+},
+{
+    "lesson_id": "104-876",
+    "lesson_name": "产品经理升级之路",
+    "lesson_time": "04:477"
+},
+{
+    "lesson_id": "104-877",
+    "lesson_name": "PM VS PM",
+    "lesson_time": "10:328"
+},
+{
+    "lesson_id": "741-10652",
+    "lesson_name": "Android Studio工程目录结构及其作用",
+    "lesson_time": "16:241"
+},
+{
+    "lesson_id": "741-10653",
+    "lesson_name": "通过Logcat和debug功能分析调试程序",
+    "lesson_time": "17:182"
+},
+{
+    "lesson_id": "741-10654",
+    "lesson_name": "常用adb命令及DDMS工具",
+    "lesson_time": "25:063"
+},
+{
+    "lesson_id": "7-39",
+    "lesson_name": "程序=数据结构+算法",
+    "lesson_time": "20:081"
+},
+{
+    "lesson_id": "7-40",
+    "lesson_name": "Instance校验对象类型",
+    "lesson_time": "20:202"
+},
+{
+    "lesson_id": "7-41",
+    "lesson_name": "反射在Android中应用",
+    "lesson_time": "20:083"
+},
+{
+    "lesson_id": "7-42",
+    "lesson_name": "反射及迭代器在android中用在哪儿",
+    "lesson_time": "08:434"
+},
+{
+    "lesson_id": "7-43",
+    "lesson_name": "内部类",
+    "lesson_time": "20:065"
+},
+{
+    "lesson_id": "7-44",
+    "lesson_name": "JavaDoc代码文档",
+    "lesson_time": "20:166"
+},
+{
+    "lesson_id": "7-45",
+    "lesson_name": "Android中String基础",
+    "lesson_time": "20:087"
+},
+{
+    "lesson_id": "7-46",
+    "lesson_name": "DateTime基础及泛型",
+    "lesson_time": "20:088"
+},
+{
+    "lesson_id": "7-47",
+    "lesson_name": " 泛型及多线程基础",
+    "lesson_time": "20:149"
+},
+{
+    "lesson_id": "7-48",
+    "lesson_name": "Http网络编程",
+    "lesson_time": "20:0810"
+},
+{
+    "lesson_id": "7-49",
+    "lesson_name": "Java For Android 总结",
+    "lesson_time": "07:4511"
+},
+{
+    "lesson_id": "34-2452",
+    "lesson_name": "u-boot的版本选择",
+    "lesson_time": "10:231"
+},
+{
+    "lesson_id": "34-2453",
+    "lesson_name": "u-boot的异常向量表，V210的启动机制原理",
+    "lesson_time": "18:492"
+},
+{
+    "lesson_id": "34-2454",
+    "lesson_name": "用objdump反汇编查看u-boot的头部代码和异常向量处理",
+    "lesson_time": "19:543"
+},
+{
+    "lesson_id": "34-2455",
+    "lesson_name": "ENTRY等宏的展开，CPSR寄存器的设置",
+    "lesson_time": "20:154"
+},
+{
+    "lesson_id": "34-2456",
+    "lesson_name": "CP15协处理器基础，VBAR异常向量表基址映射",
+    "lesson_time": "09:485"
+},
+{
+    "lesson_id": "34-2457",
+    "lesson_name": "cpu_init_cp15子过程分析： cache的操作",
+    "lesson_time": "22:556"
+},
+{
+    "lesson_id": "34-2458",
+    "lesson_name": "cpu_init_cp15子过程分析（续）：分支预测、MMU操作",
+    "lesson_time": "19:217"
+},
+{
+    "lesson_id": "34-2459",
+    "lesson_name": "cpu_initcrit子过程分析，实验一：修改u-boot源代码使其用LED灯显示运行状态",
+    "lesson_time": "20:158"
+},
+{
+    "lesson_id": "34-2460",
+    "lesson_name": "实验一（续）：GPIO输入输出的电路分析",
+    "lesson_time": "20:139"
+},
+{
+    "lesson_id": "34-2461",
+    "lesson_name": "实验一（续）：制作u-boot烧写镜像的原理，mkv210源代码分析",
+    "lesson_time": "21:0110"
+},
+{
+    "lesson_id": "34-2462",
+    "lesson_name": "实验一（续）：用hexdump工具分析镜像的16进制代码",
+    "lesson_time": "20:2411"
+},
+{
+    "lesson_id": "34-2463",
+    "lesson_name": "编译、链接、汇编过程概述",
+    "lesson_time": "19:5312"
+},
+{
+    "lesson_id": "34-2464",
+    "lesson_name": "实验二：编写自己的boot程序：myboot",
+    "lesson_time": "19:2713"
+},
+{
+    "lesson_id": "34-2465",
+    "lesson_name": "实验二（续）：两个以上文件的链接原理",
+    "lesson_time": "20:0814"
+},
+{
+    "lesson_id": "34-2466",
+    "lesson_name": "实验二（续）：反汇编分析自己的myboot",
+    "lesson_time": "20:1615"
+},
+{
+    "lesson_id": "34-2467",
+    "lesson_name": "实验二（续）：利用Makefile自动化编译myboot",
+    "lesson_time": "21:2216"
+},
+{
+    "lesson_id": "34-2468",
+    "lesson_name": "实验二（续）：改进我们的Makefile",
+    "lesson_time": "20:2517"
+},
+{
+    "lesson_id": "34-2469",
+    "lesson_name": "实验二（续）：Makefile中的自动化变量",
+    "lesson_time": "21:2618"
+},
+{
+    "lesson_id": "34-2470",
+    "lesson_name": "芯片型号判断，复位方式判断",
+    "lesson_time": "20:5419"
+},
+{
+    "lesson_id": "34-2471",
+    "lesson_name": "IO保持、复位方式判断、中断初始化",
+    "lesson_time": "20:2820"
+},
+{
+    "lesson_id": "34-2472",
+    "lesson_name": "UART初始化与异步通信原理",
+    "lesson_time": "20:3321"
+},
+{
+    "lesson_id": "34-2473",
+    "lesson_name": "UART分析1",
+    "lesson_time": "20:3222"
+},
+{
+    "lesson_id": "34-2474",
+    "lesson_name": "UART分析2",
+    "lesson_time": "20:1923"
+},
+{
+    "lesson_id": "34-2475",
+    "lesson_name": "UART分析3",
+    "lesson_time": "20:2424"
+},
+{
+    "lesson_id": "34-2476",
+    "lesson_name": "UART分析4",
+    "lesson_time": "19:0025"
+},
+{
+    "lesson_id": "34-2477",
+    "lesson_name": "实验三：用UART显示某指定内存中的数据",
+    "lesson_time": "24:1126"
+},
+{
+    "lesson_id": "34-2478",
+    "lesson_name": "DDR内存的基本原理1",
+    "lesson_time": "19:4627"
+},
+{
+    "lesson_id": "34-2479",
+    "lesson_name": "DDR内存的基本原理2",
+    "lesson_time": "20:1428"
+},
+{
+    "lesson_id": "34-2480",
+    "lesson_name": "DDR内存的基本原理3",
+    "lesson_time": "20:1229"
+},
+{
+    "lesson_id": "34-2481",
+    "lesson_name": "DDR内存的在V210开放板上的硬件连接1",
+    "lesson_time": "20:2130"
+},
+{
+    "lesson_id": "34-2482",
+    "lesson_name": "DDR内存的在V210开放板上的硬件连接2",
+    "lesson_time": "19:2431"
+},
+{
+    "lesson_id": "34-2483",
+    "lesson_name": "DDR2-Device的内部结构1",
+    "lesson_time": "20:2932"
+},
+{
+    "lesson_id": "34-2484",
+    "lesson_name": "DDR2-Device的内部结构2",
+    "lesson_time": "21:0933"
+},
+{
+    "lesson_id": "34-2485",
+    "lesson_name": "DDR2-操作的有限状态机",
+    "lesson_time": "21:0634"
+},
+{
+    "lesson_id": "34-2486",
+    "lesson_name": "DDR2的MRS和EMRS寄存器",
+    "lesson_time": "21:2135"
+},
+{
+    "lesson_id": "34-2487",
+    "lesson_name": "DDR2的读写时序1",
+    "lesson_time": "20:4636"
+},
+{
+    "lesson_id": "34-2488",
+    "lesson_name": "DDR2的读写时序2",
+    "lesson_time": "22:2437"
+},
+{
+    "lesson_id": "34-2489",
+    "lesson_name": "DDR2初始化代码分析1",
+    "lesson_time": "18:4738"
+},
+{
+    "lesson_id": "34-2490",
+    "lesson_name": "DDR2初始化代码分析2",
+    "lesson_time": "20:0839"
+},
+{
+    "lesson_id": "34-2491",
+    "lesson_name": "DDR2初始化代码分析3",
+    "lesson_time": "24:2740"
+},
+{
+    "lesson_id": "34-2492",
+    "lesson_name": "DDR2初始化代码分析4",
+    "lesson_time": "20:2941"
+},
+{
+    "lesson_id": "34-2493",
+    "lesson_name": "DDR2初始化代码分析5",
+    "lesson_time": "19:5342"
+},
+{
+    "lesson_id": "34-2494",
+    "lesson_name": "DDR2初始化代码分析6",
+    "lesson_time": "21:2443"
+},
+{
+    "lesson_id": "34-2495",
+    "lesson_name": "DDR2初始化代码分析7",
+    "lesson_time": "19:5044"
+},
+{
+    "lesson_id": "34-2496",
+    "lesson_name": "DDR2初始化代码分析8",
+    "lesson_time": "20:4245"
+},
+{
+    "lesson_id": "34-2497",
+    "lesson_name": "DDR2初始化代码分析9",
+    "lesson_time": "20:3346"
+},
+{
+    "lesson_id": "34-2498",
+    "lesson_name": "DDR2初始化代码分析10",
+    "lesson_time": "20:2647"
+},
+{
+    "lesson_id": "34-2499",
+    "lesson_name": "编写自己的DDR初始化代码1",
+    "lesson_time": "20:5048"
+},
+{
+    "lesson_id": "34-2500",
+    "lesson_name": "编写自己的DDR初始化代码2",
+    "lesson_time": "20:1249"
+},
+{
+    "lesson_id": "34-2501",
+    "lesson_name": "board_init_f函数分析1",
+    "lesson_time": "22:2150"
+},
+{
+    "lesson_id": "34-2502",
+    "lesson_name": "board_init_f函数分析2",
+    "lesson_time": "19:3051"
+},
+{
+    "lesson_id": "34-2503",
+    "lesson_name": "mmc_relocate分析",
+    "lesson_time": "19:5052"
+},
+{
+    "lesson_id": "34-2504",
+    "lesson_name": "实验五：将u-boot",
+    "lesson_time": "21:1653"
+},
+{
+    "lesson_id": "34-2505",
+    "lesson_name": "实验五：将u-boot",
+    "lesson_time": "20:2254"
+},
+{
+    "lesson_id": "34-2506",
+    "lesson_name": "u-boot的链接镜像结构分析",
+    "lesson_time": "21:3555"
+},
+{
+    "lesson_id": "34-2507",
+    "lesson_name": "board_init_f函数分析3",
+    "lesson_time": "20:5756"
+},
+{
+    "lesson_id": "34-2508",
+    "lesson_name": "board_init_f函数分析4",
+    "lesson_time": "20:2757"
+},
+{
+    "lesson_id": "34-2509",
+    "lesson_name": "board_init_f函数分析5",
+    "lesson_time": "21:1158"
+},
+{
+    "lesson_id": "34-2510",
+    "lesson_name": "board_init_f函数分析6",
+    "lesson_time": "20:0459"
+},
+{
+    "lesson_id": "34-2511",
+    "lesson_name": "board_init_f函数分析7",
+    "lesson_time": "20:0360"
+},
+{
+    "lesson_id": "34-2512",
+    "lesson_name": "u-boot的自举实现",
+    "lesson_time": "19:4261"
+},
+{
+    "lesson_id": "34-2513",
+    "lesson_name": "relocate_code汇编自举代码分析",
+    "lesson_time": "20:5262"
+},
+{
+    "lesson_id": "34-2514",
+    "lesson_name": "板级初始化的后半部分：bord_init_r函数分析1",
+    "lesson_time": "20:0263"
+},
+{
+    "lesson_id": "34-2515",
+    "lesson_name": "板级初始化的后半部分：bord_init_r函数分析2",
+    "lesson_time": "21:5964"
+},
+{
+    "lesson_id": "34-2516",
+    "lesson_name": "板级初始化的后半部分：bord_init_r函数分析3",
+    "lesson_time": "20:3865"
+},
+{
+    "lesson_id": "34-2517",
+    "lesson_name": "板级初始化的后半部分：bord_init_r函数分析4",
+    "lesson_time": "20:4366"
+},
+{
+    "lesson_id": "34-2518",
+    "lesson_name": "跳转到主循环，main_loop",
+    "lesson_time": "19:5567"
+},
+{
+    "lesson_id": "34-2519",
+    "lesson_name": "主循环分析：u-boot 解析终端输入命令行的原理",
+    "lesson_time": "21:0968"
+},
+{
+    "lesson_id": "34-2520",
+    "lesson_name": "主循环分析：u-boot 的命令执行实现",
+    "lesson_time": "13:0769"
+},
+{
+    "lesson_id": "34-2521",
+    "lesson_name": "bootm启动流程分析1",
+    "lesson_time": "20:5170"
+},
+{
+    "lesson_id": "34-2522",
+    "lesson_name": "bootm启动流程分析2",
+    "lesson_time": "19:5971"
+},
+{
+    "lesson_id": "34-2523",
+    "lesson_name": "bootm启动流程分析3",
+    "lesson_time": "22:1872"
+},
+{
+    "lesson_id": "34-2524",
+    "lesson_name": "bootm启动流程分析4",
+    "lesson_time": "20:4773"
+},
+{
+    "lesson_id": "566-7839",
+    "lesson_name": "基础元器件和电阻",
+    "lesson_time": "16:391"
+},
+{
+    "lesson_id": "566-7840",
+    "lesson_name": "基础元器件：电容器",
+    "lesson_time": "19:492"
+},
+{
+    "lesson_id": "566-7841",
+    "lesson_name": "基础元器件：电感",
+    "lesson_time": "35:233"
+},
+{
+    "lesson_id": "566-7842",
+    "lesson_name": "基础元器件：保险",
+    "lesson_time": "14:024"
+},
+{
+    "lesson_id": "566-7843",
+    "lesson_name": "基础元器件：二极管",
+    "lesson_time": "18:555"
+},
+{
+    "lesson_id": "566-7844",
+    "lesson_name": "基础元器件：三极管",
+    "lesson_time": "22:116"
+},
+{
+    "lesson_id": "566-8719",
+    "lesson_name": "基础元器件+接插件",
+    "lesson_time": "15:007"
+},
+{
+    "lesson_id": "566-8720",
+    "lesson_name": "基础元器件+蜂鸣器",
+    "lesson_time": "10:468"
+},
+{
+    "lesson_id": "566-8721",
+    "lesson_name": "基础元器件+MOS",
+    "lesson_time": "23:019"
+},
+{
+    "lesson_id": "566-8722",
+    "lesson_name": "基础元器件+电阻提高篇",
+    "lesson_time": "29:1210"
+},
+{
+    "lesson_id": "566-8723",
+    "lesson_name": "基础元器件+电感提高篇-变压器",
+    "lesson_time": "20:0411"
+},
+{
+    "lesson_id": "566-8724",
+    "lesson_name": "基础元器件+二极管提高篇-整流桥",
+    "lesson_time": "17:3812"
+},
+{
+    "lesson_id": "566-8725",
+    "lesson_name": "基础元器件+IGBT",
+    "lesson_time": "27:0113"
+},
+{
+    "lesson_id": "566-8726",
+    "lesson_name": "基础元器件+电源转换器件",
+    "lesson_time": "08:0914"
+},
+{
+    "lesson_id": "566-8727",
+    "lesson_name": "基础元器件+晶振",
+    "lesson_time": "10:2415"
+},
+{
+    "lesson_id": "566-8728",
+    "lesson_name": "基础元器件+继电器",
+    "lesson_time": "22:1616"
+},
+{
+    "lesson_id": "566-8729",
+    "lesson_name": "基础元器件+光耦",
+    "lesson_time": "18:1317"
+},
+{
+    "lesson_id": "566-8730",
+    "lesson_name": "基础元器件+缓冲器",
+    "lesson_time": "14:2918"
+},
+{
+    "lesson_id": "566-8731",
+    "lesson_name": "基础元器件+触发器",
+    "lesson_time": "13:4619"
+},
+{
+    "lesson_id": "566-8732",
+    "lesson_name": "基础元器件+计数器",
+    "lesson_time": "13:4520"
+},
+{
+    "lesson_id": "566-8733",
+    "lesson_name": "基础元器件-AD DA转换器",
+    "lesson_time": "32:4821"
+},
+{
+    "lesson_id": "566-8734",
+    "lesson_name": "基础元器件+隔离放大器",
+    "lesson_time": "17:3522"
+},
+{
+    "lesson_id": "566-8735",
+    "lesson_name": "基础元器件+运放",
+    "lesson_time": "29:1523"
+},
+{
+    "lesson_id": "566-8736",
+    "lesson_name": "基础元器件+电压基准源",
+    "lesson_time": "18:4324"
+},
+{
+    "lesson_id": "566-8737",
+    "lesson_name": "基础元器件+555定时器",
+    "lesson_time": "18:1125"
+},
+{
+    "lesson_id": "580-8345",
+    "lesson_name": "JavaScript中的特殊形式的函数",
+    "lesson_time": "16:341"
+},
+{
+    "lesson_id": "580-8346",
+    "lesson_name": "JavaScript中的闭包",
+    "lesson_time": "29:532"
+},
+{
+    "lesson_id": "580-8347",
+    "lesson_name": "JavaScript中闭包的应用",
+    "lesson_time": "22:523"
+},
+{
+    "lesson_id": "580-8348",
+    "lesson_name": "Javascript中的对象-对象的扩展性",
+    "lesson_time": "38:034"
+},
+{
+    "lesson_id": "580-8349",
+    "lesson_name": "JavaScript中的内建对象之Object对象",
+    "lesson_time": "23:575"
+},
+{
+    "lesson_id": "580-8350",
+    "lesson_name": "JavaScript中的Number对象和Boolean对象",
+    "lesson_time": "20:266"
+},
+{
+    "lesson_id": "580-8351",
+    "lesson_name": "JavaScript内建对象之String对象",
+    "lesson_time": "44:477"
+},
+{
+    "lesson_id": "580-8352",
+    "lesson_name": "JavaScript中的内建对象之Function对象",
+    "lesson_time": "16:098"
+},
+{
+    "lesson_id": "580-8353",
+    "lesson_name": "Javascript内建对象之Math对象",
+    "lesson_time": "04:599"
+},
+{
+    "lesson_id": "580-8354",
+    "lesson_name": "Javascript中对象的属性提升篇",
+    "lesson_time": "13:0410"
+},
+{
+    "lesson_id": "580-8355",
+    "lesson_name": "JavaScript中对象的原型属性prototype",
+    "lesson_time": "14:3711"
+},
+{
+    "lesson_id": "580-8356",
+    "lesson_name": "Javascript中的扩展内建对象",
+    "lesson_time": "17:3912"
+},
+{
+    "lesson_id": "580-8357",
+    "lesson_name": "JavaScript中的原型链继承",
+    "lesson_time": "13:1113"
+},
+{
+    "lesson_id": "580-8358",
+    "lesson_name": "JavaScript中共享属性迁移到原型",
+    "lesson_time": "11:0214"
+},
+{
+    "lesson_id": "580-8359",
+    "lesson_name": "JavaScript只继承原型的方案",
+    "lesson_time": "14:2915"
+},
+{
+    "lesson_id": "580-8360",
+    "lesson_name": "Javascript中的继承封装",
+    "lesson_time": "14:5016"
+},
+{
+    "lesson_id": "580-8361",
+    "lesson_name": "JavaScript中拷贝父类对象的属性",
+    "lesson_time": "14:1417"
+},
+{
+    "lesson_id": "580-8362",
+    "lesson_name": "Javascript中深度拷贝",
+    "lesson_time": "14:0018"
+},
+{
+    "lesson_id": "580-8363",
+    "lesson_name": "JavaScript中的多重继承",
+    "lesson_time": "19:0219"
+},
+{
+    "lesson_id": "580-8364",
+    "lesson_name": "JavaScript对象继承总结",
+    "lesson_time": "02:1420"
+},
+{
+    "lesson_id": "691-10168",
+    "lesson_name": "Activity概念和简单使用",
+    "lesson_time": "18:391"
+},
+{
+    "lesson_id": "691-10169",
+    "lesson_name": "Activity基本配置",
+    "lesson_time": "11:042"
+},
+{
+    "lesson_id": "691-10170",
+    "lesson_name": "Activity启动方法(上)",
+    "lesson_time": "16:243"
+},
+{
+    "lesson_id": "691-10171",
+    "lesson_name": "编辑Activity启动方法(下）",
+    "lesson_time": "09:044"
+},
+{
+    "lesson_id": "691-10172",
+    "lesson_name": "Activity显式隐式启动",
+    "lesson_time": "12:235"
+},
+{
+    "lesson_id": "691-10173",
+    "lesson_name": "Activity生命周期",
+    "lesson_time": "19:546"
+},
+{
+    "lesson_id": "691-10174",
+    "lesson_name": "加载模式-上",
+    "lesson_time": "14:467"
+},
+{
+    "lesson_id": "691-10176",
+    "lesson_name": "加载模式-中",
+    "lesson_time": "13:158"
+},
+{
+    "lesson_id": "691-10175",
+    "lesson_name": "加载模式-下",
+    "lesson_time": "03:529"
+},
+{
+    "lesson_id": "691-10177",
+    "lesson_name": "IntentFlag-上",
+    "lesson_time": "13:5710"
+},
+{
+    "lesson_id": "691-10178",
+    "lesson_name": "IntentFlag-下",
+    "lesson_time": "12:3211"
+},
+{
+    "lesson_id": "691-10179",
+    "lesson_name": "Intent传参",
+    "lesson_time": "14:0012"
+},
+{
+    "lesson_id": "691-10180",
+    "lesson_name": "Bundle传递",
+    "lesson_time": "06:4313"
+},
+{
+    "lesson_id": "691-10181",
+    "lesson_name": "复杂数据传递",
+    "lesson_time": "14:1814"
+},
+{
+    "lesson_id": "691-10182",
+    "lesson_name": "Activity数据回传",
+    "lesson_time": "07:1015"
+},
+{
+    "lesson_id": "691-10183",
+    "lesson_name": "启动系统的Activity",
+    "lesson_time": "06:4216"
+},
+{
+    "lesson_id": "691-10184",
+    "lesson_name": "intentfilter之data",
+    "lesson_time": "10:2517"
+},
+{
+    "lesson_id": "836-12278",
+    "lesson_name": "微信公众号JS全栈开发实战课程介绍",
+    "lesson_time": "11:441"
+},
+{
+    "lesson_id": "836-12279",
+    "lesson_name": "微信公众号开发简介：类型、流程",
+    "lesson_time": "14:382"
+},
+{
+    "lesson_id": "836-12280",
+    "lesson_name": "微信公众号开发准备：账号注册和配置",
+    "lesson_time": "11:383"
+},
+{
+    "lesson_id": "836-12281",
+    "lesson_name": "微信公众号开发准备：ECS云主机购买和配置（上）",
+    "lesson_time": "16:574"
+},
+{
+    "lesson_id": "836-12282",
+    "lesson_name": "微信公众号开发准备：ECS云主机购买和配置（下）",
+    "lesson_time": "20:225"
+},
+{
+    "lesson_id": "836-12283",
+    "lesson_name": "微信公众号调试工具：公众平台测试账号",
+    "lesson_time": "20:266"
+},
+{
+    "lesson_id": "836-12284",
+    "lesson_name": "微信公众号调试工具：在线接口调试",
+    "lesson_time": "13:317"
+},
+{
+    "lesson_id": "836-12285",
+    "lesson_name": "微信公众号调试工具：WEB开发者工具",
+    "lesson_time": "10:408"
+},
+{
+    "lesson_id": "836-12286",
+    "lesson_name": "微信公众号开发：消息管理接口开发",
+    "lesson_time": "08:109"
+},
+{
+    "lesson_id": "836-12287",
+    "lesson_name": "微信公众号开发：用户管理接口",
+    "lesson_time": "06:3510"
+},
+{
+    "lesson_id": "836-12288",
+    "lesson_name": "微信公众号开发：菜单管理接口开发",
+    "lesson_time": "13:5111"
+},
+{
+    "lesson_id": "836-12289",
+    "lesson_name": "微信公众号开发：内嵌网页开发（上）",
+    "lesson_time": "19:5212"
+},
+{
+    "lesson_id": "836-12290",
+    "lesson_name": "微信公众号开发：内嵌网页开发（中）",
+    "lesson_time": "27:2713"
+},
+{
+    "lesson_id": "836-12291",
+    "lesson_name": "微信公众号开发：内嵌网页开发（下）",
+    "lesson_time": "19:4414"
+},
+{
+    "lesson_id": "836-12292",
+    "lesson_name": "实战：问答系统功能规划",
+    "lesson_time": "13:0015"
+},
+{
+    "lesson_id": "836-12293",
+    "lesson_name": "实战：问答系统脚手架",
+    "lesson_time": "17:3816"
+},
+{
+    "lesson_id": "836-12294",
+    "lesson_name": "实战：问答系统脚手架：建模",
+    "lesson_time": "17:3517"
+},
+{
+    "lesson_id": "836-12295",
+    "lesson_name": "实战：问答系统服务端实现：用户同步",
+    "lesson_time": "17:2518"
+},
+{
+    "lesson_id": "836-12296",
+    "lesson_name": "实战：问答系统服务端实现：菜单同步",
+    "lesson_time": "14:5219"
+},
+{
+    "lesson_id": "836-12297",
+    "lesson_name": "实战：问答系统服务端实现：问答功能（上）",
+    "lesson_time": "20:0620"
+},
+{
+    "lesson_id": "836-12298",
+    "lesson_name": "实战：问答系统服务端实现：问答功能（下）",
+    "lesson_time": "07:1121"
+},
+{
+    "lesson_id": "836-12299",
+    "lesson_name": "实战：问答系统服务端实现：问答历史（上）",
+    "lesson_time": "17:5922"
+},
+{
+    "lesson_id": "836-12300",
+    "lesson_name": "实战：问答系统服务端实现：问答历史（下）",
+    "lesson_time": "12:3323"
+},
+{
+    "lesson_id": "836-12301",
+    "lesson_name": "实战：问答系统服务端实现：随机问答",
+    "lesson_time": "16:2424"
+},
+{
+    "lesson_id": "836-12302",
+    "lesson_name": "微信公众号JS全栈开发实战总结",
+    "lesson_time": "05:5825"
+},
+{
+    "lesson_id": "326-3254",
+    "lesson_name": "JavaScript简介",
+    "lesson_time": "28:031"
+},
+{
+    "lesson_id": "326-3255",
+    "lesson_name": "JavaScript的变量",
+    "lesson_time": "15:102"
+},
+{
+    "lesson_id": "326-3256",
+    "lesson_name": "JavaScript中的数据类型",
+    "lesson_time": "19:073"
+},
+{
+    "lesson_id": "326-3257",
+    "lesson_name": "JavaScript隐式转换",
+    "lesson_time": "19:314"
+},
+{
+    "lesson_id": "326-3258",
+    "lesson_name": "JavaScript中的强制转换",
+    "lesson_time": "18:125"
+},
+{
+    "lesson_id": "326-3259",
+    "lesson_name": "JavaScript表达式与运算符",
+    "lesson_time": "42:126"
+},
+{
+    "lesson_id": "326-3260",
+    "lesson_name": "JavaScript的其它运算符与优先级",
+    "lesson_time": "13:417"
+},
+{
+    "lesson_id": "326-3261",
+    "lesson_name": "Javascript中的流程控制-条件语句",
+    "lesson_time": "26:218"
+},
+{
+    "lesson_id": "326-3262",
+    "lesson_name": "Javascript中的流程控制-for循环",
+    "lesson_time": "26:219"
+},
+{
+    "lesson_id": "326-3263",
+    "lesson_name": "JavaScript中的流程控制-while循环和dowhile循环",
+    "lesson_time": "19:0710"
+},
+{
+    "lesson_id": "326-3264",
+    "lesson_name": "JavaScript中的函数-通过function关键字定义函数",
+    "lesson_time": "17:3711"
+},
+{
+    "lesson_id": "326-3265",
+    "lesson_name": "JavaScript中的默认参数、可变参数、变量作用域",
+    "lesson_time": "25:3112"
+},
+{
+    "lesson_id": "326-3266",
+    "lesson_name": "Javascript中的全局函数-数值型函数",
+    "lesson_time": "12:0013"
+},
+{
+    "lesson_id": "326-3267",
+    "lesson_name": "JavaScript中的全局函数",
+    "lesson_time": "19:2914"
+},
+{
+    "lesson_id": "326-3268",
+    "lesson_name": "Javascript中的特殊形式的函数-匿名函数的应用",
+    "lesson_time": "24:5415"
+},
+{
+    "lesson_id": "326-7755",
+    "lesson_name": "Javascript中的对象-如何自定义对象",
+    "lesson_time": "21:3916"
+},
+{
+    "lesson_id": "326-7756",
+    "lesson_name": "JavaScript中的对象-属性相关操作",
+    "lesson_time": "24:4917"
+},
+{
+    "lesson_id": "326-7757",
+    "lesson_name": "JavaScript中的对象-对象的结构",
+    "lesson_time": "26:3218"
+},
+{
+    "lesson_id": "326-7758",
+    "lesson_name": "JavaScript中的对象-属性的特性",
+    "lesson_time": "14:5219"
+},
+{
+    "lesson_id": "326-7759",
+    "lesson_name": "JavaScript中的对象-属性特性描述",
+    "lesson_time": "25:0520"
+},
+{
+    "lesson_id": "326-7760",
+    "lesson_name": "JavaScript中的对象-属性的特性",
+    "lesson_time": "19:3121"
+},
+{
+    "lesson_id": "326-7761",
+    "lesson_name": "JavaScript中的对象-对象的特性",
+    "lesson_time": "18:4422"
+},
+{
+    "lesson_id": "326-7974",
+    "lesson_name": "Javascript的内建对象之Date对象",
+    "lesson_time": "17:2623"
+},
+{
+    "lesson_id": "326-7975",
+    "lesson_name": "JavaScript中的内建对象之RegExp对象",
+    "lesson_time": "35:5824"
+},
+{
+    "lesson_id": "326-7976",
+    "lesson_name": "JavaScript中内建对象之Error对象",
+    "lesson_time": "18:0525"
+},
+{
+    "lesson_id": "326-8327",
+    "lesson_name": "JavaScript中的数组对象",
+    "lesson_time": "66:3526"
+},
+{
+    "lesson_id": "326-8328",
+    "lesson_name": "Javascript中的事件简介",
+    "lesson_time": "30:3427"
+},
+{
+    "lesson_id": "326-8329",
+    "lesson_name": "DOM2级事件绑定和移除",
+    "lesson_time": "31:4228"
+},
+{
+    "lesson_id": "326-8330",
+    "lesson_name": "JavaScript中的事件对象及兼容性",
+    "lesson_time": "28:0929"
+},
+{
+    "lesson_id": "326-8331",
+    "lesson_name": "Javascript中的兼容性问题及onload事件",
+    "lesson_time": "22:1930"
+},
+{
+    "lesson_id": "326-8332",
+    "lesson_name": "Javascript表单验证",
+    "lesson_time": "13:4031"
+},
+{
+    "lesson_id": "236-2029",
+    "lesson_name": "Objective-C的基本语法",
+    "lesson_time": "21:341"
+},
+{
+    "lesson_id": "236-2030",
+    "lesson_name": "Objective-C内存管理1",
+    "lesson_time": "21:042"
+},
+{
+    "lesson_id": "236-2031",
+    "lesson_name": "Objective-C内存管理2",
+    "lesson_time": "19:593"
+},
+{
+    "lesson_id": "236-2032",
+    "lesson_name": "独特的语法-Property，Category，Protocol",
+    "lesson_time": "21:194"
+},
+{
+    "lesson_id": "236-2033",
+    "lesson_name": "Objective-C Delegate机制",
+    "lesson_time": "22:005"
+},
+{
+    "lesson_id": "236-2034",
+    "lesson_name": "Objective-C开发语言中使用Block",
+    "lesson_time": "20:306"
+},
+{
+    "lesson_id": "236-2035",
+    "lesson_name": "Objective-C动态消息, 字符串(NSString)",
+    "lesson_time": "20:297"
+},
+{
+    "lesson_id": "236-2036",
+    "lesson_name": "Objective-C序列(NSArray)",
+    "lesson_time": "20:238"
+},
+{
+    "lesson_id": "236-2037",
+    "lesson_name": "Objective-C可变序列(NSMutableArray)",
+    "lesson_time": "19:489"
+},
+{
+    "lesson_id": "236-2038",
+    "lesson_name": "从文件读取序列，字典(NSDictionary)",
+    "lesson_time": "19:4910"
+},
+{
+    "lesson_id": "236-2039",
+    "lesson_name": "可变字典(NSMutableDictionary)，从文件读取字典",
+    "lesson_time": "20:3711"
+},
+{
+    "lesson_id": "61-350",
+    "lesson_name": "开发流程介绍",
+    "lesson_time": "05:111"
+},
+{
+    "lesson_id": "61-358",
+    "lesson_name": "打包前的准备",
+    "lesson_time": "17:082"
+},
+{
+    "lesson_id": "61-361",
+    "lesson_name": "打包时的混淆和加密",
+    "lesson_time": "14:333"
+},
+{
+    "lesson_id": "61-364",
+    "lesson_name": "发布前的回归测试",
+    "lesson_time": "13:374"
+},
+{
+    "lesson_id": "61-367",
+    "lesson_name": "程序版本名称和版本代号VersionCodeAndName",
+    "lesson_time": "17:555"
+},
+{
+    "lesson_id": "61-369",
+    "lesson_name": "什么是混淆",
+    "lesson_time": "12:106"
+},
+{
+    "lesson_id": "61-373",
+    "lesson_name": "Proguard使用和配置",
+    "lesson_time": "19:317"
+},
+{
+    "lesson_id": "61-376",
+    "lesson_name": "Proguard日志清理示例",
+    "lesson_time": "18:348"
+},
+{
+    "lesson_id": "61-379",
+    "lesson_name": "签名文件",
+    "lesson_time": "18:299"
+},
+{
+    "lesson_id": "61-382",
+    "lesson_name": "apk包的具体内部生成流程",
+    "lesson_time": "14:2110"
+},
+{
+    "lesson_id": "61-384",
+    "lesson_name": "使用Eclipse和IntelliJ IDEA打包",
+    "lesson_time": "05:2411"
+},
+{
+    "lesson_id": "61-386",
+    "lesson_name": "ANT的使用",
+    "lesson_time": "17:1312"
+},
+{
+    "lesson_id": "61-389",
+    "lesson_name": "批量生成多个渠道包",
+    "lesson_time": "09:0713"
+},
+{
+    "lesson_id": "61-391",
+    "lesson_name": "发布上传apk",
+    "lesson_time": "14:5714"
+},
+{
+    "lesson_id": "491-6397",
+    "lesson_name": "Composer：类库管理神器 - Laravel的安装和配置",
+    "lesson_time": "14:521"
+},
+{
+    "lesson_id": "491-6398",
+    "lesson_name": "路由：地址和方法的小媒人 - 基础路由",
+    "lesson_time": "10:582"
+},
+{
+    "lesson_id": "491-6399",
+    "lesson_name": "控制器：管家婆 - 基础用法",
+    "lesson_time": "12:423"
+},
+{
+    "lesson_id": "491-6400",
+    "lesson_name": "视图：最终结果输出",
+    "lesson_time": "13:554"
+},
+{
+    "lesson_id": "491-6401",
+    "lesson_name": "blade：强大的后端模板 - 基础用法",
+    "lesson_time": "12:545"
+},
+{
+    "lesson_id": "491-6402",
+    "lesson_name": "blade：输出",
+    "lesson_time": "05:156"
+},
+{
+    "lesson_id": "491-6403",
+    "lesson_name": "blade：子视图",
+    "lesson_time": "11:517"
+},
+{
+    "lesson_id": "491-6404",
+    "lesson_name": "环境与部署：一切的基础",
+    "lesson_time": "20:018"
+},
+{
+    "lesson_id": "491-6405",
+    "lesson_name": "eloquent：基础用法",
+    "lesson_time": "16:299"
+},
+{
+    "lesson_id": "491-6406",
+    "lesson_name": "增删改查",
+    "lesson_time": "15:4210"
+},
+{
+    "lesson_id": "491-6480",
+    "lesson_name": "Eloquent：集合",
+    "lesson_time": "11:0311"
+},
+{
+    "lesson_id": "491-6481",
+    "lesson_name": "请求：操作用户产生的数据",
+    "lesson_time": "08:3212"
+},
+{
+    "lesson_id": "491-6482",
+    "lesson_name": "请求：请求实例",
+    "lesson_time": "05:2313"
+},
+{
+    "lesson_id": "491-6483",
+    "lesson_name": "请求：请求检索",
+    "lesson_time": "03:2814"
+},
+{
+    "lesson_id": "491-6484",
+    "lesson_name": "请求：输入历史",
+    "lesson_time": "05:1715"
+},
+{
+    "lesson_id": "491-6485",
+    "lesson_name": "第一十六节",
+    "lesson_time": "06:5816"
+},
+{
+    "lesson_id": "491-6486",
+    "lesson_name": "请求：文件",
+    "lesson_time": "10:4417"
+},
+{
+    "lesson_id": "491-6487",
+    "lesson_name": "会话：基础用法",
+    "lesson_time": "06:0418"
+},
+{
+    "lesson_id": "491-6488",
+    "lesson_name": "数据验证： 基础用法",
+    "lesson_time": "08:5419"
+},
+{
+    "lesson_id": "491-6489",
+    "lesson_name": "表单验证：表单请求验证",
+    "lesson_time": "05:0720"
+},
+{
+    "lesson_id": "491-6490",
+    "lesson_name": "哈希",
+    "lesson_time": "06:2321"
+},
+{
+    "lesson_id": "491-6491",
+    "lesson_name": "帮助函数：array",
+    "lesson_time": "09:4122"
+},
+{
+    "lesson_id": "491-6492",
+    "lesson_name": "帮助函数：path",
+    "lesson_time": "02:3523"
+},
+{
+    "lesson_id": "491-6493",
+    "lesson_name": "帮助函数：string（完）",
+    "lesson_time": "07:2424"
+},
+{
+    "lesson_id": "6-151",
+    "lesson_name": "Linux基础及操作系统框架1",
+    "lesson_time": "20:021"
+},
+{
+    "lesson_id": "6-153",
+    "lesson_name": "Linux基础及操作系统框架2",
+    "lesson_time": "20:132"
+},
+{
+    "lesson_id": "6-159",
+    "lesson_name": "Linux基础及操作系统框架3",
+    "lesson_time": "20:083"
+},
+{
+    "lesson_id": "6-162",
+    "lesson_name": "Linux基础及操作系统框架4",
+    "lesson_time": "04:514"
+},
+{
+    "lesson_id": "6-164",
+    "lesson_name": "Shell命令机制1",
+    "lesson_time": "20:085"
+},
+{
+    "lesson_id": "6-165",
+    "lesson_name": "Shell命令机制2",
+    "lesson_time": "18:516"
+},
+{
+    "lesson_id": "6-166",
+    "lesson_name": "Shell命令机制3",
+    "lesson_time": "18:527"
+},
+{
+    "lesson_id": "6-167",
+    "lesson_name": "Shell命令机制4",
+    "lesson_time": "02:028"
+},
+{
+    "lesson_id": "6-168",
+    "lesson_name": "Linux命令类库机制及常用命令练习1",
+    "lesson_time": "20:049"
+},
+{
+    "lesson_id": "6-169",
+    "lesson_name": "Linux命令类库机制及常用命令练习2",
+    "lesson_time": "20:0410"
+},
+{
+    "lesson_id": "6-170",
+    "lesson_name": "Linux命令类库机制及常用命令练习3",
+    "lesson_time": "20:1011"
+},
+{
+    "lesson_id": "6-171",
+    "lesson_name": "Linux命令类库机制及常用命令练习4",
+    "lesson_time": "20:0512"
+},
+{
+    "lesson_id": "6-172",
+    "lesson_name": "Linux命令类库机制及常用命令练习5",
+    "lesson_time": "08:4313"
+},
+{
+    "lesson_id": "6-175",
+    "lesson_name": "Linux命令类库机制及常用命令练习6",
+    "lesson_time": "20:0814"
+},
+{
+    "lesson_id": "6-177",
+    "lesson_name": "Linux命令类库机制及常用命令练习7",
+    "lesson_time": "20:0315"
+},
+{
+    "lesson_id": "6-178",
+    "lesson_name": "Linux命令类库机制及常用命令练习8",
+    "lesson_time": "20:0516"
+},
+{
+    "lesson_id": "6-180",
+    "lesson_name": "Linux命令类库机制及常用命令练习9",
+    "lesson_time": "14:2017"
+},
+{
+    "lesson_id": "6-181",
+    "lesson_name": "Linux命令类库机制及常用命令练习10",
+    "lesson_time": "19:1318"
+},
+{
+    "lesson_id": "6-182",
+    "lesson_name": "Linux命令类库机制及常用命令练习11",
+    "lesson_time": "22:0319"
+},
+{
+    "lesson_id": "6-183",
+    "lesson_name": "Linux应用程序安装及卸载1",
+    "lesson_time": "20:1520"
+},
+{
+    "lesson_id": "6-185",
+    "lesson_name": "Linux应用程序安装及卸载2",
+    "lesson_time": "20:1121"
+},
+{
+    "lesson_id": "6-187",
+    "lesson_name": "Linux应用程序安装及卸载3",
+    "lesson_time": "16:1122"
+},
+{
+    "lesson_id": "6-188",
+    "lesson_name": "Linux应用程序安装及卸载4",
+    "lesson_time": "18:1423"
+},
+{
+    "lesson_id": "6-190",
+    "lesson_name": "Linux应用程序安装及卸载5",
+    "lesson_time": "23:4224"
+},
+{
+    "lesson_id": "6-192",
+    "lesson_name": "Linux服务程序的安装及配置1",
+    "lesson_time": "20:1525"
+},
+{
+    "lesson_id": "6-195",
+    "lesson_name": "Linux服务程序的安装及配置2",
+    "lesson_time": "19:1926"
+},
+{
+    "lesson_id": "6-197",
+    "lesson_name": "Linux服务程序的安装及配置3",
+    "lesson_time": "20:0227"
+},
+{
+    "lesson_id": "6-199",
+    "lesson_name": "Linux服务程序的安装及配置4",
+    "lesson_time": "07:0628"
+},
+{
+    "lesson_id": "6-201",
+    "lesson_name": "Vi的设计思想及使用1",
+    "lesson_time": "20:0229"
+},
+{
+    "lesson_id": "6-203",
+    "lesson_name": "Vi的设计思想及使用2",
+    "lesson_time": "20:0430"
+},
+{
+    "lesson_id": "6-204",
+    "lesson_name": "Vi的设计思想及使用3",
+    "lesson_time": "09:2331"
+},
+{
+    "lesson_id": "770-11198",
+    "lesson_name": "UITableView的构成01",
+    "lesson_time": "14:471"
+},
+{
+    "lesson_id": "770-11199",
+    "lesson_name": "UITableView的构成02",
+    "lesson_time": "09:202"
+},
+{
+    "lesson_id": "770-11200",
+    "lesson_name": "UITableView的重用机制",
+    "lesson_time": "09:383"
+},
+{
+    "lesson_id": "770-11201",
+    "lesson_name": "UITableViewCell",
+    "lesson_time": "07:344"
+},
+{
+    "lesson_id": "770-11202",
+    "lesson_name": "自定义cell_01",
+    "lesson_time": "21:055"
+},
+{
+    "lesson_id": "770-11203",
+    "lesson_name": "自定义cell_02",
+    "lesson_time": "16:206"
+},
+{
+    "lesson_id": "770-11204",
+    "lesson_name": "自定义cell_03",
+    "lesson_time": "19:277"
+},
+{
+    "lesson_id": "770-11205",
+    "lesson_name": "自定义cell_04",
+    "lesson_time": "09:088"
+},
+{
+    "lesson_id": "770-11247",
+    "lesson_name": "自定义cell_05",
+    "lesson_time": "18:209"
+},
+{
+    "lesson_id": "770-11248",
+    "lesson_name": "自定义cell_06",
+    "lesson_time": "21:2410"
+},
+{
+    "lesson_id": "770-11249",
+    "lesson_name": "自定义cell_07",
+    "lesson_time": "09:5111"
+},
+{
+    "lesson_id": "770-11250",
+    "lesson_name": "自定义cell_08",
+    "lesson_time": "21:0012"
+},
+{
+    "lesson_id": "770-11251",
+    "lesson_name": "自定义cell_09",
+    "lesson_time": "17:1213"
+},
+{
+    "lesson_id": "770-11252",
+    "lesson_name": "自定义cell_10",
+    "lesson_time": "29:1114"
+},
+{
+    "lesson_id": "770-11253",
+    "lesson_name": "计算cell的高度_01",
+    "lesson_time": "16:3615"
+},
+{
+    "lesson_id": "770-11254",
+    "lesson_name": "计算cell的高度_02",
+    "lesson_time": "22:1316"
+},
+{
+    "lesson_id": "770-11255",
+    "lesson_name": "计算cell的高度_03",
+    "lesson_time": "13:1017"
+},
+{
+    "lesson_id": "592-8596",
+    "lesson_name": "进程通信概述-new",
+    "lesson_time": "25:221"
+},
+{
+    "lesson_id": "592-8597",
+    "lesson_name": "无名管道（1）",
+    "lesson_time": "22:042"
+},
+{
+    "lesson_id": "592-8598",
+    "lesson_name": "无名管道（2）",
+    "lesson_time": "23:193"
+},
+{
+    "lesson_id": "592-8599",
+    "lesson_name": "有名管道(1)",
+    "lesson_time": "11:574"
+},
+{
+    "lesson_id": "592-8600",
+    "lesson_name": "有名管道(2)",
+    "lesson_time": "19:585"
+},
+{
+    "lesson_id": "592-8601",
+    "lesson_name": "信号通信(1)",
+    "lesson_time": "19:176"
+},
+{
+    "lesson_id": "592-8602",
+    "lesson_name": "信号通信(2)",
+    "lesson_time": "16:237"
+},
+{
+    "lesson_id": "592-8603",
+    "lesson_name": "信号通信（3）",
+    "lesson_time": "19:028"
+},
+{
+    "lesson_id": "592-8604",
+    "lesson_name": "信号通信（4）",
+    "lesson_time": "14:239"
+},
+{
+    "lesson_id": "592-8605",
+    "lesson_name": "信号通信（5）",
+    "lesson_time": "16:3210"
+},
+{
+    "lesson_id": "592-8606",
+    "lesson_name": "共享内存（1）",
+    "lesson_time": "16:4311"
+},
+{
+    "lesson_id": "592-8853",
+    "lesson_name": "共享内存（2）",
+    "lesson_time": "20:4612"
+},
+{
+    "lesson_id": "592-8854",
+    "lesson_name": "共享内存（3）",
+    "lesson_time": "23:4613"
+},
+{
+    "lesson_id": "592-9033",
+    "lesson_name": "共享内存（4）",
+    "lesson_time": "21:5914"
+},
+{
+    "lesson_id": "592-9034",
+    "lesson_name": "共享内存（5）",
+    "lesson_time": "26:1115"
+},
+{
+    "lesson_id": "592-9035",
+    "lesson_name": "消息队列（1）",
+    "lesson_time": "16:5616"
+},
+{
+    "lesson_id": "592-9036",
+    "lesson_name": "消息队列（2）",
+    "lesson_time": "22:5217"
+},
+{
+    "lesson_id": "592-9220",
+    "lesson_name": "消息队列（3)",
+    "lesson_time": "29:0418"
+},
+{
+    "lesson_id": "592-9221",
+    "lesson_name": "信号灯（1）",
+    "lesson_time": "13:0819"
+},
+{
+    "lesson_id": "592-9222",
+    "lesson_name": "信号灯（2）",
+    "lesson_time": "28:2020"
+},
+{
+    "lesson_id": "592-9283",
+    "lesson_name": "信号灯（3）",
+    "lesson_time": "18:4421"
+},
+{
+    "lesson_id": "12-80",
+    "lesson_name": "概述：开发环境搭建和配置",
+    "lesson_time": "10:111"
+},
+{
+    "lesson_id": "12-81",
+    "lesson_name": "JDK的安装",
+    "lesson_time": "15:332"
+},
+{
+    "lesson_id": "12-82",
+    "lesson_name": "ADT (Bundle)的安装",
+    "lesson_time": "12:133"
+},
+{
+    "lesson_id": "12-83",
+    "lesson_name": "配置JDK环境变量",
+    "lesson_time": "22:024"
+},
+{
+    "lesson_id": "12-84",
+    "lesson_name": "Eclipse 常规配置",
+    "lesson_time": "19:435"
+},
+{
+    "lesson_id": "12-85",
+    "lesson_name": "Android SDK Manager&模拟器的配置",
+    "lesson_time": "16:506"
+},
+{
+    "lesson_id": "233-1971",
+    "lesson_name": "商品秒杀页制作",
+    "lesson_time": "14:071"
+},
+{
+    "lesson_id": "233-1972",
+    "lesson_name": "css浮动布局与定位布局",
+    "lesson_time": "15:342"
+},
+{
+    "lesson_id": "233-1973",
+    "lesson_name": "css鼠标样式",
+    "lesson_time": "07:193"
+},
+{
+    "lesson_id": "233-1974",
+    "lesson_name": "javascript鼠标事件",
+    "lesson_time": "16:004"
+},
+{
+    "lesson_id": "233-1975",
+    "lesson_name": "javascript中setTimout用法",
+    "lesson_time": "15:365"
+},
+{
+    "lesson_id": "233-1976",
+    "lesson_name": "javascript中setInterval用法",
+    "lesson_time": "15:096"
+},
+{
+    "lesson_id": "233-1977",
+    "lesson_name": "ajax与后端数据交互",
+    "lesson_time": "11:347"
+},
+{
+    "lesson_id": "233-1978",
+    "lesson_name": "javascript定时触活动",
+    "lesson_time": "22:578"
+},
+{
+    "lesson_id": "233-1979",
+    "lesson_name": "javascript实现离秒杀还有xx小时",
+    "lesson_time": "14:009"
+},
+{
+    "lesson_id": "233-1980",
+    "lesson_name": "javascript+css控制“秒杀”频率",
+    "lesson_time": "23:5010"
+},
+{
+    "lesson_id": "233-1981",
+    "lesson_name": "javascript实现已购买判断",
+    "lesson_time": "11:0911"
+},
+{
+    "lesson_id": "233-1982",
+    "lesson_name": "前端优化 N条技巧",
+    "lesson_time": "22:3312"
+},
+{
+    "lesson_id": "233-1983",
+    "lesson_name": "前端优化css部分",
+    "lesson_time": "11:5913"
+},
+{
+    "lesson_id": "233-1984",
+    "lesson_name": "前端优化图片部分",
+    "lesson_time": "10:0514"
+},
+{
+    "lesson_id": "233-1985",
+    "lesson_name": "前端优化cookie部分",
+    "lesson_time": "07:4915"
+},
+{
+    "lesson_id": "233-1986",
+    "lesson_name": "前端优化javascript部分",
+    "lesson_time": "20:1016"
+},
+{
+    "lesson_id": "233-1987",
+    "lesson_name": "前端优化实践",
+    "lesson_time": "20:5017"
+},
+{
+    "lesson_id": "336-7252",
+    "lesson_name": "ThinkPHP框架开发课程体系概述",
+    "lesson_time": "17:431"
+},
+{
+    "lesson_id": "336-7253",
+    "lesson_name": "M-MSG功能列表",
+    "lesson_time": "17:362"
+},
+{
+    "lesson_id": "336-7254",
+    "lesson_name": "M-MSG数据库表结构设计",
+    "lesson_time": "24:173"
+},
+{
+    "lesson_id": "336-7255",
+    "lesson_name": "安装ThinkPHP框架",
+    "lesson_time": "23:574"
+},
+{
+    "lesson_id": "336-7256",
+    "lesson_name": "ThinkPHP项目目录结构剖析",
+    "lesson_time": "27:345"
+},
+{
+    "lesson_id": "336-7257",
+    "lesson_name": "ThinkPHP URL解析剖析",
+    "lesson_time": "21:266"
+},
+{
+    "lesson_id": "336-7258",
+    "lesson_name": "ThinkPHP配置详解",
+    "lesson_time": "27:007"
+},
+{
+    "lesson_id": "336-7259",
+    "lesson_name": "控制器",
+    "lesson_time": "22:308"
+},
+{
+    "lesson_id": "336-7487",
+    "lesson_name": "ThinkPHP视图",
+    "lesson_time": "31:129"
+},
+{
+    "lesson_id": "336-7567",
+    "lesson_name": "视图模板（1）",
+    "lesson_time": "31:5510"
+},
+{
+    "lesson_id": "336-7644",
+    "lesson_name": "视图模板（2）",
+    "lesson_time": "27:3411"
+},
+{
+    "lesson_id": "336-7645",
+    "lesson_name": "模板布局",
+    "lesson_time": "24:0012"
+},
+{
+    "lesson_id": "336-8246",
+    "lesson_name": "建立M-MSG控制器结构",
+    "lesson_time": "17:1113"
+},
+{
+    "lesson_id": "336-8249",
+    "lesson_name": "M-MSG视图文件架构",
+    "lesson_time": "13:5114"
+},
+{
+    "lesson_id": "336-8250",
+    "lesson_name": "数据库的使用",
+    "lesson_time": "16:0615"
+},
+{
+    "lesson_id": "336-8625",
+    "lesson_name": "数据库基本操作（1）—创建和插入数据",
+    "lesson_time": "21:0316"
+},
+{
+    "lesson_id": "336-8626",
+    "lesson_name": "数据库基本操作（2）—获取记录或字段",
+    "lesson_time": "18:3317"
+},
+{
+    "lesson_id": "336-8670",
+    "lesson_name": "数据库基本操作（3）—条件查询",
+    "lesson_time": "23:3418"
+},
+{
+    "lesson_id": "336-8671",
+    "lesson_name": "数据库基本操作（4）—更新和删除数据",
+    "lesson_time": "15:0819"
+},
+{
+    "lesson_id": "336-8832",
+    "lesson_name": "数据库基本操作（5）",
+    "lesson_time": "25:3320"
+},
+{
+    "lesson_id": "336-8865",
+    "lesson_name": "创建数据库操作类（UsersModel）-1",
+    "lesson_time": "23:1621"
+},
+{
+    "lesson_id": "336-8866",
+    "lesson_name": "创建数据库操作类（UsersModel）-2",
+    "lesson_time": "12:2622"
+},
+{
+    "lesson_id": "336-8973",
+    "lesson_name": "数据库模型操作类（MsgsModel）",
+    "lesson_time": "21:5723"
+},
+{
+    "lesson_id": "336-8982",
+    "lesson_name": "数据库模型操作类（RmsgModel）",
+    "lesson_time": "24:3724"
+},
+{
+    "lesson_id": "336-9118",
+    "lesson_name": "用户注册功能的实现（验证码）",
+    "lesson_time": "20:2225"
+},
+{
+    "lesson_id": "336-9119",
+    "lesson_name": "用户注册功能的实现（处理表单数据）",
+    "lesson_time": "10:5326"
+},
+{
+    "lesson_id": "336-9145",
+    "lesson_name": "用户登录和注销（Session处理）",
+    "lesson_time": "15:5127"
+},
+{
+    "lesson_id": "336-9146",
+    "lesson_name": "分页显示留言",
+    "lesson_time": "29:5428"
+},
+{
+    "lesson_id": "336-9147",
+    "lesson_name": "展示留言和删除留言",
+    "lesson_time": "16:4729"
+},
+{
+    "lesson_id": "336-9197",
+    "lesson_name": "添加和修改留言",
+    "lesson_time": "24:0430"
+},
+{
+    "lesson_id": "336-9198",
+    "lesson_name": "回帖相关处理",
+    "lesson_time": "14:3431"
+},
+{
+    "lesson_id": "943-13627",
+    "lesson_name": "1",
+    "lesson_time": "29:511"
+},
+{
+    "lesson_id": "943-13628",
+    "lesson_name": "面向对象7大原则之开闭原则",
+    "lesson_time": "09:562"
+},
+{
+    "lesson_id": "943-13629",
+    "lesson_name": "面向对象7大设计原则之单一原则",
+    "lesson_time": "20:363"
+},
+{
+    "lesson_id": "943-13630",
+    "lesson_name": "面向对象7大原则之组合聚合复用原则",
+    "lesson_time": "07:394"
+},
+{
+    "lesson_id": "943-13631",
+    "lesson_name": "面向对象7大设计原则之接口隔离原则",
+    "lesson_time": "15:175"
+},
+{
+    "lesson_id": "943-13632",
+    "lesson_name": "面向对象7大原则之里氏替换原则",
+    "lesson_time": "12:206"
+},
+{
+    "lesson_id": "943-13633",
+    "lesson_name": "面向对象7大原则之依赖倒置原则",
+    "lesson_time": "11:447"
+},
+{
+    "lesson_id": "943-13634",
+    "lesson_name": "面向对象7大设计模式之迪米特法则",
+    "lesson_time": "03:118"
+},
+{
+    "lesson_id": "943-13635",
+    "lesson_name": "单例模式之解析及应用1",
+    "lesson_time": "23:509"
+},
+{
+    "lesson_id": "943-13636",
+    "lesson_name": "单例模式解析及应用2",
+    "lesson_time": "21:0010"
+},
+{
+    "lesson_id": "943-13637",
+    "lesson_name": "单例模式解析及应用3",
+    "lesson_time": "16:1811"
+},
+{
+    "lesson_id": "943-13638",
+    "lesson_name": "文件上传封装及测试1",
+    "lesson_time": "18:1212"
+},
+{
+    "lesson_id": "943-13639",
+    "lesson_name": "文件上传封装及测试2",
+    "lesson_time": "17:5913"
+},
+{
+    "lesson_id": "943-13640",
+    "lesson_name": "文件上传类库封装及测试",
+    "lesson_time": "36:1214"
+},
+{
+    "lesson_id": "943-13641",
+    "lesson_name": "验证码类库封装及测试1",
+    "lesson_time": "18:4615"
+},
+{
+    "lesson_id": "943-13642",
+    "lesson_name": "验证码类库封装及测试2",
+    "lesson_time": "10:4516"
+},
+{
+    "lesson_id": "943-13643",
+    "lesson_name": "缩略图类的封装及测试",
+    "lesson_time": "27:0717"
+},
+{
+    "lesson_id": "943-13644",
+    "lesson_name": "图片操作类的封装及测试1",
+    "lesson_time": "17:5718"
+},
+{
+    "lesson_id": "943-13645",
+    "lesson_name": "图片类的封装及测试2",
+    "lesson_time": "24:1719"
+},
+{
+    "lesson_id": "943-13646",
+    "lesson_name": "PHP5中新增特性类型约束",
+    "lesson_time": "10:5520"
+},
+{
+    "lesson_id": "943-13647",
+    "lesson_name": "php5中新增特性命名空间解析1",
+    "lesson_time": "23:3421"
+},
+{
+    "lesson_id": "943-13648",
+    "lesson_name": "PHP5中新增特性命名空间解析2",
+    "lesson_time": "13:5922"
+},
+{
+    "lesson_id": "943-13649",
+    "lesson_name": "php5中新增trait的解析及使用",
+    "lesson_time": "23:2423"
+},
+{
+    "lesson_id": "552-7680",
+    "lesson_name": "JSON简介",
+    "lesson_time": "11:161"
+},
+{
+    "lesson_id": "552-7681",
+    "lesson_name": "JSON格式规定",
+    "lesson_time": "15:392"
+},
+{
+    "lesson_id": "552-7682",
+    "lesson_name": "字符串转化成对象",
+    "lesson_time": "15:513"
+},
+{
+    "lesson_id": "552-7683",
+    "lesson_name": "对象转化为字符串",
+    "lesson_time": "14:564"
+},
+{
+    "lesson_id": "552-7684",
+    "lesson_name": "JSON和XML的转换",
+    "lesson_time": "14:215"
+},
+{
+    "lesson_id": "552-7685",
+    "lesson_name": "Ajax和JSON",
+    "lesson_time": "16:566"
+},
+{
+    "lesson_id": "552-7686",
+    "lesson_name": "GeoJSON和TopoJSON",
+    "lesson_time": "17:117"
+},
+{
+    "lesson_id": "495-6443",
+    "lesson_name": "objective-c编程语言简介",
+    "lesson_time": "12:001"
+},
+{
+    "lesson_id": "495-6444",
+    "lesson_name": "objective-c语言类的设计初探",
+    "lesson_time": "31:252"
+},
+{
+    "lesson_id": "495-6445",
+    "lesson_name": "objective-c语言类的设计",
+    "lesson_time": "13:523"
+},
+{
+    "lesson_id": "495-6446",
+    "lesson_name": "objective-c语言的封装",
+    "lesson_time": "20:024"
+},
+{
+    "lesson_id": "495-6447",
+    "lesson_name": "objective-c语言的继承",
+    "lesson_time": "10:325"
+},
+{
+    "lesson_id": "495-6448",
+    "lesson_name": "objective-c语言的重写",
+    "lesson_time": "07:066"
+},
+{
+    "lesson_id": "495-6449",
+    "lesson_name": "objective-c语言的self指针",
+    "lesson_time": "09:587"
+},
+{
+    "lesson_id": "495-6450",
+    "lesson_name": "objective-c语言的点语法",
+    "lesson_time": "16:098"
+},
+{
+    "lesson_id": "495-6451",
+    "lesson_name": "objective-c语言的类别",
+    "lesson_time": "15:239"
+},
+{
+    "lesson_id": "495-6609",
+    "lesson_name": "objective-c语言的NSString",
+    "lesson_time": "13:0810"
+},
+{
+    "lesson_id": "495-6610",
+    "lesson_name": "objective-c语言的NSstring",
+    "lesson_time": "22:4711"
+},
+{
+    "lesson_id": "495-6611",
+    "lesson_name": "objective-c语言的NSMutableString",
+    "lesson_time": "19:3312"
+},
+{
+    "lesson_id": "495-6612",
+    "lesson_name": "objective-c语言的NSArrar",
+    "lesson_time": "16:1013"
+},
+{
+    "lesson_id": "495-6613",
+    "lesson_name": "objective-c语言的NSMutableArray",
+    "lesson_time": "11:4614"
+},
+{
+    "lesson_id": "495-6614",
+    "lesson_name": "objective-c语言的NSDictionary",
+    "lesson_time": "20:0215"
+},
+{
+    "lesson_id": "495-6615",
+    "lesson_name": "objective-c语言的NSNumber",
+    "lesson_time": "12:4116"
+},
+{
+    "lesson_id": "495-6616",
+    "lesson_name": "objective-c语言的NSIndextSet",
+    "lesson_time": "09:1717"
+},
+{
+    "lesson_id": "495-6617",
+    "lesson_name": "objective-c语言的NSData",
+    "lesson_time": "06:5818"
+},
+{
+    "lesson_id": "495-6618",
+    "lesson_name": "objective-c之内存管理1",
+    "lesson_time": "24:5619"
+},
+{
+    "lesson_id": "495-6619",
+    "lesson_name": "objective-c学习之内存管理2",
+    "lesson_time": "11:1120"
+},
+{
+    "lesson_id": "495-6620",
+    "lesson_name": "objective-c开发之内存管理3",
+    "lesson_time": "20:4721"
+},
+{
+    "lesson_id": "495-6621",
+    "lesson_name": "objective-c学习之自动释放池",
+    "lesson_time": "18:0922"
+},
+{
+    "lesson_id": "495-6622",
+    "lesson_name": "objective-c语言的代理",
+    "lesson_time": "19:4023"
+},
+{
+    "lesson_id": "495-6623",
+    "lesson_name": "objective-c学习之copy",
+    "lesson_time": "20:3124"
+},
+{
+    "lesson_id": "495-6624",
+    "lesson_name": "objective-c语言浅拷贝和深拷贝",
+    "lesson_time": "19:4125"
+},
+{
+    "lesson_id": "495-6625",
+    "lesson_name": "objective-c学习之单例",
+    "lesson_time": "12:3826"
+},
+{
+    "lesson_id": "495-6626",
+    "lesson_name": "objective-c单例的多种写法",
+    "lesson_time": "07:0927"
+},
+{
+    "lesson_id": "495-6627",
+    "lesson_name": "objective-c通知中心",
+    "lesson_time": "17:4628"
+},
+{
+    "lesson_id": "495-6628",
+    "lesson_name": "objective-c学习之Blocks",
+    "lesson_time": "10:2929"
+},
+{
+    "lesson_id": "495-6629",
+    "lesson_name": "objective-c学习之Block回调",
+    "lesson_time": "12:5330"
+},
+{
+    "lesson_id": "495-6630",
+    "lesson_name": "objective-c语言之NSFileMnager",
+    "lesson_time": "14:0031"
+},
+{
+    "lesson_id": "495-6631",
+    "lesson_name": "objective-c语言之NSFiledHandle",
+    "lesson_time": "10:4532"
+},
+{
+    "lesson_id": "495-6632",
+    "lesson_name": "objective-c学习之归档",
+    "lesson_time": "09:4333"
+},
+{
+    "lesson_id": "495-6633",
+    "lesson_name": "objective-c学习之MVC",
+    "lesson_time": "18:4034"
+},
+{
+    "lesson_id": "337-5915",
+    "lesson_name": "Redis简介",
+    "lesson_time": "09:051"
+},
+{
+    "lesson_id": "337-5916",
+    "lesson_name": "下载、安装、启动、停止Redis",
+    "lesson_time": "24:122"
+},
+{
+    "lesson_id": "337-5917",
+    "lesson_name": "Redis的命令返回值",
+    "lesson_time": "10:273"
+},
+{
+    "lesson_id": "337-5918",
+    "lesson_name": "Redis配置选项相关内容",
+    "lesson_time": "21:424"
+},
+{
+    "lesson_id": "337-5919",
+    "lesson_name": "Redis String类型及相关命令1",
+    "lesson_time": "21:285"
+},
+{
+    "lesson_id": "337-5920",
+    "lesson_name": "Redis String类型及相关命令2",
+    "lesson_time": "23:446"
+},
+{
+    "lesson_id": "337-5921",
+    "lesson_name": "Redis String类型及相关命令3",
+    "lesson_time": "20:517"
+},
+{
+    "lesson_id": "337-5922",
+    "lesson_name": "Redis Hash类型及相关命令-1",
+    "lesson_time": "23:158"
+},
+{
+    "lesson_id": "337-5923",
+    "lesson_name": "Redis Hash类型及相关命令-2",
+    "lesson_time": "10:509"
+},
+{
+    "lesson_id": "337-5924",
+    "lesson_name": "Redis Hash类型及相关命令-3",
+    "lesson_time": "03:1410"
+},
+{
+    "lesson_id": "337-5925",
+    "lesson_name": "Redis Key相关命令-1",
+    "lesson_time": "22:2311"
+},
+{
+    "lesson_id": "337-5926",
+    "lesson_name": "Redis Key相关命令-2",
+    "lesson_time": "21:5112"
+},
+{
+    "lesson_id": "337-5927",
+    "lesson_name": "Redis列表类型及相关命令1",
+    "lesson_time": "19:1413"
+},
+{
+    "lesson_id": "337-5928",
+    "lesson_name": "Redis列表类型及相关命令2",
+    "lesson_time": "17:1414"
+},
+{
+    "lesson_id": "337-5929",
+    "lesson_name": "Redis列表类型及相关命令3",
+    "lesson_time": "26:5315"
+},
+{
+    "lesson_id": "337-5930",
+    "lesson_name": "Redis集合类型及相关命令1",
+    "lesson_time": "17:5316"
+},
+{
+    "lesson_id": "337-5931",
+    "lesson_name": "Redis集合类型及相关命令2",
+    "lesson_time": "18:1217"
+},
+{
+    "lesson_id": "337-6231",
+    "lesson_name": "Redis有序集合及相关命令1",
+    "lesson_time": "21:0318"
+},
+{
+    "lesson_id": "337-6232",
+    "lesson_name": "Redis有序集合及相关命令2",
+    "lesson_time": "22:4319"
+},
+{
+    "lesson_id": "337-6233",
+    "lesson_name": "Redis有序集合及相关命令3",
+    "lesson_time": "18:0320"
+},
+{
+    "lesson_id": "337-6234",
+    "lesson_name": "Redis中的事务",
+    "lesson_time": "20:4421"
+},
+{
+    "lesson_id": "337-6235",
+    "lesson_name": "Redis连接相关",
+    "lesson_time": "11:1222"
+},
+{
+    "lesson_id": "337-6236",
+    "lesson_name": "Redis生存时间",
+    "lesson_time": "07:1523"
+},
+{
+    "lesson_id": "337-6237",
+    "lesson_name": "Redis排序",
+    "lesson_time": "31:2024"
+},
+{
+    "lesson_id": "337-6238",
+    "lesson_name": "Sort排序使用注意",
+    "lesson_time": "04:4425"
+},
+{
+    "lesson_id": "337-6239",
+    "lesson_name": "发布订阅模式",
+    "lesson_time": "15:2126"
+},
+{
+    "lesson_id": "337-6240",
+    "lesson_name": "Redis中的管道技术",
+    "lesson_time": "04:0227"
+},
+{
+    "lesson_id": "337-6241",
+    "lesson_name": "通过PHP操纵Redis",
+    "lesson_time": "18:1928"
+},
+{
+    "lesson_id": "337-6242",
+    "lesson_name": "Redis实例",
+    "lesson_time": "32:3129"
+},
+{
+    "lesson_id": "502-6726",
+    "lesson_name": "驾照助手-项目介绍",
+    "lesson_time": "06:571"
+},
+{
+    "lesson_id": "502-6727",
+    "lesson_name": "驾照助手-主界面UI搭建",
+    "lesson_time": "26:192"
+},
+{
+    "lesson_id": "502-6728",
+    "lesson_name": "驾照助手-车型切换控件",
+    "lesson_time": "17:033"
+},
+{
+    "lesson_id": "502-6729",
+    "lesson_name": "驾照助手-科目一理考界面",
+    "lesson_time": "26:074"
+},
+{
+    "lesson_id": "502-6730",
+    "lesson_name": "驾照助手-章节练习选择界面(1)",
+    "lesson_time": "16:565"
+},
+{
+    "lesson_id": "502-6731",
+    "lesson_name": "驾照助手-章节练习选择界面(2)",
+    "lesson_time": "20:386"
+},
+{
+    "lesson_id": "502-6847",
+    "lesson_name": "驾照助手-核心答题视图的设计(1)",
+    "lesson_time": "34:027"
+},
+{
+    "lesson_id": "502-6848",
+    "lesson_name": "驾照助手-核心答题界面设计(2)",
+    "lesson_time": "27:188"
+},
+{
+    "lesson_id": "502-6849",
+    "lesson_name": "驾照助手-核心答题视图设计(3)",
+    "lesson_time": "24:279"
+},
+{
+    "lesson_id": "502-6850",
+    "lesson_name": "驾照助手-答题逻辑设计",
+    "lesson_time": "15:0310"
+},
+{
+    "lesson_id": "502-6971",
+    "lesson_name": "驾照助手-核心答题界面工具栏设计",
+    "lesson_time": "22:3911"
+},
+{
+    "lesson_id": "502-6972",
+    "lesson_name": "驾照助手-答题模式切换控件的封装",
+    "lesson_time": "22:2512"
+},
+{
+    "lesson_id": "502-7002",
+    "lesson_name": "驾照助手-抽屉视图设计（1）",
+    "lesson_time": "22:4313"
+},
+{
+    "lesson_id": "502-7003",
+    "lesson_name": "驾照助手-上拉抽屉控件的设计（2）",
+    "lesson_time": "20:4714"
+},
+{
+    "lesson_id": "502-7004",
+    "lesson_name": "驾照助手-抽屉控件的逻辑处理2",
+    "lesson_time": "15:4215"
+},
+{
+    "lesson_id": "502-7221",
+    "lesson_name": "驾照助手-顺序练习与随机练习逻辑",
+    "lesson_time": "14:2416"
+},
+{
+    "lesson_id": "502-7222",
+    "lesson_name": "驾照助手-专项练习逻辑",
+    "lesson_time": "20:2317"
+},
+{
+    "lesson_id": "502-7223",
+    "lesson_name": "驾照助手-模拟考试界面搭建",
+    "lesson_time": "24:0518"
+},
+{
+    "lesson_id": "502-7224",
+    "lesson_name": "驾照助手-模拟考试功能设计",
+    "lesson_time": "29:4719"
+},
+{
+    "lesson_id": "502-7225",
+    "lesson_name": "驾照助手-我的错题与我的收藏的存储逻辑",
+    "lesson_time": "24:5220"
+},
+{
+    "lesson_id": "502-7226",
+    "lesson_name": "驾照助手-我的错题与收藏界面交互",
+    "lesson_time": "17:0421"
+},
+{
+    "lesson_id": "502-7535",
+    "lesson_name": "驾照助手-我的成绩和练习统计逻辑",
+    "lesson_time": "19:2422"
+},
+{
+    "lesson_id": "502-7536",
+    "lesson_name": "驾照助手-科目二与科目三的视频播放功能",
+    "lesson_time": "18:0523"
+},
+{
+    "lesson_id": "502-7537",
+    "lesson_name": "驾照助手-webView网页嵌套",
+    "lesson_time": "13:4824"
+},
+{
+    "lesson_id": "502-7538",
+    "lesson_name": "驾照助手-应用icon和启动界面的设置",
+    "lesson_time": "15:1025"
+},
+{
+    "lesson_id": "31-4226",
+    "lesson_name": "MediaPlayer框架引入基本介绍",
+    "lesson_time": "16:401"
+},
+{
+    "lesson_id": "31-5247",
+    "lesson_name": "MediaPlayer框架中我们的基本需要",
+    "lesson_time": "15:122"
+},
+{
+    "lesson_id": "31-5314",
+    "lesson_name": "利用storyboard创建视频播放界面",
+    "lesson_time": "20:023"
+},
+{
+    "lesson_id": "31-5490",
+    "lesson_name": "一个简单的本地视频播放（上）",
+    "lesson_time": "16:064"
+},
+{
+    "lesson_id": "31-5536",
+    "lesson_name": "一个简单的本地视频播放（下）",
+    "lesson_time": "22:545"
+},
+{
+    "lesson_id": "31-5796",
+    "lesson_name": "MPMovieplayer的监听方法",
+    "lesson_time": "15:026"
+},
+{
+    "lesson_id": "31-6179",
+    "lesson_name": "为视频播放器添加一些手势",
+    "lesson_time": "23:347"
+},
+{
+    "lesson_id": "31-6315",
+    "lesson_name": "播放网络流媒体",
+    "lesson_time": "14:358"
+},
+{
+    "lesson_id": "31-6820",
+    "lesson_name": "自定义MPMovieViewController上面的控件（上）",
+    "lesson_time": "13:159"
+},
+{
+    "lesson_id": "31-6821",
+    "lesson_name": "自定义MPMovieViewController上面的控件（中）",
+    "lesson_time": "14:5410"
+},
+{
+    "lesson_id": "31-7568",
+    "lesson_name": "自定义MPMovieViewController上面的控件（下）",
+    "lesson_time": "10:1511"
+},
+{
+    "lesson_id": "31-7569",
+    "lesson_name": "使用AVPlayer定制播放视频控件",
+    "lesson_time": "13:4812"
+},
+{
+    "lesson_id": "31-8511",
+    "lesson_name": "使用AVPlayer定制播放视频控件（中）",
+    "lesson_time": "15:4313"
+},
+{
+    "lesson_id": "31-8512",
+    "lesson_name": "使用AVPlayer定制播放视频控件-最终",
+    "lesson_time": "14:2814"
+},
+{
+    "lesson_id": "555-7698",
+    "lesson_name": "响应式WEB设计课程介绍和项目工程创建",
+    "lesson_time": "25:271"
+},
+{
+    "lesson_id": "555-7699",
+    "lesson_name": "Html之Meta的作用",
+    "lesson_time": "29:432"
+},
+{
+    "lesson_id": "555-7700",
+    "lesson_name": "HTML中常见标签和规范",
+    "lesson_time": "24:593"
+},
+{
+    "lesson_id": "555-7701",
+    "lesson_name": "语义网介绍",
+    "lesson_time": "24:594"
+},
+{
+    "lesson_id": "555-7702",
+    "lesson_name": "CSS常见属性及缩写",
+    "lesson_time": "24:385"
+},
+{
+    "lesson_id": "555-7703",
+    "lesson_name": "CSS选择器及优先级",
+    "lesson_time": "24:566"
+},
+{
+    "lesson_id": "555-7862",
+    "lesson_name": "CSS之CSS盒模型",
+    "lesson_time": "23:377"
+},
+{
+    "lesson_id": "555-7863",
+    "lesson_name": "CSS之固定布局",
+    "lesson_time": "23:548"
+},
+{
+    "lesson_id": "555-7864",
+    "lesson_name": "CSS之流动布局",
+    "lesson_time": "24:309"
+},
+{
+    "lesson_id": "555-7865",
+    "lesson_name": "CSS块级元素和内联元素",
+    "lesson_time": "24:3310"
+},
+{
+    "lesson_id": "555-8627",
+    "lesson_name": "CSS之性能相关",
+    "lesson_time": "24:5111"
+},
+{
+    "lesson_id": "555-8628",
+    "lesson_name": "JS介绍",
+    "lesson_time": "23:0412"
+},
+{
+    "lesson_id": "555-8629",
+    "lesson_name": "js常见语法",
+    "lesson_time": "24:5813"
+},
+{
+    "lesson_id": "555-8630",
+    "lesson_name": "JS实现简单的表单验证",
+    "lesson_time": "22:4714"
+},
+{
+    "lesson_id": "555-8631",
+    "lesson_name": "浏览器渲染模式",
+    "lesson_time": "21:5915"
+},
+{
+    "lesson_id": "555-8632",
+    "lesson_name": "浏览器及其内核介绍",
+    "lesson_time": "19:3516"
+},
+{
+    "lesson_id": "555-8633",
+    "lesson_name": "浏览器渲染流程",
+    "lesson_time": "19:5817"
+},
+{
+    "lesson_id": "555-8634",
+    "lesson_name": "浏览器默认值及差异",
+    "lesson_time": "23:4718"
+},
+{
+    "lesson_id": "555-8635",
+    "lesson_name": "响应式WEB介绍",
+    "lesson_time": "21:5719"
+},
+{
+    "lesson_id": "555-8636",
+    "lesson_name": "认识响应式布局",
+    "lesson_time": "21:4920"
+},
+{
+    "lesson_id": "555-8637",
+    "lesson_name": "响应式WEB常用方法",
+    "lesson_time": "22:0721"
+},
+{
+    "lesson_id": "555-8641",
+    "lesson_name": "电商网站响应式设计之产品列表设计",
+    "lesson_time": "23:0522"
+},
+{
+    "lesson_id": "555-8642",
+    "lesson_name": "响应式设计之产品详细页面设计及课程小结",
+    "lesson_time": "20:2023"
+},
+{
+    "lesson_id": "710-10345",
+    "lesson_name": "swift2",
+    "lesson_time": "16:021"
+},
+{
+    "lesson_id": "710-10346",
+    "lesson_name": "swift20玩转UI开发基础篇——UILabel",
+    "lesson_time": "19:212"
+},
+{
+    "lesson_id": "710-10347",
+    "lesson_name": "UIButton",
+    "lesson_time": "29:293"
+},
+{
+    "lesson_id": "710-10348",
+    "lesson_name": "UIImageView",
+    "lesson_time": "15:414"
+},
+{
+    "lesson_id": "710-10349",
+    "lesson_name": "控件的layer属性",
+    "lesson_time": "08:195"
+},
+{
+    "lesson_id": "710-10350",
+    "lesson_name": "UISearchBar上",
+    "lesson_time": "16:346"
+},
+{
+    "lesson_id": "710-10351",
+    "lesson_name": "UISearchBar下",
+    "lesson_time": "18:457"
+},
+{
+    "lesson_id": "710-10352",
+    "lesson_name": "UISwitch",
+    "lesson_time": "11:468"
+},
+{
+    "lesson_id": "710-10353",
+    "lesson_name": "UISegementControl",
+    "lesson_time": "21:589"
+},
+{
+    "lesson_id": "710-10354",
+    "lesson_name": "UISegementControl应用",
+    "lesson_time": "11:2710"
+},
+{
+    "lesson_id": "710-10355",
+    "lesson_name": "UITextField",
+    "lesson_time": "31:5411"
+},
+{
+    "lesson_id": "710-10356",
+    "lesson_name": "UITextFieldDelegate",
+    "lesson_time": "12:2812"
+},
+{
+    "lesson_id": "710-10357",
+    "lesson_name": "UISlider",
+    "lesson_time": "15:0013"
+},
+{
+    "lesson_id": "710-10358",
+    "lesson_name": "Slider的实操",
+    "lesson_time": "11:5214"
+},
+{
+    "lesson_id": "710-10359",
+    "lesson_name": "UIActivityIndicatorView",
+    "lesson_time": "12:0815"
+},
+{
+    "lesson_id": "710-10360",
+    "lesson_name": "UIProgressView",
+    "lesson_time": "06:5416"
+},
+{
+    "lesson_id": "710-10361",
+    "lesson_name": "UIPageControl",
+    "lesson_time": "10:2917"
+},
+{
+    "lesson_id": "710-10362",
+    "lesson_name": "UIStepper",
+    "lesson_time": "14:2518"
+},
+{
+    "lesson_id": "710-10363",
+    "lesson_name": "UIAlertController之UIalertView",
+    "lesson_time": "19:3819"
+},
+{
+    "lesson_id": "710-10364",
+    "lesson_name": "UIAlertView之ActionSheet",
+    "lesson_time": "13:4620"
+},
+{
+    "lesson_id": "710-10365",
+    "lesson_name": "UIScrollView上",
+    "lesson_time": "16:5321"
+},
+{
+    "lesson_id": "710-10366",
+    "lesson_name": "UIScrollView下",
+    "lesson_time": "15:3722"
+},
+{
+    "lesson_id": "710-10367",
+    "lesson_name": "UITableView上",
+    "lesson_time": "18:1923"
+},
+{
+    "lesson_id": "710-10368",
+    "lesson_name": "UITableView中",
+    "lesson_time": "18:2924"
+},
+{
+    "lesson_id": "710-10369",
+    "lesson_name": "UITableView下",
+    "lesson_time": "12:4125"
+},
+{
+    "lesson_id": "710-10370",
+    "lesson_name": "UITextView",
+    "lesson_time": "19:2526"
+},
+{
+    "lesson_id": "710-10371",
+    "lesson_name": "UIPickerView",
+    "lesson_time": "10:2927"
+},
+{
+    "lesson_id": "710-10372",
+    "lesson_name": "UIDatePicker",
+    "lesson_time": "11:0728"
+},
+{
+    "lesson_id": "710-10373",
+    "lesson_name": "UIWebView",
+    "lesson_time": "10:2929"
+},
+{
+    "lesson_id": "710-10374",
+    "lesson_name": "UICollectionView上",
+    "lesson_time": "16:5530"
+},
+{
+    "lesson_id": "710-10375",
+    "lesson_name": "UICollectionView中",
+    "lesson_time": "08:0131"
+},
+{
+    "lesson_id": "710-10376",
+    "lesson_name": "UICollectionView下",
+    "lesson_time": "28:1632"
+},
+{
+    "lesson_id": "710-10377",
+    "lesson_name": "UIStackView",
+    "lesson_time": "12:1333"
+},
+{
+    "lesson_id": "710-10378",
+    "lesson_name": "UIViewController",
+    "lesson_time": "18:0834"
+},
+{
+    "lesson_id": "710-10379",
+    "lesson_name": "UINavigationController上",
+    "lesson_time": "20:3735"
+},
+{
+    "lesson_id": "710-10380",
+    "lesson_name": "UINavigationController下",
+    "lesson_time": "18:1236"
+},
+{
+    "lesson_id": "710-10381",
+    "lesson_name": "UITabBarController",
+    "lesson_time": "19:0437"
+},
+{
+    "lesson_id": "625-9106",
+    "lesson_name": "PHP版本比较及运行原理分析(上)",
+    "lesson_time": "22:361"
+},
+{
+    "lesson_id": "625-9107",
+    "lesson_name": "PHP版本比较及运行原理分析(下)",
+    "lesson_time": "20:222"
+},
+{
+    "lesson_id": "625-9108",
+    "lesson_name": "Linux远程连接工具SecureCRT使用(1)",
+    "lesson_time": "20:193"
+},
+{
+    "lesson_id": "625-9109",
+    "lesson_name": "LNMP介绍及与其它环境比较",
+    "lesson_time": "21:484"
+},
+{
+    "lesson_id": "625-9110",
+    "lesson_name": "Linux系统优化",
+    "lesson_time": "16:475"
+},
+{
+    "lesson_id": "625-9111",
+    "lesson_name": "PHP-FPM参数优化",
+    "lesson_time": "20:326"
+},
+{
+    "lesson_id": "625-9112",
+    "lesson_name": "PHP",
+    "lesson_time": "17:387"
+},
+{
+    "lesson_id": "625-9113",
+    "lesson_name": "Nginx参数优化",
+    "lesson_time": "20:218"
+},
+{
+    "lesson_id": "625-9114",
+    "lesson_name": "Mysql参数优化",
+    "lesson_time": "22:079"
+},
+{
+    "lesson_id": "625-9129",
+    "lesson_name": "LVS 简介",
+    "lesson_time": "14:5510"
+},
+{
+    "lesson_id": "625-9130",
+    "lesson_name": "LVS三种负载均衡模式介绍",
+    "lesson_time": "18:2311"
+},
+{
+    "lesson_id": "625-9131",
+    "lesson_name": "LVS常用调试算法介绍",
+    "lesson_time": "16:2812"
+},
+{
+    "lesson_id": "625-9132",
+    "lesson_name": "基于Linux实验环境介绍",
+    "lesson_time": "18:2613"
+},
+{
+    "lesson_id": "625-9133",
+    "lesson_name": "Ipvsadm安装及参数介绍",
+    "lesson_time": "23:0114"
+},
+{
+    "lesson_id": "625-9134",
+    "lesson_name": "LVS负载均衡之NAT模式实操",
+    "lesson_time": "23:0515"
+},
+{
+    "lesson_id": "625-9135",
+    "lesson_name": "LVS负载均衡之IP-TUN模式实操",
+    "lesson_time": "24:4516"
+},
+{
+    "lesson_id": "625-9136",
+    "lesson_name": "LVS负载均衡之DR模式实操",
+    "lesson_time": "21:3117"
+},
+{
+    "lesson_id": "625-9137",
+    "lesson_name": "课程总结及扩展",
+    "lesson_time": "24:0418"
+},
+{
+    "lesson_id": "805-11743",
+    "lesson_name": "cURL简介及安装配置",
+    "lesson_time": "12:311"
+},
+{
+    "lesson_id": "805-11744",
+    "lesson_name": "curl常用函数解析",
+    "lesson_time": "21:262"
+},
+{
+    "lesson_id": "805-11745",
+    "lesson_name": "curl实现文件上传及下载",
+    "lesson_time": "18:363"
+},
+{
+    "lesson_id": "805-11746",
+    "lesson_name": "通过cURL实现麦子学院发布评论功能",
+    "lesson_time": "25:414"
+},
+{
+    "lesson_id": "805-11747",
+    "lesson_name": "通过curl请求接口数据",
+    "lesson_time": "17:105"
+},
+{
+    "lesson_id": "805-11748",
+    "lesson_name": "curl内容补充-1",
+    "lesson_time": "07:096"
+},
+{
+    "lesson_id": "805-11749",
+    "lesson_name": "curl多线程相关函数",
+    "lesson_time": "08:157"
+},
+{
+    "lesson_id": "547-7585",
+    "lesson_name": "新特性速递",
+    "lesson_time": "07:181"
+},
+{
+    "lesson_id": "547-7586",
+    "lesson_name": "Material风格初探",
+    "lesson_time": "10:402"
+},
+{
+    "lesson_id": "547-7587",
+    "lesson_name": "Material风格进阶",
+    "lesson_time": "06:393"
+},
+{
+    "lesson_id": "547-7588",
+    "lesson_name": "Material主题及Toolbar的使用",
+    "lesson_time": "11:584"
+},
+{
+    "lesson_id": "547-7589",
+    "lesson_name": "Android Activity 动画（1）",
+    "lesson_time": "07:435"
+},
+{
+    "lesson_id": "547-7590",
+    "lesson_name": "Android Activity 动画（2）",
+    "lesson_time": "10:096"
+},
+{
+    "lesson_id": "547-7591",
+    "lesson_name": "Android Activity之动画3",
+    "lesson_time": "07:457"
+},
+{
+    "lesson_id": "547-7592",
+    "lesson_name": "Android Activity 动画4",
+    "lesson_time": "12:298"
+},
+{
+    "lesson_id": "547-7593",
+    "lesson_name": "Android Activity 动画（5）",
+    "lesson_time": "07:229"
+},
+{
+    "lesson_id": "547-7594",
+    "lesson_name": "Android Activity 动画（6）",
+    "lesson_time": "08:3910"
+},
+{
+    "lesson_id": "547-7595",
+    "lesson_name": "触摸反馈特效",
+    "lesson_time": "06:4711"
+},
+{
+    "lesson_id": "547-8850",
+    "lesson_name": "RecyclerView的基本使用",
+    "lesson_time": "09:1012"
+},
+{
+    "lesson_id": "547-8851",
+    "lesson_name": "RecyclerView的基本使用",
+    "lesson_time": "10:2613"
+},
+{
+    "lesson_id": "547-8858",
+    "lesson_name": "CardView与下拉刷新",
+    "lesson_time": "06:2214"
+},
+{
+    "lesson_id": "547-8991",
+    "lesson_name": "通用UI框架与CoordinatorLayout(1)",
+    "lesson_time": "12:3715"
+},
+{
+    "lesson_id": "547-8992",
+    "lesson_name": "通用UI框架与CoordinatorLayout（2）",
+    "lesson_time": "05:2816"
+},
+{
+    "lesson_id": "547-8993",
+    "lesson_name": "调色板的使用",
+    "lesson_time": "07:1517"
+},
+{
+    "lesson_id": "547-9148",
+    "lesson_name": "通知栏新特性",
+    "lesson_time": "06:0218"
+},
+{
+    "lesson_id": "547-9149",
+    "lesson_name": "调度任务",
+    "lesson_time": "08:2519"
+},
+{
+    "lesson_id": "547-9196",
+    "lesson_name": "数据统计",
+    "lesson_time": "08:0120"
+},
+{
+    "lesson_id": "547-9290",
+    "lesson_name": "Camera2",
+    "lesson_time": "07:4121"
+},
+{
+    "lesson_id": "547-9291",
+    "lesson_name": "多Sim卡支持与android5",
+    "lesson_time": "05:5322"
+},
+{
+    "lesson_id": "547-9292",
+    "lesson_name": "常见开源组件",
+    "lesson_time": "04:2123"
+},
+{
+    "lesson_id": "475-6042",
+    "lesson_name": " 项目说明和Demo演示",
+    "lesson_time": "07:331"
+},
+{
+    "lesson_id": "475-6043",
+    "lesson_name": "第三方控件使用&混编",
+    "lesson_time": "19:462"
+},
+{
+    "lesson_id": "475-6044",
+    "lesson_name": "基础界面实现-层次结构分析",
+    "lesson_time": "15:163"
+},
+{
+    "lesson_id": "475-6045",
+    "lesson_name": "基础界面实现-抽屉控件",
+    "lesson_time": "07:434"
+},
+{
+    "lesson_id": "475-6046",
+    "lesson_name": "基础界面实现-自定义专辑封面控件",
+    "lesson_time": "34:225"
+},
+{
+    "lesson_id": "475-6047",
+    "lesson_name": "基础界面实现-毛玻璃效果",
+    "lesson_time": "16:216"
+},
+{
+    "lesson_id": "475-6048",
+    "lesson_name": "基础界面实现-唱针动画",
+    "lesson_time": "31:397"
+},
+{
+    "lesson_id": "810-11821",
+    "lesson_name": "Android基础UI控件课程介绍",
+    "lesson_time": "14:581"
+},
+{
+    "lesson_id": "810-11822",
+    "lesson_name": "基础UI控件1-TextView、Button、EditText",
+    "lesson_time": "20:552"
+},
+{
+    "lesson_id": "810-11823",
+    "lesson_name": "基础UI控件2-ImageView、CheckBox、RadioButton",
+    "lesson_time": "15:413"
+},
+{
+    "lesson_id": "810-11824",
+    "lesson_name": "基础UI控件3-SeekBar、ProgressBar、DataPicker",
+    "lesson_time": "20:564"
+},
+{
+    "lesson_id": "810-11825",
+    "lesson_name": "Spinner",
+    "lesson_time": "14:025"
+},
+{
+    "lesson_id": "810-11826",
+    "lesson_name": "ListView",
+    "lesson_time": "13:566"
+},
+{
+    "lesson_id": "810-11827",
+    "lesson_name": "ListView-SimpleAdapter",
+    "lesson_time": "16:477"
+},
+{
+    "lesson_id": "810-11828",
+    "lesson_name": "BaseAdapter",
+    "lesson_time": "19:358"
+},
+{
+    "lesson_id": "810-11829",
+    "lesson_name": "GridView 上",
+    "lesson_time": "14:539"
+},
+{
+    "lesson_id": "810-11830",
+    "lesson_name": "GridView 下",
+    "lesson_time": "11:3710"
+},
+{
+    "lesson_id": "810-11831",
+    "lesson_name": "ExpandableListView",
+    "lesson_time": "20:0311"
+},
+{
+    "lesson_id": "810-11832",
+    "lesson_name": "ExpandableListView-下",
+    "lesson_time": "24:0412"
+},
+{
+    "lesson_id": "810-11833",
+    "lesson_name": "LinearLayout",
+    "lesson_time": "12:4313"
+},
+{
+    "lesson_id": "810-11834",
+    "lesson_name": "RelativeLayout",
+    "lesson_time": "18:2714"
+},
+{
+    "lesson_id": "810-11835",
+    "lesson_name": "FrameLayout",
+    "lesson_time": "08:3515"
+},
+{
+    "lesson_id": "810-11836",
+    "lesson_name": "AbsoluteLayout",
+    "lesson_time": "04:1016"
+},
+{
+    "lesson_id": "810-11837",
+    "lesson_name": "表格布局",
+    "lesson_time": "11:1817"
+},
+{
+    "lesson_id": "810-11838",
+    "lesson_name": "ViewPager",
+    "lesson_time": "12:2418"
+},
+{
+    "lesson_id": "810-11839",
+    "lesson_name": "menu菜单",
+    "lesson_time": "12:0919"
+},
+{
+    "lesson_id": "810-11840",
+    "lesson_name": "popwindow",
+    "lesson_time": "10:1620"
+},
+{
+    "lesson_id": "810-11841",
+    "lesson_name": "Fragment",
+    "lesson_time": "17:5521"
+},
+{
+    "lesson_id": "810-11842",
+    "lesson_name": "fragment应用场景",
+    "lesson_time": "16:3922"
+},
+{
+    "lesson_id": "810-11843",
+    "lesson_name": "fragment与activity通信",
+    "lesson_time": "12:5523"
+},
+{
+    "lesson_id": "810-11844",
+    "lesson_name": "swipRefreshLayout",
+    "lesson_time": "13:4324"
+},
+{
+    "lesson_id": "810-11845",
+    "lesson_name": "DrawerLayout",
+    "lesson_time": "12:5325"
+},
+{
+    "lesson_id": "810-11846",
+    "lesson_name": "RecyclerView",
+    "lesson_time": "21:4226"
+},
+{
+    "lesson_id": "810-11892",
+    "lesson_name": "shape",
+    "lesson_time": "19:4027"
+},
+{
+    "lesson_id": "810-11893",
+    "lesson_name": "状态选择器",
+    "lesson_time": "13:0528"
+},
+{
+    "lesson_id": "810-11894",
+    "lesson_name": "Notification",
+    "lesson_time": "17:3029"
+},
+{
+    "lesson_id": "810-11895",
+    "lesson_name": "主题和样式",
+    "lesson_time": "16:4830"
+},
+{
+    "lesson_id": "229-1988",
+    "lesson_name": "JavaScript简介",
+    "lesson_time": "28:031"
+},
+{
+    "lesson_id": "229-1989",
+    "lesson_name": "JavaScript的变量",
+    "lesson_time": "15:102"
+},
+{
+    "lesson_id": "229-1990",
+    "lesson_name": "JavaScript中的数据类型",
+    "lesson_time": "19:073"
+},
+{
+    "lesson_id": "229-1991",
+    "lesson_name": "JavaScript隐式转换",
+    "lesson_time": "19:314"
+},
+{
+    "lesson_id": "229-1992",
+    "lesson_name": "JavaScript中的强制转换",
+    "lesson_time": "18:125"
+},
+{
+    "lesson_id": "229-1993",
+    "lesson_name": "JavaScript表达式与运算符",
+    "lesson_time": "42:126"
+},
+{
+    "lesson_id": "229-1994",
+    "lesson_name": "JavaScript的其它运算符与优先级",
+    "lesson_time": "13:417"
+},
+{
+    "lesson_id": "229-1995",
+    "lesson_name": "Javascript中的流程控制-条件语句",
+    "lesson_time": "26:218"
+},
+{
+    "lesson_id": "229-1996",
+    "lesson_name": "Javascript中的流程控制-for循环",
+    "lesson_time": "26:219"
+},
+{
+    "lesson_id": "229-1997",
+    "lesson_name": "JavaScript中的流程控制-while循环和dowhile循环",
+    "lesson_time": "19:0710"
+},
+{
+    "lesson_id": "229-1998",
+    "lesson_name": "JavaScript中的函数-通过function关键字定义函数",
+    "lesson_time": "17:3711"
+},
+{
+    "lesson_id": "229-1999",
+    "lesson_name": "JavaScript中的默认参数、可变参数、变量作用域",
+    "lesson_time": "25:3112"
+},
+{
+    "lesson_id": "229-2000",
+    "lesson_name": "Javascript中的全局函数-数值型函数",
+    "lesson_time": "12:0013"
+},
+{
+    "lesson_id": "229-2001",
+    "lesson_name": "JavaScript中的全局函数",
+    "lesson_time": "19:2914"
+},
+{
+    "lesson_id": "229-2002",
+    "lesson_name": "Javascript中的特殊形式的函数-匿名函数的应用",
+    "lesson_time": "24:5415"
+},
+{
+    "lesson_id": "229-7782",
+    "lesson_name": "Javascript中的对象-如何自定义对象",
+    "lesson_time": "21:3916"
+},
+{
+    "lesson_id": "229-7783",
+    "lesson_name": "JavaScript中的对象-属性相关操作",
+    "lesson_time": "24:4917"
+},
+{
+    "lesson_id": "229-7784",
+    "lesson_name": "JavaScript中的对象-对象的结构",
+    "lesson_time": "26:3218"
+},
+{
+    "lesson_id": "229-7785",
+    "lesson_name": "JavaScript中的对象-属性的特性",
+    "lesson_time": "14:5219"
+},
+{
+    "lesson_id": "229-7786",
+    "lesson_name": "JavaScript中的对象-属性特性描述",
+    "lesson_time": "25:0520"
+},
+{
+    "lesson_id": "229-7787",
+    "lesson_name": "JavaScript中的对象-属性的特性",
+    "lesson_time": "19:3121"
+},
+{
+    "lesson_id": "229-7788",
+    "lesson_name": "JavaScript中的对象-对象的特性",
+    "lesson_time": "18:4422"
+},
+{
+    "lesson_id": "229-8012",
+    "lesson_name": "Javascript的内建对象之Date对象",
+    "lesson_time": "17:2623"
+},
+{
+    "lesson_id": "229-8013",
+    "lesson_name": "JavaScript中的内建对象之RegExp对象",
+    "lesson_time": "35:5824"
+},
+{
+    "lesson_id": "229-8014",
+    "lesson_name": "JavaScript中内建对象之Error对象",
+    "lesson_time": "18:0525"
+},
+{
+    "lesson_id": "229-8339",
+    "lesson_name": "JavaScript中的数组对象",
+    "lesson_time": "66:3526"
+},
+{
+    "lesson_id": "229-8340",
+    "lesson_name": "Javascript中的事件简介",
+    "lesson_time": "30:3427"
+},
+{
+    "lesson_id": "229-8341",
+    "lesson_name": "DOM2级事件绑定和移除",
+    "lesson_time": "31:4228"
+},
+{
+    "lesson_id": "229-8342",
+    "lesson_name": "JavaScript中的事件对象及兼容性",
+    "lesson_time": "28:0929"
+},
+{
+    "lesson_id": "229-8343",
+    "lesson_name": "Javascript中的兼容性问题及onload事件",
+    "lesson_time": "22:1930"
+},
+{
+    "lesson_id": "229-8344",
+    "lesson_name": "Javascript表单验证",
+    "lesson_time": "13:4031"
+},
+{
+    "lesson_id": "760-10995",
+    "lesson_name": "PHP整个框架结构以及课程大纲介绍",
+    "lesson_time": "11:431"
+},
+{
+    "lesson_id": "760-10996",
+    "lesson_name": "PHP的执行流程",
+    "lesson_time": "09:422"
+},
+{
+    "lesson_id": "760-10997",
+    "lesson_name": "PHP底层变量存储解析",
+    "lesson_time": "16:203"
+},
+{
+    "lesson_id": "760-10998",
+    "lesson_name": "PHP内存中变量的赋值和引用",
+    "lesson_time": "14:154"
+},
+{
+    "lesson_id": "760-10999",
+    "lesson_name": "PHP常量的底层实现解析",
+    "lesson_time": "20:505"
+},
+{
+    "lesson_id": "760-11000",
+    "lesson_name": "PHP中HashTable算法讲解介绍以及数组的应用(上)",
+    "lesson_time": "14:366"
+},
+{
+    "lesson_id": "760-11001",
+    "lesson_name": "PHP中HashTable算法讲解介绍以及数组的应用(下)",
+    "lesson_time": "09:507"
+},
+{
+    "lesson_id": "760-11002",
+    "lesson_name": "PHP函数变量作用域",
+    "lesson_time": "12:278"
+},
+{
+    "lesson_id": "760-11003",
+    "lesson_name": "PHP静态变量",
+    "lesson_time": "10:399"
+},
+{
+    "lesson_id": "760-11004",
+    "lesson_name": "PHP内存管理以及垃圾回收机制",
+    "lesson_time": "21:2310"
+},
+{
+    "lesson_id": "71-717",
+    "lesson_name": "电话与短信应用1-使用模拟器测试短信功能",
+    "lesson_time": "18:141"
+},
+{
+    "lesson_id": "71-718",
+    "lesson_name": "电话与短信应用2-发送短信",
+    "lesson_time": "18:292"
+},
+{
+    "lesson_id": "71-719",
+    "lesson_name": "电话与短信应用3-深入短信功能",
+    "lesson_time": "17:423"
+},
+{
+    "lesson_id": "71-720",
+    "lesson_name": "电话与短信应用4-电话功能研究",
+    "lesson_time": "18:284"
+},
+{
+    "lesson_id": "71-721",
+    "lesson_name": "电话与短信应用5-监听拨入拨出状态",
+    "lesson_time": "17:455"
+},
+{
+    "lesson_id": "71-722",
+    "lesson_name": "电话与短信应用6-电话号码添加前缀及通话录音",
+    "lesson_time": "19:156"
+},
+{
+    "lesson_id": "377-4337",
+    "lesson_name": "Fragment的概念和应用场景",
+    "lesson_time": "08:561"
+},
+{
+    "lesson_id": "377-4338",
+    "lesson_name": "Fragment的创建1",
+    "lesson_time": "20:352"
+},
+{
+    "lesson_id": "377-4339",
+    "lesson_name": "Fragment的创建2",
+    "lesson_time": "10:083"
+},
+{
+    "lesson_id": "377-4340",
+    "lesson_name": "Fragment的替换和移除1",
+    "lesson_time": "15:444"
+},
+{
+    "lesson_id": "377-4341",
+    "lesson_name": "Fragment的替换和移除2",
+    "lesson_time": "13:105"
+},
+{
+    "lesson_id": "377-4342",
+    "lesson_name": "Fragment的生命周期",
+    "lesson_time": "16:006"
+},
+{
+    "lesson_id": "377-4343",
+    "lesson_name": "DialogFragment实战1",
+    "lesson_time": "17:257"
+},
+{
+    "lesson_id": "377-4344",
+    "lesson_name": "DialogFragment实战2",
+    "lesson_time": "16:198"
+},
+{
+    "lesson_id": "377-4345",
+    "lesson_name": "DialogFragment实战3",
+    "lesson_time": "18:119"
+},
+{
+    "lesson_id": "377-4346",
+    "lesson_name": "DialogFragment实战4",
+    "lesson_time": "09:3010"
+},
+{
+    "lesson_id": "377-4347",
+    "lesson_name": "DialogFragment实战5",
+    "lesson_time": "09:0911"
+},
+{
+    "lesson_id": "377-4348",
+    "lesson_name": "DialogFragment实战6",
+    "lesson_time": "07:5612"
+},
+{
+    "lesson_id": "377-4349",
+    "lesson_name": "Fragment和Activity的通信1",
+    "lesson_time": "05:1013"
+},
+{
+    "lesson_id": "377-4350",
+    "lesson_name": "Fragment和Activity的通信2",
+    "lesson_time": "14:2014"
+},
+{
+    "lesson_id": "377-4351",
+    "lesson_name": "Fragment和Activity的通信3",
+    "lesson_time": "08:0415"
+},
+{
+    "lesson_id": "377-4352",
+    "lesson_name": "Fragment和Activity的通信4",
+    "lesson_time": "15:1116"
+},
+{
+    "lesson_id": "377-4353",
+    "lesson_name": "Fragment和Activity的通信5",
+    "lesson_time": "09:4417"
+},
+{
+    "lesson_id": "377-4354",
+    "lesson_name": "Fragment的最佳通信方式和ListFragment实战1",
+    "lesson_time": "12:0718"
+},
+{
+    "lesson_id": "377-4355",
+    "lesson_name": "Fragment的最佳通信方式和ListFragment实战2",
+    "lesson_time": "07:4819"
+},
+{
+    "lesson_id": "377-4356",
+    "lesson_name": "Fragment的最佳通信方式和ListFragment实战3",
+    "lesson_time": "14:1020"
+},
+{
+    "lesson_id": "377-4357",
+    "lesson_name": "Fragment的最佳通信方式和ListFragment实战4",
+    "lesson_time": "08:3921"
+},
+{
+    "lesson_id": "377-4358",
+    "lesson_name": "Fragment的最佳通信方式和ListFragment实战5",
+    "lesson_time": "11:0422"
+},
+{
+    "lesson_id": "377-4359",
+    "lesson_name": "app",
+    "lesson_time": "08:1123"
+},
+{
+    "lesson_id": "765-11116",
+    "lesson_name": "说在前面的话",
+    "lesson_time": "12:511"
+},
+{
+    "lesson_id": "765-11117",
+    "lesson_name": "IIC硬件设备基本概念",
+    "lesson_time": "19:462"
+},
+{
+    "lesson_id": "765-11118",
+    "lesson_name": "IIC硬件设备操作时序",
+    "lesson_time": "19:303"
+},
+{
+    "lesson_id": "765-11119",
+    "lesson_name": "IIC硬件设备读写时序分析",
+    "lesson_time": "21:214"
+},
+{
+    "lesson_id": "765-11120",
+    "lesson_name": "IIC硬件设备相关寄存器分析",
+    "lesson_time": "15:505"
+},
+{
+    "lesson_id": "765-11121",
+    "lesson_name": "IIC子系统开发之设备驱动框架层功能分析",
+    "lesson_time": "21:026"
+},
+{
+    "lesson_id": "765-11122",
+    "lesson_name": "IIC子系统开发之核心层分析",
+    "lesson_time": "24:107"
+},
+{
+    "lesson_id": "765-11123",
+    "lesson_name": "IIC子系统开发之设备驱动层分析",
+    "lesson_time": "21:158"
+},
+{
+    "lesson_id": "765-11124",
+    "lesson_name": "IIC应用程序开发之一",
+    "lesson_time": "19:479"
+},
+{
+    "lesson_id": "765-11125",
+    "lesson_name": "IIC应用程序开发之二",
+    "lesson_time": "18:1910"
+},
+{
+    "lesson_id": "765-11126",
+    "lesson_name": "IIC应用程序开发之三",
+    "lesson_time": "18:4411"
+},
+{
+    "lesson_id": "765-11127",
+    "lesson_name": "IIC设备驱动之系统流程分析",
+    "lesson_time": "26:2312"
+},
+{
+    "lesson_id": "765-11128",
+    "lesson_name": "IIC设备驱动之资源层分析",
+    "lesson_time": "22:3113"
+},
+{
+    "lesson_id": "765-11129",
+    "lesson_name": "IIC设备驱动之总线驱动层分析之一",
+    "lesson_time": "22:3414"
+},
+{
+    "lesson_id": "765-11130",
+    "lesson_name": "IIC设备驱动之总线驱动层分析之二",
+    "lesson_time": "20:2515"
+},
+{
+    "lesson_id": "765-11131",
+    "lesson_name": "IIC设备驱动之总线驱动层分析之三",
+    "lesson_time": "16:3916"
+},
+{
+    "lesson_id": "765-11132",
+    "lesson_name": "IIC设备驱动之IIC特定驱动开发之一",
+    "lesson_time": "22:1717"
+},
+{
+    "lesson_id": "765-11133",
+    "lesson_name": "IIC设备驱动之IIC特定驱动开发之二",
+    "lesson_time": "24:2218"
+},
+{
+    "lesson_id": "795-11522",
+    "lesson_name": "概要",
+    "lesson_time": "09:351"
+},
+{
+    "lesson_id": "795-11523",
+    "lesson_name": "项目搭建",
+    "lesson_time": "14:582"
+},
+{
+    "lesson_id": "795-11524",
+    "lesson_name": "项目搭建",
+    "lesson_time": "14:423"
+},
+{
+    "lesson_id": "795-11525",
+    "lesson_name": "App的骨架：实现抽屉效果",
+    "lesson_time": "19:494"
+},
+{
+    "lesson_id": "795-11526",
+    "lesson_name": "App的骨架：实现抽屉效果",
+    "lesson_time": "18:585"
+},
+{
+    "lesson_id": "795-11527",
+    "lesson_name": "App的骨架：实现抽屉效果",
+    "lesson_time": "20:046"
+},
+{
+    "lesson_id": "795-11528",
+    "lesson_name": "准备工作：数据传递和网络封装",
+    "lesson_time": "15:507"
+},
+{
+    "lesson_id": "795-11529",
+    "lesson_name": "准备工作：数据传递和网络封装",
+    "lesson_time": "16:228"
+},
+{
+    "lesson_id": "795-11530",
+    "lesson_name": "准备工作：数据传递和网络封装",
+    "lesson_time": "16:139"
+},
+{
+    "lesson_id": "795-11531",
+    "lesson_name": "准备工作：数据传递和网络封装",
+    "lesson_time": "17:0710"
+},
+{
+    "lesson_id": "795-11532",
+    "lesson_name": "用户菜单栏",
+    "lesson_time": "20:0411"
+},
+{
+    "lesson_id": "795-11533",
+    "lesson_name": "用户菜单栏",
+    "lesson_time": "19:5612"
+},
+{
+    "lesson_id": "795-11534",
+    "lesson_name": "用户菜单栏",
+    "lesson_time": "19:2613"
+},
+{
+    "lesson_id": "795-11535",
+    "lesson_name": "注册 & 登录",
+    "lesson_time": "14:5814"
+},
+{
+    "lesson_id": "795-11536",
+    "lesson_name": "注册 & 登录",
+    "lesson_time": "15:0415"
+},
+{
+    "lesson_id": "795-11537",
+    "lesson_name": "注册 & 登录",
+    "lesson_time": "14:1116"
+},
+{
+    "lesson_id": "795-11538",
+    "lesson_name": "信息详情",
+    "lesson_time": "14:5817"
+},
+{
+    "lesson_id": "795-11539",
+    "lesson_name": "信息详情",
+    "lesson_time": "13:2418"
+},
+{
+    "lesson_id": "795-11540",
+    "lesson_name": "信息详情",
+    "lesson_time": "12:0919"
+},
+{
+    "lesson_id": "795-11541",
+    "lesson_name": "发布信息",
+    "lesson_time": "16:5620"
+},
+{
+    "lesson_id": "795-11542",
+    "lesson_name": "发布信息",
+    "lesson_time": "16:2021"
+},
+{
+    "lesson_id": "795-11543",
+    "lesson_name": "发布信息",
+    "lesson_time": "15:5522"
+},
+{
+    "lesson_id": "795-11544",
+    "lesson_name": "发布信息",
+    "lesson_time": "14:5523"
+},
+{
+    "lesson_id": "795-11545",
+    "lesson_name": "主页",
+    "lesson_time": "15:5924"
+},
+{
+    "lesson_id": "795-11546",
+    "lesson_name": "主页",
+    "lesson_time": "16:1125"
+},
+{
+    "lesson_id": "795-11547",
+    "lesson_name": "主页",
+    "lesson_time": "16:0226"
+},
+{
+    "lesson_id": "795-11548",
+    "lesson_name": "主页",
+    "lesson_time": "15:3227"
+},
+{
+    "lesson_id": "795-11549",
+    "lesson_name": "消息中心",
+    "lesson_time": "07:0828"
+},
+{
+    "lesson_id": "371-3785",
+    "lesson_name": "本课程的介绍",
+    "lesson_time": "06:241"
+},
+{
+    "lesson_id": "371-3786",
+    "lesson_name": "准备MySQL函数库和PHP文件",
+    "lesson_time": "12:252"
+},
+{
+    "lesson_id": "371-3787",
+    "lesson_name": "链接到MySQL",
+    "lesson_time": "08:593"
+},
+{
+    "lesson_id": "371-3788",
+    "lesson_name": "验证用户名和密码",
+    "lesson_time": "16:024"
+},
+{
+    "lesson_id": "371-3789",
+    "lesson_name": "加密用户的密码",
+    "lesson_time": "04:215"
+},
+{
+    "lesson_id": "371-3790",
+    "lesson_name": "让新的会员登记",
+    "lesson_time": "15:206"
+},
+{
+    "lesson_id": "371-3791",
+    "lesson_name": "显示查询结果",
+    "lesson_time": "17:557"
+},
+{
+    "lesson_id": "371-3792",
+    "lesson_name": "更新函数库",
+    "lesson_time": "14:288"
+},
+{
+    "lesson_id": "371-3793",
+    "lesson_name": "插入和删除",
+    "lesson_time": "15:579"
+},
+{
+    "lesson_id": "371-3794",
+    "lesson_name": "预处理语句和结束",
+    "lesson_time": "15:4710"
+},
+{
+    "lesson_id": "812-11869",
+    "lesson_name": "侧拉实现_1",
+    "lesson_time": "18:531"
+},
+{
+    "lesson_id": "812-11870",
+    "lesson_name": "侧拉实现_2",
+    "lesson_time": "17:272"
+},
+{
+    "lesson_id": "812-11871",
+    "lesson_name": "实现LeftController",
+    "lesson_time": "18:513"
+},
+{
+    "lesson_id": "812-11872",
+    "lesson_name": "实现RightController",
+    "lesson_time": "21:414"
+},
+{
+    "lesson_id": "812-11873",
+    "lesson_name": "多线程编程_1",
+    "lesson_time": "10:335"
+},
+{
+    "lesson_id": "812-11874",
+    "lesson_name": "多线程编程_02",
+    "lesson_time": "18:296"
+},
+{
+    "lesson_id": "812-11875",
+    "lesson_name": "网络协议基础",
+    "lesson_time": "19:257"
+},
+{
+    "lesson_id": "812-11876",
+    "lesson_name": "xml和json解析",
+    "lesson_time": "22:118"
+},
+{
+    "lesson_id": "812-11877",
+    "lesson_name": "处理主界面导航栏",
+    "lesson_time": "22:009"
+},
+{
+    "lesson_id": "812-11878",
+    "lesson_name": "界面完善",
+    "lesson_time": "29:5310"
+},
+{
+    "lesson_id": "812-11879",
+    "lesson_name": "Swift_OC混合编程",
+    "lesson_time": "17:1911"
+},
+{
+    "lesson_id": "812-11880",
+    "lesson_name": "下拉刷新",
+    "lesson_time": "06:2012"
+},
+{
+    "lesson_id": "812-11881",
+    "lesson_name": "完成主界面1",
+    "lesson_time": "22:2813"
+},
+{
+    "lesson_id": "812-11882",
+    "lesson_name": "完成主界面2",
+    "lesson_time": "29:3814"
+},
+{
+    "lesson_id": "812-11883",
+    "lesson_name": "完成主界面3",
+    "lesson_time": "19:1415"
+},
+{
+    "lesson_id": "812-12076",
+    "lesson_name": "定位1",
+    "lesson_time": "19:1316"
+},
+{
+    "lesson_id": "812-12077",
+    "lesson_name": "定位2",
+    "lesson_time": "17:3317"
+},
+{
+    "lesson_id": "812-12078",
+    "lesson_name": "CocoaPods安装与使用_1",
+    "lesson_time": "10:1218"
+},
+{
+    "lesson_id": "812-12079",
+    "lesson_name": "CocoaPods安装与使用_2",
+    "lesson_time": "06:5419"
+},
+{
+    "lesson_id": "812-12080",
+    "lesson_name": "城市管理功能实现 1",
+    "lesson_time": "21:4520"
+},
+{
+    "lesson_id": "812-12081",
+    "lesson_name": "城市管理功能实现 2",
+    "lesson_time": "19:2821"
+},
+{
+    "lesson_id": "812-12082",
+    "lesson_name": "城市管理功能实现 3",
+    "lesson_time": "19:5822"
+},
+{
+    "lesson_id": "812-12083",
+    "lesson_name": "城市管理功能实现_4",
+    "lesson_time": "15:5623"
+},
+{
+    "lesson_id": "812-12084",
+    "lesson_name": "第三方分享 1",
+    "lesson_time": "19:1324"
+},
+{
+    "lesson_id": "812-12085",
+    "lesson_name": "第三方分享 2",
+    "lesson_time": "20:5925"
+},
+{
+    "lesson_id": "812-12086",
+    "lesson_name": "第三方分享_3",
+    "lesson_time": "13:0426"
+},
+{
+    "lesson_id": "812-12087",
+    "lesson_name": "第三方分享 4",
+    "lesson_time": "30:0327"
+},
+{
+    "lesson_id": "812-12088",
+    "lesson_name": "第三方分享 5",
+    "lesson_time": "27:1228"
+},
+{
+    "lesson_id": "45-5327",
+    "lesson_name": "PCI设备基础知识",
+    "lesson_time": "17:001"
+},
+{
+    "lesson_id": "45-5328",
+    "lesson_name": "PCI设备驱动架构",
+    "lesson_time": "17:552"
+},
+{
+    "lesson_id": "45-5329",
+    "lesson_name": "应用层网络编程回顾",
+    "lesson_time": "17:133"
+},
+{
+    "lesson_id": "45-5330",
+    "lesson_name": "网络协议栈概述",
+    "lesson_time": "19:374"
+},
+{
+    "lesson_id": "45-5331",
+    "lesson_name": "wireshark抓包分析网络协议栈",
+    "lesson_time": "19:315"
+},
+{
+    "lesson_id": "45-5332",
+    "lesson_name": "dm9000驱动之platform驱动层分析",
+    "lesson_time": "10:176"
+},
+{
+    "lesson_id": "45-5333",
+    "lesson_name": "dm9000驱动之probe函数分析",
+    "lesson_time": "24:287"
+},
+{
+    "lesson_id": "45-5335",
+    "lesson_name": "dm9000驱动之open函数分析",
+    "lesson_time": "17:048"
+},
+{
+    "lesson_id": "45-5336",
+    "lesson_name": "dm9000驱动之发送过程分析",
+    "lesson_time": "13:199"
+},
+{
+    "lesson_id": "45-5337",
+    "lesson_name": "dm9000驱动之接收过程分析",
+    "lesson_time": "14:1110"
+},
+{
+    "lesson_id": "45-5338",
+    "lesson_name": "loopback虚拟网卡驱动分析",
+    "lesson_time": "10:4111"
+},
+{
+    "lesson_id": "772-11216",
+    "lesson_name": "swift 2",
+    "lesson_time": "15:351"
+},
+{
+    "lesson_id": "772-11217",
+    "lesson_name": "swift 2",
+    "lesson_time": "11:022"
+},
+{
+    "lesson_id": "772-11218",
+    "lesson_name": "swift 2",
+    "lesson_time": "15:073"
+},
+{
+    "lesson_id": "772-11219",
+    "lesson_name": "swift 2",
+    "lesson_time": "20:094"
+},
+{
+    "lesson_id": "772-11220",
+    "lesson_name": "swift 2",
+    "lesson_time": "14:135"
+},
+{
+    "lesson_id": "772-11316",
+    "lesson_name": "swift 2",
+    "lesson_time": "17:206"
+},
+{
+    "lesson_id": "772-11317",
+    "lesson_name": "swift 2",
+    "lesson_time": "14:597"
+},
+{
+    "lesson_id": "772-11318",
+    "lesson_name": "swift 2",
+    "lesson_time": "17:088"
+},
+{
+    "lesson_id": "772-11319",
+    "lesson_name": "swift 2",
+    "lesson_time": "22:269"
+},
+{
+    "lesson_id": "772-11320",
+    "lesson_name": "swift 2",
+    "lesson_time": "08:0310"
+},
+{
+    "lesson_id": "772-11321",
+    "lesson_name": "swift 2",
+    "lesson_time": "19:2011"
+},
+{
+    "lesson_id": "772-11322",
+    "lesson_name": " swift 2",
+    "lesson_time": "14:3512"
+},
+{
+    "lesson_id": "772-11323",
+    "lesson_name": "swift 2",
+    "lesson_time": "17:4013"
+},
+{
+    "lesson_id": "772-11324",
+    "lesson_name": "swift 2",
+    "lesson_time": "14:4514"
+},
+{
+    "lesson_id": "772-11325",
+    "lesson_name": "swift 2",
+    "lesson_time": "10:0815"
+},
+{
+    "lesson_id": "772-11326",
+    "lesson_name": "swift 2",
+    "lesson_time": "10:3616"
+},
+{
+    "lesson_id": "772-11327",
+    "lesson_name": "swift 2",
+    "lesson_time": "19:2817"
+},
+{
+    "lesson_id": "772-11328",
+    "lesson_name": "swift 2",
+    "lesson_time": "12:5518"
+},
+{
+    "lesson_id": "772-11342",
+    "lesson_name": "swift 2",
+    "lesson_time": "15:4419"
+},
+{
+    "lesson_id": "772-11343",
+    "lesson_name": "swift 2",
+    "lesson_time": "07:5820"
+},
+{
+    "lesson_id": "772-11344",
+    "lesson_name": "swift 2",
+    "lesson_time": "11:4621"
+},
+{
+    "lesson_id": "772-11345",
+    "lesson_name": "swift 2",
+    "lesson_time": "13:2522"
+},
+{
+    "lesson_id": "772-11346",
+    "lesson_name": "swift 2",
+    "lesson_time": "20:0723"
+},
+{
+    "lesson_id": "772-11347",
+    "lesson_name": "swift 2",
+    "lesson_time": "13:4524"
+},
+{
+    "lesson_id": "772-11348",
+    "lesson_name": "swift 2",
+    "lesson_time": "15:3625"
+},
+{
+    "lesson_id": "772-11349",
+    "lesson_name": "swift 2",
+    "lesson_time": "15:1226"
+},
+{
+    "lesson_id": "772-11350",
+    "lesson_name": "swift 2",
+    "lesson_time": "13:1627"
+},
+{
+    "lesson_id": "772-11351",
+    "lesson_name": "swift 2",
+    "lesson_time": "13:4228"
+},
+{
+    "lesson_id": "772-11506",
+    "lesson_name": "swift 2",
+    "lesson_time": "18:4829"
+},
+{
+    "lesson_id": "772-11507",
+    "lesson_name": "swift 2",
+    "lesson_time": "25:1530"
+},
+{
+    "lesson_id": "772-11508",
+    "lesson_name": "swift 2",
+    "lesson_time": "07:2531"
+},
+{
+    "lesson_id": "479-6084",
+    "lesson_name": "Linux网络编程实战_01概述_01课程介绍",
+    "lesson_time": "17:171"
+},
+{
+    "lesson_id": "479-6085",
+    "lesson_name": "Linux网络编程实战_01概述_02项目一般过程及方法",
+    "lesson_time": "11:412"
+},
+{
+    "lesson_id": "479-6086",
+    "lesson_name": "Linux网络编程实战_01概述_协议分层模型",
+    "lesson_time": "10:473"
+},
+{
+    "lesson_id": "479-6087",
+    "lesson_name": "Linux网络编程实战_01概述_02IP协议",
+    "lesson_time": "05:284"
+},
+{
+    "lesson_id": "479-6088",
+    "lesson_name": "Linux网络编程实战_01概述_TCP_UDP协议",
+    "lesson_time": "05:275"
+},
+{
+    "lesson_id": "479-6089",
+    "lesson_name": "Linux网络编程实战_01概述_客户端服务器工作流程",
+    "lesson_time": "02:516"
+},
+{
+    "lesson_id": "479-6090",
+    "lesson_name": "Linux项目编程实战_01概述_04开发环境搭建",
+    "lesson_time": "06:357"
+},
+{
+    "lesson_id": "479-6091",
+    "lesson_name": "Linux项目编程实战_01概述_HTTP协议",
+    "lesson_time": "09:358"
+},
+{
+    "lesson_id": "479-6092",
+    "lesson_name": "Linux项目编程实战_01概述_HTTP服务器",
+    "lesson_time": "07:039"
+},
+{
+    "lesson_id": "479-6171",
+    "lesson_name": "Linux网络编程实战_02项目规划_项目三要素",
+    "lesson_time": "13:2010"
+},
+{
+    "lesson_id": "479-6172",
+    "lesson_name": "Linux网络编程实战_02项目规划_功能目标",
+    "lesson_time": "03:2711"
+},
+{
+    "lesson_id": "479-6173",
+    "lesson_name": "Linux网络编程实战_02项目规划_性能目标",
+    "lesson_time": "03:5612"
+},
+{
+    "lesson_id": "479-6174",
+    "lesson_name": "Linux网络编程实战_02项目规划_HTTP服务器项目目标",
+    "lesson_time": "04:4013"
+},
+{
+    "lesson_id": "479-6175",
+    "lesson_name": "Linux网络编程实战_02项目规划_02分层理论",
+    "lesson_time": "05:1714"
+},
+{
+    "lesson_id": "479-6176",
+    "lesson_name": "Linux网络编程实战_02项目规划_03模块规划",
+    "lesson_time": "03:2615"
+},
+{
+    "lesson_id": "479-6919",
+    "lesson_name": "Linux网络编程实战_02项目规划_04开发模型选择",
+    "lesson_time": "06:4516"
+},
+{
+    "lesson_id": "479-6920",
+    "lesson_name": "Linux网络编程实战_03Monkey源码分析_01_02简介及主流程1",
+    "lesson_time": "10:1917"
+},
+{
+    "lesson_id": "479-7022",
+    "lesson_name": "Linux网络编程实战_03Monkey源码分析_03监听及请求处理",
+    "lesson_time": "14:1718"
+},
+{
+    "lesson_id": "479-7023",
+    "lesson_name": "Linux网络编程实战_03Monkey源码分析_04connect模块",
+    "lesson_time": "07:5519"
+},
+{
+    "lesson_id": "479-7108",
+    "lesson_name": "Linux网络编程实战_03Monkey源码分析_05并发处理",
+    "lesson_time": "16:4720"
+},
+{
+    "lesson_id": "479-7852",
+    "lesson_name": "Linux网络编程实战_03Monkey源码分析_06Request模块",
+    "lesson_time": "06:2321"
+},
+{
+    "lesson_id": "479-7853",
+    "lesson_name": "Linux网络编程实战_03Monkey源码分析_07HTTP模块",
+    "lesson_time": "04:1022"
+},
+{
+    "lesson_id": "479-8047",
+    "lesson_name": "Linux网络编程实战_03Monkey源码分析_10错误及日志",
+    "lesson_time": "12:2423"
+},
+{
+    "lesson_id": "479-8055",
+    "lesson_name": "Linux网络编程实战_04定制化开发_01签名服务器",
+    "lesson_time": "12:3024"
+},
+{
+    "lesson_id": "479-8056",
+    "lesson_name": "Linux网络编程实战_04定制化开发_02定制化开发_01POST方法",
+    "lesson_time": "08:0325"
+},
+{
+    "lesson_id": "479-8057",
+    "lesson_name": "Linux网络编程实战_04定制化开发_02定制化开发_02应用协议设计",
+    "lesson_time": "11:3226"
+},
+{
+    "lesson_id": "479-8058",
+    "lesson_name": "Linux网络编程实战_04定制化开发_02定制化开发_03程序接口设计",
+    "lesson_time": "06:5727"
+},
+{
+    "lesson_id": "479-8513",
+    "lesson_name": "Linux网络编程实战_04定制化开发_02定制化开发_04程序框架",
+    "lesson_time": "10:4928"
+},
+{
+    "lesson_id": "479-8514",
+    "lesson_name": "Linux网络编程实战_04定制化开发_02定制化开发_05签名处理_01主流程",
+    "lesson_time": "12:4829"
+},
+{
+    "lesson_id": "479-8515",
+    "lesson_name": "Linux网络编程实战_04定制化开发_02定制化开发_05签名处理_02消息模块",
+    "lesson_time": "10:1330"
+},
+{
+    "lesson_id": "479-8983",
+    "lesson_name": "Linux网络编程实战_04定制化开发_02定制化开发_05签名处理_03签名事务完整流程",
+    "lesson_time": "05:5631"
+},
+{
+    "lesson_id": "479-8984",
+    "lesson_name": "Linux网络编程实战_04定制化开发_02定制化开发_05签名处理_04RSA算法模拟器",
+    "lesson_time": "11:2332"
+},
+{
+    "lesson_id": "479-8985",
+    "lesson_name": "Linux网络编程实战_04定制化开发_02定制化开发_05签名处理_05签名实现",
+    "lesson_time": "07:2833"
+},
+{
+    "lesson_id": "479-9308",
+    "lesson_name": "Linux网络编程实战_04定制化开发_02定制化开发_06签名验证",
+    "lesson_time": "08:1734"
+},
+{
+    "lesson_id": "595-8672",
+    "lesson_name": "项目简介",
+    "lesson_time": "08:331"
+},
+{
+    "lesson_id": "595-8673",
+    "lesson_name": "需求分析",
+    "lesson_time": "10:212"
+},
+{
+    "lesson_id": "595-8674",
+    "lesson_name": "搭建系统框架",
+    "lesson_time": "23:533"
+},
+{
+    "lesson_id": "595-8675",
+    "lesson_name": "配置相关环境",
+    "lesson_time": "29:454"
+},
+{
+    "lesson_id": "595-8676",
+    "lesson_name": "实现启动页动画效果",
+    "lesson_time": "18:095"
+},
+{
+    "lesson_id": "595-8677",
+    "lesson_name": "实现启动页播放视频",
+    "lesson_time": "23:296"
+},
+{
+    "lesson_id": "595-8678",
+    "lesson_name": "增加地理定位功能",
+    "lesson_time": "20:357"
+},
+{
+    "lesson_id": "595-8679",
+    "lesson_name": "实现加载等待提示效果",
+    "lesson_time": "21:538"
+},
+{
+    "lesson_id": "595-8680",
+    "lesson_name": "实现注册步骤",
+    "lesson_time": "20:129"
+},
+{
+    "lesson_id": "595-8681",
+    "lesson_name": "实现选择国家地区列表",
+    "lesson_time": "21:0710"
+},
+{
+    "lesson_id": "595-8682",
+    "lesson_name": "实现头像设置",
+    "lesson_time": "12:3011"
+},
+{
+    "lesson_id": "595-8683",
+    "lesson_name": "添加付款方式",
+    "lesson_time": "32:0312"
+},
+{
+    "lesson_id": "595-8918",
+    "lesson_name": "实现侧栏展示页面",
+    "lesson_time": "21:1713"
+},
+{
+    "lesson_id": "595-8919",
+    "lesson_name": "实现手机号确认页面",
+    "lesson_time": "13:1714"
+},
+{
+    "lesson_id": "595-8920",
+    "lesson_name": "实现设置页面",
+    "lesson_time": "24:2715"
+},
+{
+    "lesson_id": "595-8994",
+    "lesson_name": "加入百度地图sdk",
+    "lesson_time": "16:3716"
+},
+{
+    "lesson_id": "595-8995",
+    "lesson_name": "显示附近车辆",
+    "lesson_time": "13:0717"
+},
+{
+    "lesson_id": "595-8996",
+    "lesson_name": "实时刷新车辆位置",
+    "lesson_time": "10:1418"
+},
+{
+    "lesson_id": "595-8997",
+    "lesson_name": "获取车辆到达时间",
+    "lesson_time": "08:5419"
+},
+{
+    "lesson_id": "595-8998",
+    "lesson_name": "实现车辆切换功能",
+    "lesson_time": "23:3120"
+},
+{
+    "lesson_id": "595-8999",
+    "lesson_name": "显示各车型达到信息",
+    "lesson_time": "18:1121"
+},
+{
+    "lesson_id": "595-9000",
+    "lesson_name": "实现费用估算界面",
+    "lesson_time": "16:1922"
+},
+{
+    "lesson_id": "595-9001",
+    "lesson_name": "实现移动图钉定位",
+    "lesson_time": "20:3623"
+},
+{
+    "lesson_id": "595-9002",
+    "lesson_name": "增加地理搜索",
+    "lesson_time": "21:0024"
+},
+{
+    "lesson_id": "595-9003",
+    "lesson_name": "显示轨迹路线",
+    "lesson_time": "18:0825"
+},
+{
+    "lesson_id": "595-9004",
+    "lesson_name": "增加消息推送",
+    "lesson_time": "20:0526"
+},
+{
+    "lesson_id": "595-9005",
+    "lesson_name": "项目总结",
+    "lesson_time": "08:3727"
+},
+{
+    "lesson_id": "788-11411",
+    "lesson_name": "文件信息相关函数",
+    "lesson_time": "23:191"
+},
+{
+    "lesson_id": "788-11412",
+    "lesson_name": "文件操作相关函数",
+    "lesson_time": "16:332"
+},
+{
+    "lesson_id": "788-11413",
+    "lesson_name": "文件操作相关函数封装及测试",
+    "lesson_time": "21:083"
+},
+{
+    "lesson_id": "788-11414",
+    "lesson_name": "文件内容相关操作-1",
+    "lesson_time": "21:274"
+},
+{
+    "lesson_id": "788-11415",
+    "lesson_name": "文件内容相关操作-2",
+    "lesson_time": "18:225"
+},
+{
+    "lesson_id": "788-11416",
+    "lesson_name": "文件内容相关操作-3",
+    "lesson_time": "19:496"
+},
+{
+    "lesson_id": "788-11417",
+    "lesson_name": "文件内容相关操作-4",
+    "lesson_time": "21:267"
+},
+{
+    "lesson_id": "788-11418",
+    "lesson_name": "目录函数库相关操作",
+    "lesson_time": "12:048"
+},
+{
+    "lesson_id": "788-11419",
+    "lesson_name": "读取目录中的所有文件及目录操作",
+    "lesson_time": "24:339"
+},
+{
+    "lesson_id": "788-11420",
+    "lesson_name": "常用目录操作封装及验证",
+    "lesson_time": "36:5010"
+},
+{
+    "lesson_id": "788-11421",
+    "lesson_name": "fileinfo函数库的使用",
+    "lesson_time": "12:5911"
+},
+{
+    "lesson_id": "26-3637",
+    "lesson_name": "系统原生网络操作(Native)方法介绍",
+    "lesson_time": "03:351"
+},
+{
+    "lesson_id": "26-3638",
+    "lesson_name": "获取一个二维码",
+    "lesson_time": "11:562"
+},
+{
+    "lesson_id": "26-3639",
+    "lesson_name": "获取天气预报",
+    "lesson_time": "15:143"
+},
+{
+    "lesson_id": "26-3640",
+    "lesson_name": "优化UI显示速度",
+    "lesson_time": "05:084"
+},
+{
+    "lesson_id": "26-3641",
+    "lesson_name": "REST架构和JSON",
+    "lesson_time": "10:025"
+},
+{
+    "lesson_id": "26-3642",
+    "lesson_name": "使用Alamofire",
+    "lesson_time": "14:126"
+},
+{
+    "lesson_id": "26-3643",
+    "lesson_name": "注册API",
+    "lesson_time": "08:057"
+},
+{
+    "lesson_id": "26-3644",
+    "lesson_name": "将JSON结果对象化",
+    "lesson_time": "18:208"
+},
+{
+    "lesson_id": "26-3645",
+    "lesson_name": "显示图片到UI",
+    "lesson_time": "05:269"
+},
+{
+    "lesson_id": "797-11558",
+    "lesson_name": "Thinkphp5商城项目实战课程介绍",
+    "lesson_time": "11:161"
+},
+{
+    "lesson_id": "797-11559",
+    "lesson_name": "Thinkphp5安装与配置",
+    "lesson_time": "13:032"
+},
+{
+    "lesson_id": "797-11560",
+    "lesson_name": "程序设计",
+    "lesson_time": "14:513"
+},
+{
+    "lesson_id": "797-11561",
+    "lesson_name": "前后台模板搭建",
+    "lesson_time": "15:204"
+},
+{
+    "lesson_id": "797-11562",
+    "lesson_name": "无限分类模块设计",
+    "lesson_time": "15:595"
+},
+{
+    "lesson_id": "797-11563",
+    "lesson_name": "无限分类模块代码实现",
+    "lesson_time": "29:076"
+},
+{
+    "lesson_id": "797-11564",
+    "lesson_name": "无限分类之使用ajax",
+    "lesson_time": "16:167"
+},
+{
+    "lesson_id": "797-11565",
+    "lesson_name": "商品模块设计",
+    "lesson_time": "21:548"
+},
+{
+    "lesson_id": "797-11566",
+    "lesson_name": "添加商品代码实现",
+    "lesson_time": "15:209"
+},
+{
+    "lesson_id": "797-11567",
+    "lesson_name": "修改商品代码实现",
+    "lesson_time": "26:5210"
+},
+{
+    "lesson_id": "797-11735",
+    "lesson_name": "商品多图上传插件",
+    "lesson_time": "20:0911"
+},
+{
+    "lesson_id": "797-11736",
+    "lesson_name": "auth角色模块设计",
+    "lesson_time": "16:1212"
+},
+{
+    "lesson_id": "797-11737",
+    "lesson_name": "auth角色模块代码实现",
+    "lesson_time": "34:1213"
+},
+{
+    "lesson_id": "797-11966",
+    "lesson_name": "redis介绍及安装",
+    "lesson_time": "15:2214"
+},
+{
+    "lesson_id": "797-11967",
+    "lesson_name": "redis使用方法",
+    "lesson_time": "12:3815"
+},
+{
+    "lesson_id": "797-11968",
+    "lesson_name": "前台分类展示实现",
+    "lesson_time": "27:3516"
+},
+{
+    "lesson_id": "797-11969",
+    "lesson_name": "前台商品展示实现",
+    "lesson_time": "24:3117"
+},
+{
+    "lesson_id": "797-11970",
+    "lesson_name": "项目优化",
+    "lesson_time": "25:2618"
+},
+{
+    "lesson_id": "8-3590",
+    "lesson_name": "第一讲 程序员的进阶之路",
+    "lesson_time": "11:191"
+},
+{
+    "lesson_id": "8-3591",
+    "lesson_name": "第二讲 数组与链表",
+    "lesson_time": "13:282"
+},
+{
+    "lesson_id": "8-3592",
+    "lesson_name": "第三讲 热身战：Reverse数组以及大O表达式",
+    "lesson_time": "13:253"
+},
+{
+    "lesson_id": "8-3593",
+    "lesson_name": "第四讲 热身战：斐波那契数列的递归实现",
+    "lesson_time": "09:244"
+},
+{
+    "lesson_id": "8-3594",
+    "lesson_name": "第五讲 进阶战：Reverse链表",
+    "lesson_time": "10:085"
+},
+{
+    "lesson_id": "8-3595",
+    "lesson_name": "第六讲 小挑战：约瑟夫环问题",
+    "lesson_time": "13:566"
+},
+{
+    "lesson_id": "8-3596",
+    "lesson_name": "第七讲 热身战：合并两个排好序的链表",
+    "lesson_time": "13:277"
+},
+{
+    "lesson_id": "8-3597",
+    "lesson_name": "第八讲 进阶战：归并排序",
+    "lesson_time": "12:278"
+},
+{
+    "lesson_id": "8-3598",
+    "lesson_name": "第九讲 小挑战 ：快速排序",
+    "lesson_time": "15:009"
+},
+{
+    "lesson_id": "8-3599",
+    "lesson_name": "第十讲 热身战：折半搜索法",
+    "lesson_time": "09:1410"
+},
+{
+    "lesson_id": "8-3600",
+    "lesson_name": "第十一讲 进阶战： 折半搜索法 - 迭代",
+    "lesson_time": "14:1211"
+},
+{
+    "lesson_id": "8-3601",
+    "lesson_name": "第十二讲 小挑战：字符串搜索（strStr）",
+    "lesson_time": "13:0812"
+},
+{
+    "lesson_id": "8-3602",
+    "lesson_name": "第十三讲 挑战： 2sum问题求解",
+    "lesson_time": "08:5913"
+},
+{
+    "lesson_id": "8-3603",
+    "lesson_name": "第十四讲：热身战：Binary Search-使用二叉搜索树",
+    "lesson_time": "14:0314"
+},
+{
+    "lesson_id": "8-3604",
+    "lesson_name": "第十五讲 遍历二叉树 - 基于递归的DFS（前序，中序，后续）",
+    "lesson_time": "05:1815"
+},
+{
+    "lesson_id": "8-3605",
+    "lesson_name": "第十六讲：基于递归的BFS（Level-order）",
+    "lesson_time": "06:3816"
+},
+{
+    "lesson_id": "8-3606",
+    "lesson_name": "第十七讲 栈和队列的概念",
+    "lesson_time": "09:4017"
+},
+{
+    "lesson_id": "8-3607",
+    "lesson_name": "第十八讲 进阶战：遍历二叉树 - 基于栈的DFS",
+    "lesson_time": "11:0118"
+},
+{
+    "lesson_id": "8-3608",
+    "lesson_name": "第十九讲 进阶战：遍历二叉树 - 基于队列的BFS",
+    "lesson_time": "09:1919"
+},
+{
+    "lesson_id": "8-3609",
+    "lesson_name": "第二十讲：小挑战：表达式求值",
+    "lesson_time": "10:1020"
+},
+{
+    "lesson_id": "8-3610",
+    "lesson_name": "第二十一讲：小挑战：表达式求值（2）",
+    "lesson_time": "04:3021"
+},
+{
+    "lesson_id": "8-3611",
+    "lesson_name": "第二十二讲 热身战：使用数组表达完全二叉树 - 二叉堆",
+    "lesson_time": "10:3322"
+},
+{
+    "lesson_id": "8-3612",
+    "lesson_name": "第二十三讲 进阶战：寻找一组数中最大的k个数  (1)",
+    "lesson_time": "12:0323"
+},
+{
+    "lesson_id": "8-3613",
+    "lesson_name": "第二十四讲 进阶战：寻找一组数中最大的k个数  (2)",
+    "lesson_time": "08:5424"
+},
+{
+    "lesson_id": "8-3614",
+    "lesson_name": "第二十五讲 小挑战：合并k个sorted list",
+    "lesson_time": "14:3525"
+},
+{
+    "lesson_id": "8-3615",
+    "lesson_name": "第二十六讲 热身战：图的表达与遍历 - 邻接矩阵 和 邻接表",
+    "lesson_time": "08:4326"
+},
+{
+    "lesson_id": "8-3616",
+    "lesson_name": "第二十七讲 热身战：图的表达与遍历 - DFS和BFS遍历",
+    "lesson_time": "14:4027"
+},
+{
+    "lesson_id": "8-3617",
+    "lesson_name": "第二十八讲 输电问题-图的最小生成树（Kruskal's Algorithm）",
+    "lesson_time": "14:5228"
+},
+{
+    "lesson_id": "8-3618",
+    "lesson_name": "第二十九讲 输电问题-图的最小生成树（Kruskal's Algorithm）（2）",
+    "lesson_time": "10:5029"
+},
+{
+    "lesson_id": "8-3619",
+    "lesson_name": "第三十讲 另一种图的最小生成树算法（Prim's Algorithm）",
+    "lesson_time": "11:5030"
+},
+{
+    "lesson_id": "8-3620",
+    "lesson_name": "第三十一讲 Prim算法的实现 （基于Fibonacci Heap）",
+    "lesson_time": "06:4331"
+},
+{
+    "lesson_id": "8-3621",
+    "lesson_name": "第三十二讲 单源最短路 Dijkstra算法",
+    "lesson_time": "13:1732"
+},
+{
+    "lesson_id": "8-3622",
+    "lesson_name": "第三十三讲 单源最短路 Dijkstra算法的实现",
+    "lesson_time": "15:3233"
+},
+{
+    "lesson_id": "8-3623",
+    "lesson_name": "第三十四讲 强连通子图 DAG以及Top Sort",
+    "lesson_time": "14:4134"
+},
+{
+    "lesson_id": "8-3624",
+    "lesson_name": "第三十五讲 Hash函数和Hash表",
+    "lesson_time": "11:1135"
+},
+{
+    "lesson_id": "8-3625",
+    "lesson_name": "第三十六讲 进阶战：2sum - 使用hashset 时间以及空间复杂度分析",
+    "lesson_time": "08:1136"
+},
+{
+    "lesson_id": "8-3626",
+    "lesson_name": "第三十七讲 进阶战：strStr(子字符串查找) - 使用rolling hash O(n)",
+    "lesson_time": "12:3337"
+},
+{
+    "lesson_id": "8-3627",
+    "lesson_name": "第三十八讲 挑战：Word Ladder (基于字典的字符串转换游戏)",
+    "lesson_time": "15:0638"
+},
+{
+    "lesson_id": "8-3628",
+    "lesson_name": "第三十九讲 使用动态规划解决Fibonacci数列和背包问题",
+    "lesson_time": "12:1339"
+},
+{
+    "lesson_id": "8-3629",
+    "lesson_name": "第四十讲 Longest common subsequence 动态规划解法",
+    "lesson_time": "12:3640"
+},
+{
+    "lesson_id": "8-3630",
+    "lesson_name": "第四十一讲 多源最短路Floyd算法",
+    "lesson_time": "16:1741"
+},
+{
+    "lesson_id": "8-3631",
+    "lesson_name": "第四十二讲 综合挑战：Word Break (给定字典对字符串分词)",
+    "lesson_time": "11:4742"
+},
+{
+    "lesson_id": "8-3632",
+    "lesson_name": "最后一讲：总结与展望",
+    "lesson_time": "05:1743"
+},
+{
+    "lesson_id": "706-10300",
+    "lesson_name": "全文索引的讲解",
+    "lesson_time": "23:211"
+},
+{
+    "lesson_id": "706-10301",
+    "lesson_name": "sphinx基本概念的介绍",
+    "lesson_time": "09:582"
+},
+{
+    "lesson_id": "706-10302",
+    "lesson_name": "sphinx的安装和测试",
+    "lesson_time": "32:213"
+},
+{
+    "lesson_id": "706-10303",
+    "lesson_name": "coreseek的安装和测试",
+    "lesson_time": "26:094"
+},
+{
+    "lesson_id": "706-10304",
+    "lesson_name": "使用PHP连接sphinx进行测试",
+    "lesson_time": "34:495"
+},
+{
+    "lesson_id": "733-10535",
+    "lesson_name": "win 平台利用 wampserver 快速搭建 php 集成环境",
+    "lesson_time": "21:151"
+},
+{
+    "lesson_id": "733-10536",
+    "lesson_name": "win 平台利用 phpstudy 搭建php运行环境",
+    "lesson_time": "19:042"
+},
+{
+    "lesson_id": "733-10537",
+    "lesson_name": "win 平台利用（apache，mysql，php）独立软件搭建运行环境",
+    "lesson_time": "22:093"
+},
+{
+    "lesson_id": "733-10538",
+    "lesson_name": "简略介绍php 运行模式cli， cgi，fast-cgi， apache 模式",
+    "lesson_time": "08:034"
+},
+{
+    "lesson_id": "733-10539",
+    "lesson_name": "Ubuntu 平台搭建运行环境 1：Mysql数据库安装和连接",
+    "lesson_time": "17:495"
+},
+{
+    "lesson_id": "733-10540",
+    "lesson_name": "Ubuntu 平台搭建运行环境 2：apache 模块方式 运行 php 环境",
+    "lesson_time": "11:536"
+},
+{
+    "lesson_id": "733-10541",
+    "lesson_name": "Ubuntu 平台搭建运行环境 3：nginx + php-fpm 方式运行, php扩展安装和",
+    "lesson_time": "22:177"
+},
+{
+    "lesson_id": "733-10542",
+    "lesson_name": "CentOS 平台搭建运行环境 1：Mysql数据库安装和连接",
+    "lesson_time": "12:048"
+},
+{
+    "lesson_id": "733-10543",
+    "lesson_name": "CentOS 平台搭建运行环境 2：apache 模块方式 运行 php 环境，配置虚拟主机",
+    "lesson_time": "14:489"
+},
+{
+    "lesson_id": "733-10544",
+    "lesson_name": "CentOS 平台搭建运行环境 3：nginx + php-fpm 方式运行, php扩展安装",
+    "lesson_time": "23:4710"
+},
+{
+    "lesson_id": "733-10545",
+    "lesson_name": "Mac 平台使用 xampp 搭建 php运行环境并解析文件目录,配置虚拟主机",
+    "lesson_time": "17:5711"
+},
+{
+    "lesson_id": "754-10845",
+    "lesson_name": "UITableView基础(1)",
+    "lesson_time": "35:381"
+},
+{
+    "lesson_id": "754-10846",
+    "lesson_name": "UITableView基础(2)",
+    "lesson_time": "22:252"
+},
+{
+    "lesson_id": "754-10847",
+    "lesson_name": "UITableViewCell(1)",
+    "lesson_time": "22:503"
+},
+{
+    "lesson_id": "754-10848",
+    "lesson_name": "UITableViewCell(2)",
+    "lesson_time": "12:094"
+},
+{
+    "lesson_id": "754-10849",
+    "lesson_name": "UITableView(5)",
+    "lesson_time": "24:565"
+},
+{
+    "lesson_id": "754-10850",
+    "lesson_name": "iMessage(1)",
+    "lesson_time": "25:476"
+},
+{
+    "lesson_id": "754-10851",
+    "lesson_name": "iMessage(2)",
+    "lesson_time": "27:057"
+},
+{
+    "lesson_id": "754-10852",
+    "lesson_name": "iMessage(3)",
+    "lesson_time": "34:478"
+},
+{
+    "lesson_id": "754-10853",
+    "lesson_name": "iMessage(4)",
+    "lesson_time": "22:469"
+},
+{
+    "lesson_id": "754-10854",
+    "lesson_name": "iMessage(5)",
+    "lesson_time": "12:0610"
+},
+{
+    "lesson_id": "754-10855",
+    "lesson_name": "iMessage(6)",
+    "lesson_time": "40:0611"
+},
+{
+    "lesson_id": "754-10856",
+    "lesson_name": "iMessage(7)",
+    "lesson_time": "18:0312"
+},
+{
+    "lesson_id": "483-6190",
+    "lesson_name": "项目介绍",
+    "lesson_time": "05:091"
+},
+{
+    "lesson_id": "483-6191",
+    "lesson_name": "项目环境及框架",
+    "lesson_time": "24:362"
+},
+{
+    "lesson_id": "483-6192",
+    "lesson_name": "数据模型解析",
+    "lesson_time": "27:113"
+},
+{
+    "lesson_id": "483-6193",
+    "lesson_name": "用户登陆开发",
+    "lesson_time": "11:264"
+},
+{
+    "lesson_id": "483-6194",
+    "lesson_name": "企业新闻模块开发一",
+    "lesson_time": "21:235"
+},
+{
+    "lesson_id": "483-6195",
+    "lesson_name": "企业新闻模块开发二",
+    "lesson_time": "26:426"
+},
+{
+    "lesson_id": "483-6196",
+    "lesson_name": "产品展示模块开发",
+    "lesson_time": "09:257"
+},
+{
+    "lesson_id": "483-6197",
+    "lesson_name": "系统信息设置开发",
+    "lesson_time": "10:448"
+},
+{
+    "lesson_id": "483-6198",
+    "lesson_name": "后台管理入口开发",
+    "lesson_time": "05:589"
+},
+{
+    "lesson_id": "483-6199",
+    "lesson_name": "用户权限控制一",
+    "lesson_time": "17:3510"
+},
+{
+    "lesson_id": "483-6200",
+    "lesson_name": "用户权限控制二",
+    "lesson_time": "38:2011"
+},
+{
+    "lesson_id": "483-6201",
+    "lesson_name": "文章管理模块开发",
+    "lesson_time": "29:3512"
+},
+{
+    "lesson_id": "483-6202",
+    "lesson_name": "产品管理模块开发",
+    "lesson_time": "25:2913"
+},
+{
+    "lesson_id": "483-6203",
+    "lesson_name": "在线留言管理开发",
+    "lesson_time": "09:1814"
+},
+{
+    "lesson_id": "483-6204",
+    "lesson_name": "联系信息展示",
+    "lesson_time": "10:2315"
+},
+{
+    "lesson_id": "483-6205",
+    "lesson_name": "使用memcache提高性能",
+    "lesson_time": "14:3816"
+},
+{
+    "lesson_id": "483-6206",
+    "lesson_name": "项目开发总结",
+    "lesson_time": "33:0417"
+},
+{
+    "lesson_id": "372-3795",
+    "lesson_name": "android NDK技术介绍",
+    "lesson_time": "09:571"
+},
+{
+    "lesson_id": "372-3796",
+    "lesson_name": "NDK入门原理",
+    "lesson_time": "04:452"
+},
+{
+    "lesson_id": "372-3797",
+    "lesson_name": "NDK环境",
+    "lesson_time": "17:423"
+},
+{
+    "lesson_id": "372-3798",
+    "lesson_name": "NDK开发步骤",
+    "lesson_time": "23:564"
+},
+{
+    "lesson_id": "372-3799",
+    "lesson_name": "NDK类型",
+    "lesson_time": "08:285"
+},
+{
+    "lesson_id": "372-3800",
+    "lesson_name": "NDK本地函数静态注册",
+    "lesson_time": "25:246"
+},
+{
+    "lesson_id": "372-3801",
+    "lesson_name": "NDK类型转换",
+    "lesson_time": "11:017"
+},
+{
+    "lesson_id": "372-3802",
+    "lesson_name": "Native类型转换成C类型_1",
+    "lesson_time": "28:088"
+},
+{
+    "lesson_id": "372-3803",
+    "lesson_name": "Native类型转换成C类型_2",
+    "lesson_time": "20:489"
+},
+{
+    "lesson_id": "372-3804",
+    "lesson_name": "C类型转换成Native类型_1",
+    "lesson_time": "20:0910"
+},
+{
+    "lesson_id": "372-3805",
+    "lesson_name": "C类型转换成Native类型_2",
+    "lesson_time": "19:5011"
+},
+{
+    "lesson_id": "423-5374",
+    "lesson_name": "usb基本概念概述",
+    "lesson_time": "13:591"
+},
+{
+    "lesson_id": "423-5375",
+    "lesson_name": "usb controller介绍以及controller驱动移植方法",
+    "lesson_time": "09:262"
+},
+{
+    "lesson_id": "423-5376",
+    "lesson_name": "usb描述符以及传输方式",
+    "lesson_time": "20:413"
+},
+{
+    "lesson_id": "423-5377",
+    "lesson_name": "usb请求块以及提交方式",
+    "lesson_time": "14:544"
+},
+{
+    "lesson_id": "423-5378",
+    "lesson_name": "usb鼠标驱动详解(一)",
+    "lesson_time": "16:225"
+},
+{
+    "lesson_id": "423-5379",
+    "lesson_name": "usb鼠标驱动详解(二)",
+    "lesson_time": "20:546"
+},
+{
+    "lesson_id": "423-5380",
+    "lesson_name": "usb鼠标驱动详解(三)",
+    "lesson_time": "13:537"
+},
+{
+    "lesson_id": "809-11807",
+    "lesson_name": "趣味验证码前言",
+    "lesson_time": "15:061"
+},
+{
+    "lesson_id": "809-11808",
+    "lesson_name": "应用生命周期",
+    "lesson_time": "17:372"
+},
+{
+    "lesson_id": "809-11809",
+    "lesson_name": "UIView基础",
+    "lesson_time": "16:013"
+},
+{
+    "lesson_id": "809-11810",
+    "lesson_name": "UIView属性与方法",
+    "lesson_time": "14:224"
+},
+{
+    "lesson_id": "809-11811",
+    "lesson_name": "ViewController的生命周期",
+    "lesson_time": "16:275"
+},
+{
+    "lesson_id": "809-11812",
+    "lesson_name": "UILabel与UIIamgeView",
+    "lesson_time": "17:466"
+},
+{
+    "lesson_id": "809-11813",
+    "lesson_name": "UIButton",
+    "lesson_time": "15:407"
+},
+{
+    "lesson_id": "809-11814",
+    "lesson_name": "UITextField",
+    "lesson_time": "16:498"
+},
+{
+    "lesson_id": "809-11815",
+    "lesson_name": "其他UI组件简介",
+    "lesson_time": "12:389"
+},
+{
+    "lesson_id": "809-11816",
+    "lesson_name": "AutoLayout",
+    "lesson_time": "14:5710"
+},
+{
+    "lesson_id": "809-11817",
+    "lesson_name": "趣味验证码（上）",
+    "lesson_time": "17:3111"
+},
+{
+    "lesson_id": "809-11818",
+    "lesson_name": "趣味验证码（中）",
+    "lesson_time": "15:5512"
+},
+{
+    "lesson_id": "809-11819",
+    "lesson_name": "趣味验证码（下）",
+    "lesson_time": "11:3713"
+},
+{
+    "lesson_id": "809-11820",
+    "lesson_name": "趣味验证码总结",
+    "lesson_time": "04:4714"
+},
+{
+    "lesson_id": "480-6095",
+    "lesson_name": "C++预处理和宏定义的使用",
+    "lesson_time": "16:321"
+},
+{
+    "lesson_id": "480-6096",
+    "lesson_name": "C++动态分配内存",
+    "lesson_time": "20:592"
+},
+{
+    "lesson_id": "480-6097",
+    "lesson_name": "C++ String类的具体实现",
+    "lesson_time": "17:073"
+},
+{
+    "lesson_id": "480-6098",
+    "lesson_name": "C++链表题",
+    "lesson_time": "24:004"
+},
+{
+    "lesson_id": "480-6099",
+    "lesson_name": "C++字符串的逆序输出",
+    "lesson_time": "12:075"
+},
+{
+    "lesson_id": "480-6100",
+    "lesson_name": "C++实现对数组的降序排列",
+    "lesson_time": "13:296"
+},
+{
+    "lesson_id": "480-6101",
+    "lesson_name": "C++容器和迭代器的使用",
+    "lesson_time": "19:247"
+},
+{
+    "lesson_id": "480-6102",
+    "lesson_name": "C++ const成员函数",
+    "lesson_time": "13:288"
+},
+{
+    "lesson_id": "480-6207",
+    "lesson_name": "C++ static数据成员",
+    "lesson_time": "20:289"
+},
+{
+    "lesson_id": "480-6208",
+    "lesson_name": "C++ 派生类的构造函数",
+    "lesson_time": "16:2910"
+},
+{
+    "lesson_id": "480-6209",
+    "lesson_name": "C++派生类的析构函数",
+    "lesson_time": "10:2111"
+},
+{
+    "lesson_id": "480-6210",
+    "lesson_name": "C++重载、覆盖和隐藏",
+    "lesson_time": "27:0512"
+},
+{
+    "lesson_id": "480-6211",
+    "lesson_name": "C++之为什么使用虚函数",
+    "lesson_time": "18:4313"
+},
+{
+    "lesson_id": "480-6212",
+    "lesson_name": "c++结构体和共用体的sizeof",
+    "lesson_time": "16:2414"
+},
+{
+    "lesson_id": "480-6213",
+    "lesson_name": "C++内存管理",
+    "lesson_time": "19:5815"
+},
+{
+    "lesson_id": "480-6214",
+    "lesson_name": "C++函数参数的值传递、指针传递和引用传递",
+    "lesson_time": "15:3616"
+},
+{
+    "lesson_id": "480-6215",
+    "lesson_name": "C++函数模板的使用",
+    "lesson_time": "14:0017"
+},
+{
+    "lesson_id": "480-6216",
+    "lesson_name": "C++类模板的使用",
+    "lesson_time": "17:3218"
+},
+{
+    "lesson_id": "386-4227",
+    "lesson_name": "Android底层嵌入式包含的知识点1",
+    "lesson_time": "20:011"
+},
+{
+    "lesson_id": "386-4228",
+    "lesson_name": "Android底层嵌入式包含的知识点2",
+    "lesson_time": "20:012"
+},
+{
+    "lesson_id": "386-4229",
+    "lesson_name": "Android底层嵌入式包含的知识点3",
+    "lesson_time": "18:493"
+},
+{
+    "lesson_id": "386-4230",
+    "lesson_name": "Android底层嵌入式包含的知识点4",
+    "lesson_time": "12:214"
+},
+{
+    "lesson_id": "386-4231",
+    "lesson_name": "计算机原理概要1",
+    "lesson_time": "20:095"
+},
+{
+    "lesson_id": "386-4232",
+    "lesson_name": "计算机原理概要2",
+    "lesson_time": "20:076"
+},
+{
+    "lesson_id": "386-4233",
+    "lesson_name": "计算机原理概要3",
+    "lesson_time": "11:477"
+},
+{
+    "lesson_id": "512-6934",
+    "lesson_name": "解锁的设计及实现 项目介绍",
+    "lesson_time": "11:351"
+},
+{
+    "lesson_id": "512-6935",
+    "lesson_name": "解锁的设计与实现 需求分析和UI设计",
+    "lesson_time": "13:012"
+},
+{
+    "lesson_id": "512-6936",
+    "lesson_name": "swift代码详细设计（001）",
+    "lesson_time": "13:203"
+},
+{
+    "lesson_id": "512-6937",
+    "lesson_name": "swift代码详细设计（002）",
+    "lesson_time": "25:024"
+},
+{
+    "lesson_id": "512-6938",
+    "lesson_name": "swift代码详细设计 003",
+    "lesson_time": "17:235"
+},
+{
+    "lesson_id": "512-6939",
+    "lesson_name": "swift代码详细设计 004",
+    "lesson_time": "11:546"
+},
+{
+    "lesson_id": "512-6940",
+    "lesson_name": "swift代码详细设计 005",
+    "lesson_time": "31:077"
+},
+{
+    "lesson_id": "512-6941",
+    "lesson_name": "swift代码详细设计 006",
+    "lesson_time": "09:038"
+},
+{
+    "lesson_id": "512-6942",
+    "lesson_name": "swift项目精简代码",
+    "lesson_time": "03:479"
+},
+{
+    "lesson_id": "234-2022",
+    "lesson_name": "开发环境Xcode详解1",
+    "lesson_time": "21:501"
+},
+{
+    "lesson_id": "234-2023",
+    "lesson_name": "开发环境Xcode详解2",
+    "lesson_time": "20:252"
+},
+{
+    "lesson_id": "234-2024",
+    "lesson_name": "开发环境Xcode详解3",
+    "lesson_time": "20:003"
+},
+{
+    "lesson_id": "234-2025",
+    "lesson_name": "开发环境Xcode详解4",
+    "lesson_time": "20:584"
+},
+{
+    "lesson_id": "234-2026",
+    "lesson_name": "认证和注册",
+    "lesson_time": "20:385"
+},
+{
+    "lesson_id": "234-2027",
+    "lesson_name": "在设备上运行程序",
+    "lesson_time": "20:166"
+},
+{
+    "lesson_id": "234-2028",
+    "lesson_name": "上传应用App到AppStore",
+    "lesson_time": "21:337"
+},
+{
+    "lesson_id": "346-3580",
+    "lesson_name": "iOS触控事件机制",
+    "lesson_time": "17:101"
+},
+{
+    "lesson_id": "346-3581",
+    "lesson_name": "使用手势处理UIGestureRecognizer",
+    "lesson_time": "11:572"
+},
+{
+    "lesson_id": "346-3582",
+    "lesson_name": "点击-UITapGestureRecognizer",
+    "lesson_time": "09:513"
+},
+{
+    "lesson_id": "346-3583",
+    "lesson_name": "缩放UIPinchGestureRecognizer",
+    "lesson_time": "05:174"
+},
+{
+    "lesson_id": "346-3633",
+    "lesson_name": "旋转UIRotationGestureRecognizer",
+    "lesson_time": "06:345"
+},
+{
+    "lesson_id": "346-3634",
+    "lesson_name": "滑动UISwipeGestureRecognizer",
+    "lesson_time": "06:406"
+},
+{
+    "lesson_id": "346-3635",
+    "lesson_name": "平移UIPanGestureRecognizer",
+    "lesson_time": "05:447"
+},
+{
+    "lesson_id": "346-3636",
+    "lesson_name": "长按UILongPressGestureRecognizer",
+    "lesson_time": "04:558"
+},
+{
+    "lesson_id": "346-3809",
+    "lesson_name": "深度解析手势操作事件",
+    "lesson_time": "16:209"
+},
+{
+    "lesson_id": "346-3810",
+    "lesson_name": "自定义手势识别器及使用",
+    "lesson_time": "23:3810"
+},
+{
+    "lesson_id": "768-11159",
+    "lesson_name": "仿网易前言",
+    "lesson_time": "10:101"
+},
+{
+    "lesson_id": "768-11160",
+    "lesson_name": "仿网易准备",
+    "lesson_time": "14:432"
+},
+{
+    "lesson_id": "768-11161",
+    "lesson_name": "ViewController(上)",
+    "lesson_time": "14:453"
+},
+{
+    "lesson_id": "768-11162",
+    "lesson_name": "ViewController(下)",
+    "lesson_time": "16:084"
+},
+{
+    "lesson_id": "768-11163",
+    "lesson_name": "Alamofore",
+    "lesson_time": "11:405"
+},
+{
+    "lesson_id": "768-11164",
+    "lesson_name": "SnapKit",
+    "lesson_time": "15:086"
+},
+{
+    "lesson_id": "768-11165",
+    "lesson_name": "Tableview(上)",
+    "lesson_time": "15:117"
+},
+{
+    "lesson_id": "768-11166",
+    "lesson_name": "Tableview(下)",
+    "lesson_time": "14:238"
+},
+{
+    "lesson_id": "768-11167",
+    "lesson_name": "数据显示",
+    "lesson_time": "16:269"
+},
+{
+    "lesson_id": "768-11279",
+    "lesson_name": "scrollView(上)",
+    "lesson_time": "19:0310"
+},
+{
+    "lesson_id": "768-11280",
+    "lesson_name": "scrollView(下)",
+    "lesson_time": "18:2811"
+},
+{
+    "lesson_id": "768-11281",
+    "lesson_name": "segment(上)",
+    "lesson_time": "15:3112"
+},
+{
+    "lesson_id": "768-11282",
+    "lesson_name": "segment(下)",
+    "lesson_time": "14:2613"
+},
+{
+    "lesson_id": "768-11283",
+    "lesson_name": "下拉刷新",
+    "lesson_time": "09:4014"
+},
+{
+    "lesson_id": "768-11284",
+    "lesson_name": "代码优化(上)",
+    "lesson_time": "17:3215"
+},
+{
+    "lesson_id": "768-11285",
+    "lesson_name": "代码优化(下)",
+    "lesson_time": "12:3716"
+},
+{
+    "lesson_id": "768-11286",
+    "lesson_name": "仿网易新闻首页-尾声",
+    "lesson_time": "05:0817"
+},
+{
+    "lesson_id": "787-11394",
+    "lesson_name": "项目简介及预览",
+    "lesson_time": "04:371"
+},
+{
+    "lesson_id": "787-11395",
+    "lesson_name": "顶部导航的实现",
+    "lesson_time": "23:312"
+},
+{
+    "lesson_id": "787-11396",
+    "lesson_name": "下载部分及尾部页面实现",
+    "lesson_time": "08:313"
+},
+{
+    "lesson_id": "787-11397",
+    "lesson_name": "主体区域实现",
+    "lesson_time": "10:284"
+},
+{
+    "lesson_id": "787-11398",
+    "lesson_name": "读取管理目录中的内容",
+    "lesson_time": "22:045"
+},
+{
+    "lesson_id": "787-11399",
+    "lesson_name": "新建文件夹操作",
+    "lesson_time": "24:276"
+},
+{
+    "lesson_id": "787-11400",
+    "lesson_name": "重命名目录的实现(两种方式的实现)",
+    "lesson_time": "37:007"
+},
+{
+    "lesson_id": "787-11401",
+    "lesson_name": "剪切目录操作",
+    "lesson_time": "16:078"
+},
+{
+    "lesson_id": "787-11402",
+    "lesson_name": "复制目录的操作",
+    "lesson_time": "12:429"
+},
+{
+    "lesson_id": "787-11403",
+    "lesson_name": "删除目录操作",
+    "lesson_time": "13:5010"
+},
+{
+    "lesson_id": "787-11404",
+    "lesson_name": "压缩目录的实现",
+    "lesson_time": "18:5611"
+},
+{
+    "lesson_id": "787-11405",
+    "lesson_name": "目录操作收尾",
+    "lesson_time": "08:1012"
+},
+{
+    "lesson_id": "787-11406",
+    "lesson_name": "新建文件功能的实现",
+    "lesson_time": "10:2313"
+},
+{
+    "lesson_id": "787-11407",
+    "lesson_name": "文件上传功能的实现",
+    "lesson_time": "23:0914"
+},
+{
+    "lesson_id": "787-11408",
+    "lesson_name": "查看文件及解压文件操作",
+    "lesson_time": "27:2315"
+},
+{
+    "lesson_id": "787-11409",
+    "lesson_name": "编辑文件操作",
+    "lesson_time": "17:4916"
+},
+{
+    "lesson_id": "787-11410",
+    "lesson_name": "项目收尾之下载文件、系统信息及返回顶部的操作",
+    "lesson_time": "25:3817"
+}]
